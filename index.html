@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Radar - Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>🔍 Job Radar</h1>
+    <p class="subtitle">Storico annunci e notizie aziendali — area Firenze, chimico/QC</p>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-button active" data-tab="jobs">💼 Annunci</button>
+    <button class="tab-button" data-tab="news">📰 Notizie</button>
+  </nav>
+
+  <main>
+    <section id="jobs" class="tab-panel active">
+      <div class="filters">
+        <input type="text" id="jobs-search" placeholder="Cerca per titolo o azienda...">
+        <select id="jobs-source-filter">
+          <option value="">Tutte le fonti</option>
+        </select>
+      </div>
+      <p id="jobs-count" class="count"></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Titolo</th>
+            <th>Azienda</th>
+            <th>Località</th>
+            <th>Fonte</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="jobs-table-body"></tbody>
+      </table>
+    </section>
+
+    <section id="news" class="tab-panel">
+      <div class="filters">
+        <input type="text" id="news-search" placeholder="Cerca per titolo o azienda...">
+        <select id="news-company-filter">
+          <option value="">Tutte le aziende</option>
+        </select>
+      </div>
+      <p id="news-count" class="count"></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Azienda</th>
+            <th>Titolo</th>
+            <th>Fonte</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="news-table-body"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>Dati aggiornati automaticamente dal cron di Job Radar.</p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
