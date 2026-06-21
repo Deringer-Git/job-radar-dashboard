@@ -61,11 +61,11 @@ function renderNews() {
       const matchesCompany = !company || item.company === company;
       return matchesSearch && matchesCompany;
     })
-    .sort((a, b) => (b.first_seen || "").localeCompare(a.first_seen || ""));
+    .sort((a, b) => (b.pub_date || b.first_seen || "").localeCompare(a.pub_date || a.first_seen || ""));
 
   tbody.innerHTML = filtered.map((item) => `
     <tr>
-      <td data-label="Data">${escapeHtml(item.first_seen)}</td>
+      <td data-label="Data">${escapeHtml(item.pub_date || item.first_seen)}</td>
       <td data-label="Azienda">${escapeHtml(item.company)}</td>
       <td data-label="Titolo">${escapeHtml(item.title)}</td>
       <td data-label="Fonte">${escapeHtml(item.source_publisher)}</td>
