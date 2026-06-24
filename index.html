@@ -14,12 +14,34 @@
   </header>
 
   <nav class="tabs">
-    <button class="tab-button active" data-tab="jobs">💼 Annunci</button>
-    <button class="tab-button" data-tab="news">📰 Notizie</button>
+    <button class="tab-button active" data-tab="news">📰 Notizie</button>
+    <button class="tab-button" data-tab="jobs">💼 Annunci</button>
   </nav>
 
   <main>
-    <section id="jobs" class="tab-panel active">
+    <section id="news" class="tab-panel active">
+      <div class="filters">
+        <input type="text" id="news-search" placeholder="Cerca per titolo o azienda...">
+        <select id="news-company-filter">
+          <option value="">Tutte le aziende</option>
+        </select>
+      </div>
+      <p id="news-count" class="count"></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Azienda</th>
+            <th>Titolo</th>
+            <th>Fonte</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="news-table-body"></tbody>
+      </table>
+    </section>
+
+    <section id="jobs" class="tab-panel">
       <div class="filters">
         <input type="text" id="jobs-search" placeholder="Cerca per titolo o azienda...">
         <select id="jobs-source-filter">
@@ -39,28 +61,6 @@
           </tr>
         </thead>
         <tbody id="jobs-table-body"></tbody>
-      </table>
-    </section>
-
-    <section id="news" class="tab-panel">
-      <div class="filters">
-        <input type="text" id="news-search" placeholder="Cerca per titolo o azienda...">
-        <select id="news-company-filter">
-          <option value="">Tutte le aziende</option>
-        </select>
-      </div>
-      <p id="news-count" class="count"></p>
-      <table>
-        <thead>
-          <tr>
-            <th>Data</th>
-            <th>Azienda</th>
-            <th>Titolo</th>
-            <th>Fonte</th>
-            <th></th>
-          </tr>
-        </thead>
-        <tbody id="news-table-body"></tbody>
       </table>
     </section>
   </main>
