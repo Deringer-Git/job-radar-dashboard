@@ -7819,5 +7819,374 @@
     "source_publisher": "Focus.it",
     "first_seen": "2026-06-26",
     "pub_date": "2024-03-04"
+  },
+  {
+    "id": "news_42593fd23d0bb093",
+    "company": "Lifeanalytics",
+    "title": "Cambia la proprietà, partono i licenziamenti - Collettiva",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFFEMDFKdE1aT0lfYWJGTS1FM3JubVBjOURTbWhOZGtfUGx3QzdSUlk0R3J1RVV6Tjd4VlRmUlFTYUthVDJHSnJFRm9pQkJJNFBTMDBJTm9WUkI3UC1jRG15NmtqOEFHOVZNa1ZIbTJPVWpjYkFYNWpzNmsyeExvZ2ZYTS13emd3UnJxS3dUdDJZZmE3UTBHaVM3OA?oc=5",
+    "source_publisher": "Collettiva",
+    "first_seen": "2026-06-27",
+    "pub_date": "2019-10-03"
+  },
+  {
+    "id": "news_8186464190cf6bec",
+    "company": "Lifeanalytics",
+    "title": "Nuovo test made in Oderzo per rilevare il Covid-19 su tavoli e maniglie Ecco come - Il Gazzettino",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFdBci10YW9vbnk3Zjk1bFNaSVQzZ255aXFtUkdHV0ZHZ05LRXBzdlZKM0x5RW1HYmdqZkt0ejl4UTNnSzdpV2FQSndoV0VWRUFJYm83cU93MmN0RWdZR3JmcjNGVXVsSVhveHNiNGFNXzMxOWpua2daOGFWbHNxQWN3ODRzaXBlVHVpNzBvVFNtbk9xNW5OVnJESkVPYXdsejRqQ21wOXNvbVNWVUxkMEVR0gGsAUFVX3lxTFB2Wi1kbzBlRGVEbUNNcHRkZm1DUmJWZU9fRXNpWjQwT2tkMmwxQ2hmNWNDMVd5LXduT25lM2RXVFR1VHhjTm95Z2lLbk92c2hLdFduQ3pyS2tyNFhuX0xfZ2pDelRIMXJCV0MtaG52cnd3VERtNzJNSmFxUEJZajlWWmN2U0xuWk5WWXFsb3BDNUFSM0FUbXJJTVU0YjZZZ25kck96YmhkaXJUM2Q?oc=5",
+    "source_publisher": "Il Gazzettino",
+    "first_seen": "2026-06-27",
+    "pub_date": "2020-04-16"
+  },
+  {
+    "id": "news_1decb5fec959e4fe",
+    "company": "Laboratorio Empolese",
+    "title": "Tornano i laboratori teatrali a Empoli / Comunicati / Novità / Homepage - comune.empoli.fi.it",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzBpZURYVS1JS3FmM01mbHBVTW93UmtoeXY2RTVCeEM1cFdYMXloRmdobFZydURCVkE4YWZIWklLS185OTNtVEtJUTFwMHdoa0VaSkN6WW1iTEVmWThxLXhRdGJabG9iV0FQNHp2RWg4a080OVlLNlN1WGFfa1JPaXNFakJwRmFiMk9UVlBXcTE1dVk?oc=5",
+    "source_publisher": "comune.empoli.fi.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-09-11"
+  },
+  {
+    "id": "news_16b5577e82e46eaa",
+    "company": "Laboratorio Empolese",
+    "title": "Piazzetta Live a Empoli: settembre tra sport, creatività e movimento all’aria aperta - Firenze e dintorni",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNX0FmcHM1Yk94OTVnRENETF9pVDg2OWd5T3RFN0xsN0lWdDZPUlNQZklydW1aNDVqZjlhSlR3d2VnM1BnLTdiRXlqTjF5QTRscVJwaTRwZnFHaWdKV3dqUDBQT21ITEtEOGdRQWxhd0xXWEg4RTJVbk5mb1o3UFV1NTg0U01qSzllN1FGYWJuUVAtRWljTlpjTkx3ZlBhM21oM09tM1g4T0NfeXBuX3B1TkEyVE1Vbm03UjliSEh3LXU2a2RrZTZ5YXlqSzNFa25DLW1LcXI3NURualVjZ0l2NDhSUjRuN0NVRzdKN3lVeVZhRFhnMFhPWDBVeC1KY2RIOXNvMi1jNlFCWGxiYTRFVElEc3R5a1ZMbFpfZ0J6WQ?oc=5",
+    "source_publisher": "Firenze e dintorni",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-09-06"
+  },
+  {
+    "id": "news_43220d1df92be7c2",
+    "company": "Laboratorio Empolese",
+    "title": "Noi da Grandi inaugura il negozio in centro a Empoli: protagonista il caffè dell'associazione - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmpHVmRjMzdldmk5RkZqT21GMDA3MGNwSWdNbkh3SGFneHZQTXBtU2s2Sk90VzdMNnVZS1NsZERQQ0d3N19KTmNaZzhlZkNqa3lRTXU1WmwxWGdIaXpkSWk0RTg4cVJqR2MxcWJlUDdMUUppQ1p6V29GWWpFNnd3QkVFWFJoa0lNR1HSAZIBQVVfeXFMTXI0R2drZGhZSWxKYjdEY2VIR1NxczRvRDJYak03RllSMmdOMU9KMG9TMlRQVTNjZVBMUldIaGlrdi1XUXZMX3FNOXhpX1FZSmVqb0o1elQ1VXNtOXJFakJzRXdxUktRNjNZNF96aGwyZWpiUnFxa0FWMnF4dFpFQnNwT3VrZUFGYW5YSUctSFR1Tnc?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-04-08"
+  },
+  {
+    "id": "news_c44d425e6c923bd0",
+    "company": "Laboratorio Empolese",
+    "title": "Narcos colombiani, il chimico, le microspie: così è stata scoperta la fabbrica di cocaina. Le immagini del laboratorio segreto - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWWg0MWZuSjlPd1NMVDFZcEU3aUV1XzlCVE9GRmlQdGhqWERGckFRcDhiRGYyNmV0LXlCdVNTYnc3ZVc2dEYxcml6OFpETW1fRl9obU1xWjkxWmtRbW1yWTdGeUhXYnZ2Rjk3MEJIOGFWTjg?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-01-28"
+  },
+  {
+    "id": "news_577f5b241ebf4ee2",
+    "company": "Laboratorio Empolese",
+    "title": "Un casolare di Fucecchio era un laboratorio di cocaina: quattro arresti - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1Y2azRrYzByOXMwcFk5N0xSSWR3cTJwZzRZTnhfblpfX2VrNEdScGJDOG1hVWFWQkRxMnk5X0RCT2NsemNMZHlmaDZlZ05yakJrTjEtYWpyY0U1V0kwckFQaDV5WW91T0FVZWpnVVBOei10TTFnYWRuMEdDeExWQlBMaU9Lbl8z0gGQAUFVX3lxTE9DNkdHQkt4YnZTV213bnhHRVNQcTdWSXNZeXhNYUJtYjBUb3BRM3h6SWpCc1E3ckhLNVktNmFsUnRETjRIZmF3dlZ4ZUFOQ19iWXZPSWpVeHZtM1ZJamtlOW5tem1aMHoyWDBCeE9URnZaZmE1b3dIVzhsRFhpOFdvcWN2VzdpZHRaSXJDMl9jdQ?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-01-28"
+  },
+  {
+    "id": "news_3aa575d5172ad3b4",
+    "company": "Laboratorio Empolese",
+    "title": "È allarme sanità. ​​​​​​“Personale allo stremo. Servono assunzioni per salvare i servizi” - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFdZMTBXalRXbjQtNVdHYkh3cHN0cjZ0MkpLLUxVUzdjUU5kMzZFYXBleDVUdFV2TktwNURHVTBXakFjc3pqbFdiWU1xN2hUOWlGRE5oYjZ2TWl4N1dVQ1Z1OUtZZDVOQzNxUDV4eDBlX0RlWWY5aVNuVzloa1o2dHVlc2plaXFNM2E1QmhoNVJORFZ4OVp5T3RmeG5mZWw0TTltUGVtLWx1SnpOMFR2ZnppajMwUGRxNU9xMWNhb3EtQjMwNWR3?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-05-22"
+  },
+  {
+    "id": "news_d124c2f269c51aa8",
+    "company": "Laboratorio Empolese",
+    "title": "Sembra una serie Netflix: vestiti impregnati di cocaina, 40 chili di droga purissima. Scoperto il laboratorio dei narcos - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzFOam1GY1I2Q3BBZUJxRzI3X2pSRGNLcXhzNkN5aFJHNHU5ZlBHUVczTmhZWXRIM1llWnM2VGNKbHRwY2VWNUkzbHA5Wkxya2VLQTk2TmE0Q2pnZk4tVlpEZDA0R1dBMEtkZVFma0xiVGlpUnBKSnFZVWI0OEZ3SGhDVW5NV1pnUDMyYnNZUWJ4VzBqWHJZRlB4U2NmZw?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-01-27"
+  },
+  {
+    "id": "news_5edc00c50400822e",
+    "company": "Laboratorio Empolese",
+    "title": "A scuola di teatro. Laboratori al via per tutte le età - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUVsNEs2Y1IxNUJZNzlIc29SOGM4bFZ4VTlRWFVYRTVKbGpPZ0h4RGJtWGxNTEd1bTYza09MdGU0c3pmV1FXVFZnbGRvbDdJTHlpNUFtU3d1RzJKWFlCbWJCWTlsZE1ZeFRoX1hJMzdPWmswSzlMVjVUV1JNM3FDZG9yajk?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-09-13"
+  },
+  {
+    "id": "news_e2bb5f2b2145c934",
+    "company": "Laboratorio Empolese",
+    "title": "Marzo sta arrivando e a Palazzo Leggenda c’è un nuovo programma di attività / Comunicati / Novità / Homepage - comune.empoli.fi.it",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmdQejVnbjhQSUI3empDWVVRQ2JWNGVtMHFlVTlIMjNUSHpUMC1sVEhsUElNVzhyYml1QmdqcVJsNktHT1V0dTI3Z0JsSjhrYy1tXzJtLUJrbXFsQXd0aDEzUUtObVIwOHZVazlqWU9DOUpJSGk1bHpWeDh2U0szTW9hX25KdDlhV0FtNTJsU042NnJILVlpUlFnRDhKY2VtU1BULUFVMG1SZnZ3eHBBaFFUQk9NUnBFWWZ1VXRvR2hhZFk?oc=5",
+    "source_publisher": "comune.empoli.fi.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-02-27"
+  },
+  {
+    "id": "news_761f2e33d2425055",
+    "company": "Laboratorio Empolese",
+    "title": "Palazzo Leggenda, tante iniziative fra storie e laboratori / Comunicati / Novità / Homepage - comune.empoli.fi.it",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejd6X3pEOWNrUDlrVjlzcFNxUi1UdkZGaXNIUE9kMjhrTjR2U2dtZG5UU0I4UUdLWF9FaW5vYkdfY3BoS3JCQWVGaUhIRjMwd0loeWd5V0psTjVYbGFGazlJZzJldGdGWno2OFBXTlk1Q1AwZnVHNDVCU3pYcG1ZZFNNUEZkVVZDcEh1NFpJOWtEeWtNd2llYjcyT2tSRVhJNzh3bkZWZHVBMkk?oc=5",
+    "source_publisher": "comune.empoli.fi.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2024-01-29"
+  },
+  {
+    "id": "news_37ac2275a62b74cf",
+    "company": "Laboratorio Empolese",
+    "title": "Giornata internazionale della donna, tutti gli eventi. Vivere la cultura contro la violenza - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFdNd1dmbW4tY1BwZUlQNWNycnNqd1AxWXo3aW1JQ0VneWpBMC01RWd2UjdrZXEwZkVUbFc0aFZ2OExaeWhqS0hOQzlDMkV1OFZ3T3RuV0pGS0VrRHhzTG1iNXVTeGlnZGpobm8tekpJV1RDTEhtcVlDMjllVzZmTElB?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-03-05"
+  },
+  {
+    "id": "news_934bb902a3024cb7",
+    "company": "Laboratorio Empolese",
+    "title": "Nuove opportunità di lavoro a Empoli: CEAM cerca figure professionali - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOVDR4SVVPNVFPVVZvRGxobTk1S2dzM3JkRERPRmxJU00wU1lRX0lxQ3NQeVBfV2dMV2M0T0U3bkRBZlQzeFVsZDdZQ0FZNElRSElTNHFhamVlMk80cnNxWVo4VlFDN2VfR0VPcGEzTTN4WF85X0dXcTUxRljSAYQBQVVfeXFMT1JtYUU1WDJfZlhZa2dmQUxXcmZfdDBJRFE1eEVMelhoRWV5YmhzWnJlUk1yUlZZTjUwY09WbWRuU0xFMnpEOC1Gc0J3VkNBc2VuQTJSYU52MUZtLXZGWWlZRHRjcEpkWUZWb3hFOFMwZWZ2bE9wRy1IcnFwX0x0WHkyMG5j?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-02-26"
+  },
+  {
+    "id": "news_2a13eb2f5901024b",
+    "company": "Laboratorio Empolese",
+    "title": "Fibra, partono i ‘ripristini’. “Dopo la diffida alle aziende arrivano le asfaltature” - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjZpM2lzbktBTlNLMFZQb2VFSkRCSDBFenVaRDNDeE1kY2RfWmVGRVBrVE5SWUdqVHk1LWtmUDIyZ2pZYzJ2SklNWHVlSEM5QlpPMjRORFlHenlabXFDOFl3WTQtWEJCMkprb0RCemxZS09icDlTNGY1SzVkUzRTeG5jSQ?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-05-13"
+  },
+  {
+    "id": "news_e1a32a0060099898",
+    "company": "Laboratorio Empolese",
+    "title": "Ecco l’opera, si apre con la Turandot - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWdCSFlRWXNsMzZnZUpXeUo2SDVQaVlJeXo4c2habUdScmR4QlJSMno2MjhNekhINzgwUzh6UHk4bUpPTlk5LThnLXlUdmRkd0U0a1QtR25QY0p0SjdMdFY3SlMxSTZTVHpNMFZJV0NIMDVWQVgxcS1zdzRfRng4Z1VUWl94aV84ZjU3bA?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2024-07-04"
+  },
+  {
+    "id": "news_649d06a3038d4bc9",
+    "company": "Laboratorio Empolese",
+    "title": "A lezione dal robot La Vanghetti fa scuola con la cyber didattica \"Risultati importanti\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlYyc3NYczFzU0xCRkRRR0JuWGZQN2hzMlB2OWRmZXJGVDEwYzdQbDJYbUlDblZfbDhhRmJEdEozWEZhVjk1ejE0Rlo0LXRYaG13aUZRVDZPT1R5UjZsT1JTSlFkYVZ3NTlLQlAxV19EUkhGVzlzN0R3MnRBbW5ob2kyTTlVdFY4ZDlDd1VSVXB1cTdLTGdsMWJVc0kwcWNGRDFjQzRldWZmMXY3Y0tCMXZCc0VZbkRJNkxYaVdMZmlyTEp6Ykt3eC1ySDZwNHM2?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2023-05-16"
+  },
+  {
+    "id": "news_72ee0fcfbe1ef206",
+    "company": "Laboratorio Empolese",
+    "title": "Raffineria della coca: \"Pericolo d’incendio per i reagenti trovati\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGduQno2THN1emx1RjhQRnRhNXZfUHROS2JIbVlsMkNYZFBkQXV2N0NEY0hFU3prS1JxSUVjWjFuZ3k4V1N0UTdaQlNOajgtTTVDMzV2WVhjUDljZm5PYk9PdDRFaU10X19UeWtKVVFBT1d5SUVpU29jVHFXQXB2bkRMYlZBRDBvMXhvTGVjY1M5Rlk?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-01-30"
+  },
+  {
+    "id": "news_f57ea94f6dcda79a",
+    "company": "Laboratorio Empolese",
+    "title": "Carnevale 2026 a Empoli, tutte le info - FirenzeToday",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUFRNURLcVA1M3VGWFFIYkZFYW85dVVVNXBYQUFVTDc5dl9XWkRtNlplcVZVTkhydlpIT3Jnem1rV3FTMG1sdkF0RldxdUNIZzhVVi15cjQ3UzA4dWlqd3YxNmR5aXdxM3BaVldpc0RPUFFzM28zT3lDUnEwcjFaZDlnaXZnZE0zV2lNLQ?oc=5",
+    "source_publisher": "FirenzeToday",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-02-04"
+  },
+  {
+    "id": "news_f1dee4f74194da5d",
+    "company": "Laboratorio Empolese",
+    "title": "La sapienza nelle mani. Giuseppina Melani rilega i libri a 87 anni: \"Così mi sento viva\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTh2Q0prZGhHeWxJMzZiSi12WXpYUkVvQ2NrckF4VFRibzlKOEhrMDZVY1FFNzdaQzJWblplbHJnWC1vUnczM0VJTmpPNHNManEwRUFzMkRsZktOZi1uVDBBWmY2YzB3bzBNRTdvNnlSWnlzblBfR2t5bVJNVXIzX0l3TzJWYUJFMklNcUxrOFNPQi1SdnhrT3ZFa05mSXFadXl2MVVpUDZlRjM0MmtNVHpQNnBTU3RhV3VhMnZCeHBYQnByNnA1cHdyR3NjZw?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-06-27",
+    "pub_date": "2024-07-23"
+  },
+  {
+    "id": "news_3363390a599a3ac1",
+    "company": "Laboratorio Empolese",
+    "title": "Biblioteca: giocando con le emozioni, a Empoli un laboratorio dedicato ai bambini - Città Metropolitana di Firenze",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xcUVadVNKLUc3UDliZlhidVl0d1dPZEtndkZTVlRuanBuRTZIbGE0N2pJbjNFa1BsSlJtRTljT042dEdDNzVlVWRWRkVxRENpdTFLQ3dOd1ZtaGFZdlpWeWV4ZHE?oc=5",
+    "source_publisher": "Città Metropolitana di Firenze",
+    "first_seen": "2026-06-27",
+    "pub_date": "2019-02-20"
+  },
+  {
+    "id": "news_0eed31504f507044",
+    "company": "Laboratorio Empolese",
+    "title": "Nuovi laboratori al Ferraris-Brunelleschi di Empoli - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeE9pVHJKZXExbTRnTE1lb24xZkFia1ZISkNjWEtUeTk5eVZDMzQ0ZS1mMWllbmcxaHVEMGxlblYtbWswMjFnYmVLbmJwLXFCejJ6NzdrMTFnVzRtdHBTS2ZNVWJKOWY4b0ExVmhYWFZtMGQ2S0JJQWw5NGJjN2U3TU5sY01fT0ZnMVHSAZIBQVVfeXFMTjViNTZyUkF2cEQ0NnZicHdhT1RiRVFuMzhRSjE0NERxQ0cxUUxWbTM2UmhwUDJ5UldzZll4a0JIM1JCd0htTU1fZUw0WFBxc245WnhZT212bDdKMlV1VV82UVdRT1hwcVluUFYwcVp1MjVNbzI4RFZfanFUS2U1bnBfWWowRzZncTc1TG5ES1ROd3c?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2019-10-28"
+  },
+  {
+    "id": "news_d00fa3ee3c4a78f2",
+    "company": "Laboratorio Empolese",
+    "title": "Empoli, esplosione in una falegnameria, morto il titolare: Francesco aveva 68 anni - Leggo.it",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONUYxOURTSnM4TXpVYzMtSm0wTk5pMEM0NkhUb2RNcWFla1A5VW01ZmI5SGQ4N2ZpVVpmRnkzSnhpM3VnSU5YMC1wSFpNTXFzdl9iRDlKNC03T00wMXlkWHd3R0kxdUlFeklfNHlSREdYV0kteXBDSVphZ2tYcUdZU2lfZDdwMU0zU25jeTBScnFzMnVzd0ZraWkyM19SNEwydXBpWE5SR2theTB6bjh6YTFHeGk2VUpkVWw4VTc4b0NUNDBfZkY2WW5nbE9iXzVmOGfSAcsBQVVfeXFMUDFMR0hQS19zeWc5cGxBRTdpaVM5RUxEbXp1cWo5VnA3cnB0Z0VnZlhSY003YlhCZERhU0RkbXRwYjVXLUtXQUMzbzJubFlJOGRILXFDdW1nTEQ3S0FLUmpWQWxvWl9Qa2xhMjkxNkp3ZmhsZkk2bzFFM1RjY0JEdkpRNV9SRTlQaEp4cEgtOEdqUmJiMmtIQ1FjM2toYlVXc280bENaT3JyZHN4TkFwNG9mR0hUSHhUcEo1bUpxaFp5NzFjTTlJVnB6ekU?oc=5",
+    "source_publisher": "Leggo.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2021-02-09"
+  },
+  {
+    "id": "news_65f26431e66451c7",
+    "company": "Laboratorio Empolese",
+    "title": "Reggio, l’ITE Piria Ferraris Da Empoli si arricchisce di un nuovo laboratorio - CityNow",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2FQcmU1WjNraHh6X3EwUDZFNFpXNWZLdVN3QmNWUDBEU1E0NDJMck9ZaUZKamdIM0hxNVpPX1RNQjlZVVprZnhMdnMwRmlLOVY4UmgwQ0VhRk5Xdm1ZZGFteElFVFl6ZlpVT0N4WjV4Z3RndFdyTjJITjF4YWJLV2NBM2ZNY2ZLaFQ5NE9wbw?oc=5",
+    "source_publisher": "CityNow",
+    "first_seen": "2026-06-27",
+    "pub_date": "2024-09-29"
+  },
+  {
+    "id": "news_f6364979d3b07c33",
+    "company": "ARCHA",
+    "title": "Thailandia: riapre dopo 3 anni la baia di 'The Beach' - La Prealpina",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHl0TVRjRUpXVEdWN3lqdnVFX3dzZlJuZUROZk9GaENtYkY3YUxMY04zeWc5Y29ZLWcwTnllT2JTRkdVVkJQU1VUc3AzWUh2SjRMYnR1OUt3T2JIMUE0Yzcya0pXZWRzXzc1ZHE3aG42c2gzOFF0aXplZy1oLThnT2piTEtBZEdnNFpUcTB3b0stU2JMaVR4Z0JqY1N2VER3elN6RF9tdkhfUQ?oc=5",
+    "source_publisher": "La Prealpina",
+    "first_seen": "2026-06-27",
+    "pub_date": "2022-01-05"
+  },
+  {
+    "id": "news_7be3690254649910",
+    "company": "pH Srl",
+    "title": "Matteo Faustini: «Non sto più male grazie alla musica, ora voglio dare speranza a chi mi ascolta. Un sogno? Tornare a Sanremo» - Leggo.it",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVk1kU3EtWjJKSFRLaXRPVEEtWk1rX29OTkJ3cFhLXzJvaUlBQld5V1hnR05OQ25qOFllN2ExUWtoZlBhUGxLR0U5WE1nMUlXUEswbVNZQlFpLWRYalV0X3h3a3hzUXpqRW1oSk5vcUgzUURHVkkxeVp5cWM0ekpTOFRfSzR4Yjdzdk1PUm5uZjl5YjI5WGRyNFdGZTVOVmgzUnJBS3VSRVZ4WXZ5cTI0T3JQUjNUa3lFOWxkLTlFYmF5amhOc1NFcDdrTTkxN093WldSWlMtVWdOR05oSEx30gHQAUFVX3lxTFByc1Ixc25LV0VYbmZhWExOM0pBRkt2X25iYXdDTFRCcjBJNDNMUFpHTUFqcGY0Q2oyTDhNczEyb1FXZTk1VjZjazNkeGM3Q0hJUVIzVWQ3SkNZMWJMSmpXb213eV95UWo1b04yOHA5VU5VWEdJSUo5OWtIazN5V29zWTBQWVI5S09wR0ItWm9hMFV0azEwZzBVZVZ0MW1wMlJTSF9rQWhYTHJHd29XMko4Q2NoOVdwSjdmZS1mUlA4S0o4SGd6cndpdmJkdWpfNUs?oc=5",
+    "source_publisher": "Leggo.it",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-18"
+  },
+  {
+    "id": "news_ef24fae1ecd94ebc",
+    "company": "pH Srl",
+    "title": "pH Labs – Gruppo TÜV SÜD è diventato Ambasciatore della Fondazione Carta Etica del Packaging - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkMzeHpiSjNfcUxPOGdBN0JlMFZ1eFhrYjN4X3VvN0RkYnp6RDZVWE9tbWYwOFh5bUFaTlBUZWVjWUF6VnpoZDVQVXNyRmZsLURmejFvMHB6Q2RIdEdYYlNOOHU0SE96STZGQ3pMOTZlZHpjTlBBSFhDNTh2cWQ0NEtoMzQ2S3lGTmlILVpGWi0xb2xPRU9PbE4wM19fTHhoQXU5OE83czVreTNsSDRvY3F1MC04Y1R6aUlBM2Vuc1JQVm9Qaks4M3hJNA?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-06-27",
+    "pub_date": "2024-02-22"
+  },
+  {
+    "id": "news_6acab66f22d34a34",
+    "company": "pH Srl",
+    "title": "Aggiornamento – revoca allerta sanitaria Tönnies Fleisch Italia - Stato Quotidiano",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnZNRU5JN0szZURYMEtCclRQMkd0Ty1hOHEtUEdXT01lWXN4NElkd3JnYXlLNTBZbmxBMk41bjFvZEltLUdwcG1BajRhWVdJWW05TVk4azVJWTJXdjJkUkVKbGxKQVhhMXBUUVE3c21XT2M0ZnB5WEhCZ09VUmh4R2dvZ3dNeENsWFNCcUEwZWwxZVdRRDVreVN0dUIyUU10elJyclJGakdNV3JGeHlqOEt3?oc=5",
+    "source_publisher": "Stato Quotidiano",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-04-17"
+  },
+  {
+    "id": "news_abec780ba1e1ef26",
+    "company": "pH Srl",
+    "title": "Manfredonia: affidamento in concessione alla C&C Srl e liquidazione di somme per il servizio Tributi - Stato Quotidiano",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMDlWbGctT2hjWHpCa2NyU3NPY3FNcGw4QkZPNFpzSGxWQW55SXFhUWw5SUlMUi1PRV9pMC1RdEZPRGVZaHdCWFRVVlItMDBVNk1xcVdrREhsVldhZ215b1dOQTNNNTM0cFI4WG9BRmRxMVlvSEFmbTFyeTU2NHgxMEJaMHRVQkF1V0Z6dnVxWnc5cENsUm5PNVF1Ty0tNGEtU0l0RklKUDBxWXpRc3ItN3JTTVVBcTI4TjJMX0VlZlk5dXBaZ2FQQmY1SUEzcU9sdmk0VmJERm8?oc=5",
+    "source_publisher": "Stato Quotidiano",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-02-17"
+  },
+  {
+    "id": "news_06eba07b8f783121",
+    "company": "pH Srl",
+    "title": "Regione Puglia, 1 milione di euro per Alidaunia srl - Stato Quotidiano",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlR1QmJ0eW9WUUhjckgxajF3YmptbjNzbWFTVUxqRjViSEFQVFgtc21ibll3bzhDelBqaTV0MlZGdVFkanEtRnhGSkFrNTN1U2lxN29pVUotcGYzMGJzdUdrb0pzTkc0MHBGS2pONzIzY3RHZlZ1SFRmWFFJc3owcm1hZmxLdWVjUUJ5dmg1a0pKb1lCM1hzZmUzR0xMaTBXQ1E?oc=5",
+    "source_publisher": "Stato Quotidiano",
+    "first_seen": "2026-06-27",
+    "pub_date": "2015-10-06"
+  },
+  {
+    "id": "news_b999b20bd2ab4a5a",
+    "company": "Eli Lilly Sesto Fiorentino",
+    "title": "Quali sono le aziende di Firenze con il maggiore fatturato e quelle più in crescita - FirenzeToday",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0hQSWNTTmxDNFM1ZVBFc1UtZXdmdVJoY0k0Vk1MUTRIal9QWmlkMDJFX1lBY2pzU1dZMVN3QU0tbnl4RG53NWdVMmx4OUpMR1VYQmtrMlB6WEw3U2tFVFhBSllIZmp6YmFpRVN1cnk3Zjd2WWlDdnhkMzU3dEM0X0dETXlxTXBM?oc=5",
+    "source_publisher": "FirenzeToday",
+    "first_seen": "2026-06-27",
+    "pub_date": "2023-12-08"
+  },
+  {
+    "id": "news_d903a33c95055ed3",
+    "company": "Menarini",
+    "title": "Vertenza Menarini, sindacati e operai incontrano il ministro Urso: “Ormai siamo ad un punto decisivo” - Corriere dell'Irpinia",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlpNVkF3OVg0YVk5Ym1vOXVfV2c4U3BxakFZU1JHSUFWd2NOOUY2eXg2eHJEdzB4Rll4WFlNY3d4WFBYcXlTOEZxbHQtaXRMSE9ybkhibUNLQlVfTE16dmpaSFJBRTNKV0l3Wi0wWUdoVmpGcUtYVTk5RFpRMks4R1k4Q19Md0FYcEtFRHhpZWVsQ2RsVmtQZXdiYnE1bWd0aVB1QjRmQThrY3NESlM1c2F4eFd6SVlseS1YQUF5eGVnMUk?oc=5",
+    "source_publisher": "Corriere dell'Irpinia",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-26"
+  },
+  {
+    "id": "news_205b8c6615544483",
+    "company": "Menarini",
+    "title": "Menarini. Urso: La Regione faccia la sua parte - Telenostra",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZmJWVk92OEZHOGUzdGxETmhlRVY4WFZoaFJ2YlNtWFFmZnNKT1dUZ2VmUzA4OTZvaHEtanFzTUZXWC1kN2MzNnptWVdXbTZLTl9GV1lUVnBuYzA2aXowSzBnekVzREppc1JVejI3XzdoeHJPSHZPN1dIZw?oc=5",
+    "source_publisher": "Telenostra",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-26"
+  },
+  {
+    "id": "news_0a6d3ceb4664cb03",
+    "company": "Menarini",
+    "title": "Apre lo sportello del Made in Italy, ma Menarini resta senza commesse - Telenostra",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54N3lTRzB1XzhRdHFBd19PWmdOYXlnNVM0VjdqQmNRdFM1SEY5SmFsU2lhRjZla2t2TEU5UTdHdTNPNlF1bFYzM0pLQzB3VGhrQXdOQlJrenlNR3VVZWxjWERPVFJEZw?oc=5",
+    "source_publisher": "Telenostra",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-26"
+  },
+  {
+    "id": "news_15f61d824125c59e",
+    "company": "Menarini",
+    "title": "Il Fair Play Menarini festeggia 30 anni con i grandi campioni dello sport - Il Sole 24 ORE",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWZzMTF2M19TaGFQNnVCbDU5by1PaGNVODRyYnUyVXpUd1FyUHpNOFZRbXV6YjdIaklNcENRYk81Rm1HTTM0U0t2WmFvT245YmVaYjJQeEtmR0ZTaFc5MlFITnc2RUk1SVBVX0xOTWFIOXByamxhUE9maGplbVNscVZvZWFDMGFVUlFwT2lHUW02d0dHdXIwNjlrMmtYUExGZHE0bU00VkxpWkZBQXQ1b3lWbUxSYXBHa0ZzXw?oc=5",
+    "source_publisher": "Il Sole 24 ORE",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "id": "news_5386028c3f0f046a",
+    "company": "Menarini",
+    "title": "Paganelli \"Da Duplantis a Zola, grandissimi campioni al Fair Play Menarini\" - Il Sole 24 ORE",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmN3RTk5em5wS0NQbzFLS1FGa0NZRzhvMHk2eUpoa3Zubk8waDBMV0RmVXFKRlNLbXotLWpLTk5HZnJrd3diWWZIWXAxWDBxblphc1lhRHROT3AyTGVFZzd3QlMza1JqUkFETUlVODZ3RXk2LUhuWEFWcHYzM1ZFQmt1aUdFOWJMZ1lYd0trMzVyeTlRbVBmZ3VfY3BJNjVlVm5sNTRxQ3psdHZ1by1YSGhkeFF4a3cwMGpKV1J6MVY?oc=5",
+    "source_publisher": "Il Sole 24 ORE",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "id": "news_129c41198f875a3c",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas acquisisce l'italiana SPIN360 per crescere nella sostenibilità per prodotti consumer - la Repubblica",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2NFQ1pqRXM4TF9ERDZrRFk1bnV0UHVDRmJWbmszcVZLeVB2b2o5aXpVQ3Foczlhajh4Q2tmR1NXRnZ2Z1pmam9ENXRiUWJneFdTRnQ5YlZ3UmdpSnprdXNvR0hmOGtOVEF0NURhU3lLSUJwaXc1UEpuaTUwQkRoTkkyVDNoUEZ6OHFCYXZmUUpRMUxuN04xUURyYWZMNTkzQzFOenBQc21ybUhRTFN4bkxxZmc3YnNHMDhISENsajdnN3lTX0MzN28xVHJBNkdHZG9CMzBVcXE3TXBhUHJlakF3cmdIY2tzTFE?oc=5",
+    "source_publisher": "la Repubblica",
+    "first_seen": "2026-06-27",
+    "pub_date": "2026-01-23"
+  },
+  {
+    "id": "news_9e95ac3382660f8a",
+    "company": "Bureau Veritas",
+    "title": "Fine del flirt fra SGS e Bureau Veritas: fusione saltata - blue News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGRXTzUtb3pfMnF0alpybTg4LUl4Tk1TWWR5WGs1SDU0Yi1NTjBhSGMzdnhlWEZVNTRyc0V4bWJSTlEwZGhxYjgyQVlsWE1fbkFjZzlCUDJTSUpmaFF5UFBLMDROdmVDXzdQaTFWaVFSNUhmTV81VjVsWk80MW5JWWRqYkl4UEFpd3BORTBlMTI4dVlNdXpfelpNYW5fQWlLSF82Wm1jYkFEN3dqUWEtU3paMnFjdw?oc=5",
+    "source_publisher": "blue News",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-01-27"
+  },
+  {
+    "id": "news_94277f2174d2672f",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas cresce in Italia e Pollicardo viene promosso - Shipping Italy",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalA0bnZuRzIyeVh1dE1HWGN0R1BKdXhLSU5fVUc5UjBYb0hsSmp1em8wM1FnV3lzR2ZyaVJSNkRIRncza0U2RUxzbFdkUGtVRDg1SXJMZGJDb0NTYmZRVVhmOFAySFNjQnpyaWxIamVfTThfWG93YTFVSV9wM2tyX3dIc2VtNFF1OFhsTUZFWVJjRzkwZERlMHhQOHdIVXA3NUHSAaoBQVVfeXFMTjYyOFRpM01OZzRZTkJ3SjBiWW5JZ1FMbDIxZlduZk9BWGo0Z3J3M0xKN2JlYndrUVUxQndkbTRJeTF6Y091Ui1fVXo1cjZ2dERZSTAtZ3BqYW00dXJ3b3AwWm56ZG9jTHlYOVN5c2JzYnN4cUxvX3oxRFl6eXk1Rk1CRFhCWkpmcnRROTNmQVA1VHktVG9pcExtMk5RcW1kODNqaFdhUEZRdFE?oc=5",
+    "source_publisher": "Shipping Italy",
+    "first_seen": "2026-06-27",
+    "pub_date": "2020-01-30"
+  },
+  {
+    "id": "news_eba52a4b833e7183",
+    "company": "Bureau Veritas",
+    "title": "SGS in trattative con il concorrente Bureau Veritas per una fusione - blue News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkJwd0lNX0lqOG16d24tS0MtaVBHT19UdExlam52SzZxQW5FWEtBcnZFYkNKeHJVYWtpeEF3VUdiVmNaNEo5S2FFdTJ4RVhEVExGRUl6dmdyQWJtRHU1ejBxdkVWSDk2LVpoNFFIbzZPeVdlSXQ4VWdpOGN2QkhlX0NfM1hOajAzTU44d0NpbndjcW5kdk52Qk1WcnVtd0tlYk1qUDhMc3RVMU5JWUI3T2pHQ2JKTWMyR29CbUNPYm8wOUJP?oc=5",
+    "source_publisher": "blue News",
+    "first_seen": "2026-06-27",
+    "pub_date": "2025-01-15"
+  },
+  {
+    "id": "news_dbcebd9d37be96b0",
+    "company": "TÜV SÜD",
+    "title": "TÜV SÜD, Oliver Jacob a capo delle attività in Europa occidentale - Il Sole 24 ORE",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGhoM2QxUDY2em9QcGtCVlJwQ0RmSWI5ZWhWLXZxV3pscjNYSm5XMld6UTlzNUNfa2wzc1VKb21fSG1yeTJmSExMN0o5U3k0bGJRSmh2MGpyNDV3RGlraFNab2U3V2pJNVkwZ0Z2ZnRlOUdKaVhMVDdJa08wbi0tMUplZE1lQm9pa19kbEo3ZXJCTWhLbENWbkFn?oc=5",
+    "source_publisher": "Il Sole 24 ORE",
+    "first_seen": "2026-06-27",
+    "pub_date": "2017-07-21"
   }
 ]
