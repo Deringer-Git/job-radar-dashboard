@@ -9529,5 +9529,590 @@
     "source_publisher": "CentroPagina",
     "first_seen": "2026-07-03",
     "pub_date": "2023-05-24"
+  },
+  {
+    "id": "news_596eedbbffe08903",
+    "company": "Lifeanalytics",
+    "title": "Investindustrial cede Lifebrain a Cerba HealthCare. Deal da più di 1 mld euro - BeBeez",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVV92Xy1GMDE0Qi1QZnltTTJXUkxTN1JINlA1YVZZdGY2VnU3czBlNDBMUXFCbTJJN3dzUDhBSVpxcHlubk53MWMtM3hjbkg1d2RTN09sM0puUEhRenhXWWZiX3dRV0V1OHotNEZtOXFTa1VDblVoYkEwLW5FdTNOeDZSTGtMRzVabklsUm9WQXJSLW1za1hSYk9ZTVdma1pJd05ScUJSdHBOalYxWHZN?oc=5",
+    "source_publisher": "BeBeez",
+    "first_seen": "2026-07-04",
+    "pub_date": "2021-07-22"
+  },
+  {
+    "id": "news_f41d6ec615402efb",
+    "company": "Laboratorio Empolese",
+    "title": "Oltre 120 artisti in piazza a Empoli per la Nona di Beethoven - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DM3Z2R3Vfa3ZPRWstbTBqS1dDWHhkOHctN1JqZ1FZSUNwb000UTJvWnVlSUY3bFRYVVVuN0E1Z3pFcUpBRzU5MVFMR1JsUERwQkc0eDdYOUR1U3BxZVdEamNrek9hLXBGeFdwTG43UdIBd0FVX3lxTE5HNHJvMlU5OVBtdUl6Q0JVWmZHWVZJLUMzLTRjamVNcFQ5MjRhbUxkV1VrdjVFQmR4VUV5cWZpWHhoRTF6SXkyQkgySkpTcVoyMWw5U3hyOTlJYzdTUFdIZjc4T3FObHg2WlhoZmNkazdWb1Q0bS0w?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-06-12"
+  },
+  {
+    "id": "news_d4b264e969b5fefb",
+    "company": "ARCHA",
+    "title": "Azioni Archer | ARCHA: quotazione titolo oggi - valore borsa - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuT3B2V29GNXMwTkVfYmswaHN2bHdkVG5IVjNGZmVLanhPaUE1Uy1pbGRudHpXbi1zb1RPbEFfVlZKamw3RkdtMUdUVlBDeWZVRGc?oc=5",
+    "source_publisher": "Investing.com",
+    "first_seen": "2026-07-04",
+    "pub_date": "2017-01-19"
+  },
+  {
+    "id": "news_54faa86f34305808",
+    "company": "pH Srl",
+    "title": "8 marzo, Lazio Sound Festival, Noemi all'Auditorium della Conciliazione - AGR Agenzia di Stampa",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbldIdUtqNTJ2UjQxSkJyRHJCai1xSWNjazJTbmZ2RmVLTE5QZ2RubDhQcWJWMUxrZmU1QjdwczJqQkhOVFBrSjRrYUt2RkRCbExYUHlaVUhWYVpkeUpjY1hxdjVIaUZPYlpIdnYxb3g5UTFyUWRRUG9MblVWaUllb1R1LXVWZHpvdTNiU1RGdnpDS3pjRnpWcWNxYzdfRktwZ0Z1QlpLLWlqU0Rl?oc=5",
+    "source_publisher": "AGR Agenzia di Stampa",
+    "first_seen": "2026-07-04",
+    "pub_date": "2024-03-04"
+  },
+  {
+    "id": "news_92b15c22fdcdcf84",
+    "company": "pH Srl",
+    "title": "Romeo Gigli torna a Milano Moda Donna - pambianconews.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR281Si1wVmJySU9wUjlmZldqeWhXWGw4U203dVRiOEJtU0tFNFVvU1FjZ25PUUQyVndZbEpQNnN4ZjM2SGtLUkdyUUlva3lYY1VQZDZwYkp4NHJlazZGdEtFaXo0OUFaTGxoUDVia3hncXhBQmdHeTFfelJ3anBHaVVyQTZaNFNKTHh2ekpHUQ?oc=5",
+    "source_publisher": "pambianconews.com",
+    "first_seen": "2026-07-04",
+    "pub_date": "2019-10-15"
+  },
+  {
+    "id": "news_41c4461e5dac5db6",
+    "company": "Menarini",
+    "title": "Zola \"Un onore ricevere il 'Fair Play Menarini', ripartire dai valori\" - La Provincia di Cremona",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnE5Y2FTblZ6Y2MwcXBhM0pkNlZJVlJ4QlZaZ21tQmhTd19fZFJCZ1VTenNnZURvZnV5ZlJ2MVNtYVBybXJZS1RNLWdyXzZmdmV5aDVkX3NOcDk2dTVkYS1mb1RnVzJFUndtWWpnamQ2d0VYVjhKMGlVeGNnTGY4YkNWbEZLRGcyNFpBRjBZR1o3WVEyZGJaNlluaktMNWt1XzJjSWRWeW5GUklGaEJhLXZiU3U2QjhiWl95QnpWc2w3ZzJM?oc=5",
+    "source_publisher": "La Provincia di Cremona",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_413940594d7fd86a",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, Milito: \"Trasmettere valori cosa più importante per uno sportivo\" - Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOURXM3VqaEZ3d0NOamx3dTh3dUtudy11TERwTkZ5Q3BfUnRDNWUwQXFMeU5QM0djNUY2cnRfcnhrWkZ4VDlDck9PVG9JR2JuNm1RUm52SlJjVy1ZSHJCQXl1a1FzSDZTRkVrQXpDODRLQlp5WXc5dExmTFY4QXRQVUpPa1NoNnFLalltcFAyQUNCak5xRm82WlJPajc5V2ZIZlFEWU82R0huZ3NueWZtbmpDME5UZkVrWXlZTA?oc=5",
+    "source_publisher": "Startupbusiness.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_4bc6dd54b9b86933",
+    "company": "Menarini",
+    "title": "Daniele Garozzo e Bebe Vio Grandis hanno ricevuto a Firenze il “Premio Internazionale Fair Play Menarini”. «I valori sono nel DNA della scherma - Federscherma",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczhRQ01NdEpDSGQ0WkZMNlE4Y3paa3ZPRzB1WVR2dEROejcyYmczek51SUItRTZEQ2k5OURCbXF1dF93S0Z0LTlrRDMzd3lveWctaTdickZsNXkwdGpHMXdVUTB0ZVA3VHRZSU5LRG1MWnBSbktHOW5WbjlHUEpvallhUVRLWUlFS2Rzcl9pcVZEazhRbURVeWVfQlZoNGNMUkdMampVdER1TXFDRGpuRGIyOWlrZ3V4SkNQVTlfQWpYbUk5QkNMc2RxWHJwdWFocnFwN053UlpPRkxZZFdKWktvR1BsTmNTZmZaYVlkM2libGFvUGVv?oc=5",
+    "source_publisher": "Federscherma",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_117bddae703db117",
+    "company": "Menarini",
+    "title": "Trent'anni di Fair Play Menarini \"Per celebrare i valori delle vere vittorie\" - Quotidiano Nazionale",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFBOUDV0V0k2R3FkSldoTWkzZjJaTnYyR2thZXlHeHNkVzNDUHB5VW5rR1duZnVMTmxJdEVMQUFXMFdlUmwwM0Y1ajFRUkNlbUEzbmt5Q0Q1REhtVnBPREJHcXFBdnRVaHhMVmxEcjA4MmRpOUtuYkxBd0xSOEgwRi1Ba0hId0lfVjdhcWM3RW1FVVZuZEpiTW91ZGtPaDdZUjFVYTRQMVRNQ21WQVhhWVV3ZVdYSWc?oc=5",
+    "source_publisher": "Quotidiano Nazionale",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_b9e93d5c4f3fcfaf",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, Zola: \"Onorato del premio, se lavori correttamente risultati arrivano\" - Sassari Notizie",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXppbGtxaEgxR0xVbl9pcy1PNTR1LUIxTFJCMXJ1ZENURWlNc1Y0aEZlNzdoamZ6Qnpkbks0TWFOelhrbDNpZ2k2MUhGeUFOeGtveHltLVFkcFl1cUZWc3QtcGpNcTNxTnpCa3AwbFYwWTM4bmRZWjNSMmVwaXBwWkhPX0VicHlMSFZRZGNuNk9KTUVtT2k4YWZ1TXlKWXJBYWpsc1ZIWEdZQnlqNGZsTndhd3ZzRFcybFM3WUczTUlHSF9yRHRDMU5mVQ?oc=5",
+    "source_publisher": "Sassari Notizie",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-04"
+  },
+  {
+    "id": "news_407d7df8db9ceb08",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, Bebe Vio: \"Estremamente orgogliosa per il lavoro con la Fondazione Art4Sport\" - Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWozdW85a2ZNNlU1MGE3Y2poYzd1T3NnMVo1RnVoTmpCaTdNY3AyR0c4ajNLYVprUXFwajNCakh5c0RpcDhXMWhrLVE1bUVCS2xzS0VHTDVwUmpLX2ZUc0Z1YjZkX2tVWTFpYmtXNExMcW5MeUJNMXFCQnFnUno2ekZiR2hqZ0xfS2YyUFdUNTJueWNScFJPM2lrX0JTS1lOb25rWlF0eUlPY1NFOTRGOS05R0s2UnhCS2VwWGJBcE5yNndQeFNfZTVZaFA?oc=5",
+    "source_publisher": "Startupbusiness.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_7d9b2ee410f5c159",
+    "company": "Menarini",
+    "title": "Premio Menarini 2026, l'intervista a Simone Anzani - Sky TG24",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZEV0U2o2Y0VjWXRoOU80QjNISWJsRHNiSUdIcmhhUjFNbWY2NFdVZUpoeXlkV1g3U0oyeWpfQ0hXelh5NUc3LUgzMlQ5TGUwejlReUdyVWw3TEFnc2RCbkVMNjBTSDVaVnZiS2MwQnE2Rl9KU2VJT3JCRWR5OG9ySlk4REo1T25ZZDBVcC1R?oc=5",
+    "source_publisher": "Sky TG24",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_a5d84cbd98094fbf",
+    "company": "Menarini",
+    "title": "Fair play Menarini, Paltrinieri: \"Mettere in primo piano una competizione sana\" - egnews.it",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZGTV9XR3RQVDdfTTRnZ0JyU0lDemFOc2JLV19ablpWU0VROFViSEVVVzFTR1BBRmJzZ3pmZGs3Yk9zXzFqbThUVU55TFVIZkVxWEJwWUs2QWNpV0ZRQnZmQ0NMTS1yWW5LejdJZWNXRUJjNHJTdzdLbkQ3Q3NLZGEzTWRxay1ZVUVXSGdZRUdpVHV4MnhaQTRMd0ZIVkE?oc=5",
+    "source_publisher": "egnews.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_299eafc8b9ea7046",
+    "company": "Menarini",
+    "title": "Premio Fair Play Menarini, Paganelli: \"Da trent'anni celebriamo i valori delle vere vittorie\" - Adnkronos",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQTd4WEdLTTR4ZEMxaHhtMmRyRHJldVFkSlBfbmY1TExWdzhDZjBPbnJWSFZ4S2Z2Zl9sblpZMHJ0OHRzd0c2NnFIZW9QT2FfbmJLN18xcXlrTlNYZHE2LXY1bUwyc2NjQVJ2bVBnR25adWxBSjhvRlptOEZLWkFHMmpLcVpDNk94QWdjNU9FOGpqcEltMkJpSkhxUGdiaE1FRmdTX2VpdEhMd3F6bGllbTlfSkh2SXMwOEg1QnY0Y1FHQ0hnQlFwWVhZT2NmVWxKUy1sZmZBaldNZw?oc=5",
+    "source_publisher": "Adnkronos",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_6ec5b2235af51cac",
+    "company": "Menarini",
+    "title": "Dal Maggio Fiorentino i trent’anni del Premio Fair Play Menarini - Primaonline",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2ZvbnZNOGFNWGVGVjhDMXpINWU5eEpqZlZaQzVvTXdqc0xKZDdIbEZCWklmaU1BSTNNYnhQeEFZS0J0UlUzMFBfcllJNmc1cDQtTWZlTDNUeUc5djRYVEJfZmI2dktBSzluRGpONU43QVhsQ3RjWHR1QmpJWDYwS2x3OGhjb0xia2s3U2c2RUN4SU1rdVFpQmRDZ3c0N0tsWnhBb2ZBLVk4VFJZWlE?oc=5",
+    "source_publisher": "Primaonline",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_163c0b5ba6a0f1fa",
+    "company": "Menarini",
+    "title": "Farmaci, Aleotti (Menarini): “Cambiare subito linea in Europa o soccombereremo” - Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0Fnb3FCWlEzZUFvcEc2WjRXQTlJQTVmdGhGS2tXX0ZYUEl3NDNWMFBBeXhpdzBVTEFEYUk2SlhXZGhuRHU5M3hJQW5xVHR4R0dnX2NOSVJtVFJuc2FRSTVrRTJBWlgyZ3Y2RnRyZi11N0xPRThabk82YUE2VU1ESjhfVUpVaUlMVURBU29rMmpBYU0wSGtZTExpUjdFUWlnSWQzTG1rYU5xN29SZ0piaFBn?oc=5",
+    "source_publisher": "Startupbusiness.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_6bbc908a72e07cf8",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, Polonara: \"L'affetto del mondo del basket mi ha dato la forza di combattere\" - Adnkronos",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVhtbWhyYm1wWFE1YmN6MGNMQ1p1RmMxNmxiS0tpRUd5MG04cEtoNFNxVGttZnVBQlpmMWt2cEQ4c0NBUFZXamNLT0NSREFYVXZlZ2s3cHBTQTdQWUNrZjd5Qk5xVzlodlFldWJLSkNDSUY2VVhTYU1yNTB1VjVfZGFqY2lYcDNYRTBDQjlMYjIyckJyVGJZTjhYaHRNTWMzTVFxeDFmNXJKTWNYYmdoNlhhNVVXSm95OWFiX0ZTU2tuTG9hOGwxUTRvY0xUUlExUlZvRHdaaUM1aERETzVZ?oc=5",
+    "source_publisher": "Adnkronos",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_4c4357e946fe2e54",
+    "company": "Menarini",
+    "title": "Trent’anni di Fair Play Menarini “Per celebrare i valori delle vere vittorie” - Cremaoggi",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUhucnY2aFBpb2hUdkdyMXo3WkE5ZmlVQlpIaWJJNW5laHhIOEQxSi1FQlN2a09iYm5Gd2NJRVF5T1JoUERXVEZSMnMybjVSSG1jWUNoakprV3FCSGpWR21xM1J2YzJveksxemxuQ19MMU9mdzVIXzJhSWxteG5wbHBtZjhsSVVLY0dJRFdGS2VWVzB0M0tWamthSnVkMlB4aFk5cG9FM1d0VkRPWEcxUA?oc=5",
+    "source_publisher": "Cremaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_fafbea54e388679f",
+    "company": "Menarini",
+    "title": "Premio Fair Play Menarini, al via la 30/a edizione - Adnkronos",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOG9LSEJndk5jTEE5RnI1YzZHckdXcFNwZFBrTTRHc202a1pSeHJQMi1SUG5GNFdPS3NZMi1yRXZheWFUMkQ1RkxlYXhSUy1zSGg4SEhPZk93VVN4M29jX0paeFk5T2hyRTUwbGlYX19EM21kdUNqQ1VwZ3hXaGZ3Vm1lcGVCb0txVWxYRDFFZmtPUHZydjBGcnZwMFJLeUZ5RXNZanBB?oc=5",
+    "source_publisher": "Adnkronos",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_6a0b06b7671f1f2f",
+    "company": "Menarini",
+    "title": "Mazzei \"Premio Fair Play Menarini, una grandissima emozione\" - Cremonaoggi",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWN5YVVDQ3U4Y2tTdXhVLVYxLVJfblpZOWZYOTEwUFZnMEFVTmNDQWRNS1RzRVRoU1hVS2tJTlpSYkVYcTJyNE5JWHhrdm0zY2Nna0FMWkg0WkYxM3dGRXl6WW1McTdtbnJRUUdoS1BBSVdkYV8xMFFPQ0I1UGQ3Y2k0WnVmLTF1TW1BRjFZNFJCY0R5UEVSc1BGVVo?oc=5",
+    "source_publisher": "Cremonaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_77f4a080cfe7474e",
+    "company": "Menarini",
+    "title": "Premio Menarini 2026, l'intervista ad Antonio Rossi - Sky TG24",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa09IcnhvUFh0XzRBTTFWc3QyUmw2ektvRnBHNF9jYUNabEVjWS1xS2RzYm9fNTJpTE9BU0pCdlNiUjdYM2xrMjVUNE9CRWlxS2kybGx5UnpjVGhPSG5aWnZyM2NUeGFkbERpYk9aVUJRTmJkWUJZSVluOGdtQzRiOFhENElmVWJ6elNqRURB?oc=5",
+    "source_publisher": "Sky TG24",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_b698f954875318ce",
+    "company": "Menarini",
+    "title": "Trent’anni di Fair Play Menarini “Per celebrare i valori delle vere vittorie” - l'Eco del Sud",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDdWMzBwSWhPMncyQzRuVTd4RENZUDRicmZ5ZFRaSTg2N3d5cS1PUWROS0RWaEVpMVVYaDBhZDBBdFFuSzBPTFZvUS16QzdsNDBycHNvX2lkT2N1cmtIQWhJcFpLU3VBZ0xONWh4X2VzQnk2emN6Ry14eXJOVXJfMVBBOTdtaGFiRm5pR1cxR2kxVFhvaUFWeG1heU1UUTBtRVE?oc=5",
+    "source_publisher": "l'Eco del Sud",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_9c2e4c28b3f505a7",
+    "company": "Menarini",
+    "title": "Vio Grandis \"Orgogliosa di ricevere Premio Fair Play Menarini\" - OglioPoNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODVqRmNFSHFtLW5lZ3U5WU5lLWVDSEpTRm1hWWRvQUtFWjFzM0xvX3J1N3NaR1JvTWZZM2xVVktHOXBlTEtBOWRiYV9yS1h6OGxWbGhWSUhyZE1zOVFWNjYwMHJ4cVF3RF9jQUdUSWlLSERNSHdlRk5pRF92TElyX0pMN0Fxb0lXakZYMU1YejItRzB1eFAtaERvV2FzS2t4?oc=5",
+    "source_publisher": "OglioPoNews",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_7972a465d4592d72",
+    "company": "Menarini",
+    "title": "Zola \"Un onore ricevere il 'Fair Play Menarini', ripartire dai valori\" - Quotidiano Nazionale",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEhEU0xISHpia0pIVW5NXzhTWG5GTGl2b1NObjZ1UUluRlRmTkMySnVyUVBVX3ZOV19UNE1XZE1wVHZpQnBjUFEwNEVPeVlBUjBRN3NpNVFRR0NzSEg3d1FTUVRXaDBGTENmbVBXVGRzVGxiX1V5amxtZ0IyVFRqRHl2eUVHbmVhYnFIREJfQmFLTDF3dTU2bFh1WW5qTVVfXzFueG1RNjhac0E?oc=5",
+    "source_publisher": "Quotidiano Nazionale",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_4a65960a0d77d084",
+    "company": "Menarini",
+    "title": "Paganelli (Menarini): \"Il premio Fair Play al suo 30ennale, un lungo percorso di campioni\" - Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjBTVi10bUgwdVpFbXVIa2J5QnM3ZGNhMV9yWDNLbHB6NG1IRXgtR2dnNldzU21aVldOUXVnMkl5a0RiZ3A5b1IyQ291Y2VTY21HbmxGNGh0SHNfeTRBZ0ZzVWhFc1ExWUhwbTBQaF9KWnpUc2JiaF9vNXd5LVRIalRKWVA0NW5YUjdWVjlla3VWSVU1ZWc4LW80QmxGUFZMS09wRmhSMWx5bHg2QmdxbU5uNHJBQkpRb3NUN0pMTDA?oc=5",
+    "source_publisher": "Startupbusiness.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_945a3a634ae0f664",
+    "company": "Menarini",
+    "title": "Fairplay, Aleotti (Menarini): \"Fairplay è il faro che guida il nostro operato\" - Adnkronos",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkd0RHU1ZzItQ0FIMGNsZGd3TzVDRF9uUENkZ3NTbEFrQ3A1Y1Z0bS16MENSclNOSUV4SzNPdkluckZEMUZ3aTllRGhRMmIzLW0yTW15UHRpZmttVC1hbjdfZVltdmlSU1VkZ0Y3WHE1cDZkc0dsVzhLRUhzcmdyNGhBc1lEWXNNRG9lLXpvWGNxbllhZ045NHhfYzdEUlJBX3BVNUNvQ3B5d1puYl9fdmYyN1B5aFFBMzJYbTBkR2RyZ2htbUE?oc=5",
+    "source_publisher": "Adnkronos",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_b356b6546c6a3802",
+    "company": "Menarini",
+    "title": "Vio Grandis \"Orgogliosa di ricevere Premio Fair Play Menarini\" - Quotidiano Nazionale",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGQwVGdHZFNtQjNqVGdPdDdPRXVraUFfZWJMX2F5elliTE81ZGxZY1V5ZThEa0pFNV9saTFUUFR4MnphOWhQdnBfZzFjZ0cwZlVBdmRxVWloRDdMeWxWQVhRbHlSQnpGWXREODlXU2xTaTN2OFc2OHJSa2lSb1pGVWd6MHNRTGpMSWVqTGNkTlppNGoySDRlYkFibF81QWRtckZNeQ?oc=5",
+    "source_publisher": "Quotidiano Nazionale",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_fd300e6e7ba49f6c",
+    "company": "Menarini",
+    "title": "Trent'anni da incorniciare, il premio Fair Play Menarini incanta Firenze - Adnkronos",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRElQYmdCVnBTbi1GX2x5WHpXcEJJT2tvbTNRUWNaSHNfXzI0c0psdnR4X0Q3aFc4eDZmSF9KZXJoY1Z6VDlTdjl1X0ljRllHVUREbFBoTkQyOGN1eE85SEJRcTlNTlVzc3JRTlZHa2hWZ0JXZUgxTktUcGVFRnNSOVpiR0RZMFRyU01fWkRta2VBNHJvQ2NsM281QzNueC04SVFmMm5CSTFZQVdzbkNZSjRMRkszMVVDRnNGWjdYZVRSeUU?oc=5",
+    "source_publisher": "Adnkronos",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_cc9055bcee8b6531",
+    "company": "Menarini",
+    "title": "Trent’anni di Fair Play Menarini “Per celebrare i valori delle vere vittorie” - OglioPoNews",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjhPblhDQzVWTFJCNjFacHpVbVFDb1kyU1IxU2RBNDJTOVBvOU1zX0lLcTRQazl1VnMwRGdqalBvS1pzanRINmJxOUM3eWNsNEJ2WkVtd0JfNVc3N2ZYRDNaandGbnptamVMVkE2djAtQXdpR2hDZkEtTWtfdVBCUC03dllZWkR5UFU5bmZHZk1Ld2h1bVJTcnYtcWp2TkIzYVpKbzhfaGpFVFZ2aHJNREZYaw?oc=5",
+    "source_publisher": "OglioPoNews",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_9eee5f8689b523a7",
+    "company": "Menarini",
+    "title": "Fairplay, Aleotti (Menarini): \"Fairplay è il faro che guida il nostro operato\" - Startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTFkek56V21zYl9CLXhfeFFTeGFLVzMwU2JkX1VoNVp5Zm5nRUYycXdhazRxSlpUMVRCTGZHUTF3OVZvMXdKUUFpYUJvcmpCSDh1MzJ4Z3VSb0NxODVLWVRTMkJ5TXFBeE04aXRIdG5aTnJMYUtvdlVZM2U1bng0UTI3UFY3Yzd2R3NuVGVWMklDc3F5S2VQZFA1dWlCdDdIRk1nRHI3dHBnTXJQOHR5cg?oc=5",
+    "source_publisher": "Startupbusiness.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_5feece74f805e55c",
+    "company": "Menarini",
+    "title": "Vio Grandis \"Orgogliosa di ricevere Premio Fair Play Menarini\" - Cremaoggi",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFlidVVMVDk5c3JQTkJFOFRYYmNnNDBscnhCeTZKUUlWbTAwbVZLbUYybUJnQWpLUEJsYWJOa2MzakVfMTFRMzJzaFNLU043QmlhdTBwWTlpOTUwdERST2hvUUZVWDRtbm4wXzE3LXdfN090N0pPYXdYUUtsY3lhM2dPTVd1U2hkVkNtVGZ3OWJMM0YyUFFVTjF1S1hUdw?oc=5",
+    "source_publisher": "Cremaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_ad94540cf5673fe9",
+    "company": "Menarini",
+    "title": "Trent’anni da incorniciare, il premio Fair Play Menarini incanta Firenze - Media Duemila",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE1ja01QcnlwUUE3eUxZRThQVXpjSEFhSDNEOUhMRUhDRVYwYUtJVk83SGduMHNwN1dBeWdSd0FjZWVVbW1yQnRQSUhHN25Fc3RTYk1sbWtWZFhYY1hVSnBoTWJUSWhReGVaX0hwa0tkU0dzSUk1a0EtZ0RIem1nS3JTQ3BrU3hwOGZ0QUNNSGJKT2QtbFlqVXJ4ZjY?oc=5",
+    "source_publisher": "Media Duemila",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_a39b73f5a7c4ae16",
+    "company": "Menarini",
+    "title": "Anzani \"Felice e fiero del Premio Fair Play Menarini\" / VIDEO - Italpress",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdlNkeGdXbDFDQzZ4RDlxQ01UakV5M0VwYTFlVFk1Nmc3Xzg2NFNtR1h4VEtDaGRKaTdYU0hzc0VuazJ0cGRpUm1SNTlSbVN0cDhCdTBiX2U1YmRxWTZ3eVV5V3dXcmI5MzN1YzBhbmwzdVFTOXBaemV2Q1lmNE55ZDVn?oc=5",
+    "source_publisher": "Italpress",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_b1782b6d1570bf8c",
+    "company": "Menarini",
+    "title": "Premio Menarini 2026, l'intervista a Sasha Vujacic - Sky TG24",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1VhQldfQnNkQUJPMC1WY2F3SnNVSFREVTRUSUVwOE81V0twN3hRYm5OUzJEdVhHOG5qanQ4SDBnVGVxY2I4SkdZVFhqc1p1d1lCczVqWXZxZXNZalpNSXFEMTBhVWZQUndqMmVlNjdMX2F1T2wyeFFoUVZNZHl2blpXOU94aW5sRHhpT1lB?oc=5",
+    "source_publisher": "Sky TG24",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_d2ed4ebfcd36c91a",
+    "company": "Menarini",
+    "title": "Premio Menarini 2026, l'intervista ad Antonella Palmisano - Sky TG24",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHUyREZ3RDV1SUVtNTBNdm9JWkRua0FxSXBja1RrVUpiZWFFOFltUW4wZHdyYlJnaElMSGdLZ1pwUWxYbHNQMFJxaUoxdGpsS0R3YkwtWDI3aDN3eXlzdUk1Zmd2WFh3VEo3bHBmN1NUbzVVTDNlVC1aSkFkRTN4OHNDT1ZYMEd3b05tTld3WGowSWJhSGx6a052YXFSelg3MUpXNg?oc=5",
+    "source_publisher": "Sky TG24",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_695a5e70e1299df1",
+    "company": "Menarini",
+    "title": "Vio Grandis \"Orgogliosa di ricevere Premio Fair Play Menarini\" - l'Eco del Sud",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZW5nNjFDVHJEbEIzRkFvY2I2T3dCbWZja05lLWROdzlETWFEVGJtR2lsd3JPNjdzSnZWQmxxcHZtNWRIYWFpUlUtdXRhR2FNREZ5RGdmemN5NnRhRGZzaTBFQXVYai02OEZoc1BSdG9ZWWkyM1duSlBsLUtadlhXRXl1Ty1xOTVqQ0lCQUwtZw?oc=5",
+    "source_publisher": "l'Eco del Sud",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_80d1e2a96635295b",
+    "company": "Menarini",
+    "title": "Fair play Menarini, Paltrinieri: \"Mettere in primo piano una competizione sana\" - Vipiù",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDIwc3RMcXpvTk5SQ1k4RGR4MFU4OW1kRXlCUWRySHQ2TEg3OUxKMXNSdmctOTdPNTA3LVdLdUdyZUpMMHROa3NDRnZ5N3FVR29ZUUdlRkhycDAzNVVPQmpNMkJlb1RNaGltYV9KVWFPZHlwMU5CcVhyZjRCYXdORnlPMzUyNlJHWHNoeXptNlJyZVIycm5mNEkyeWtxZ1c0bkJENFNB?oc=5",
+    "source_publisher": "Vipiù",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_9d8b56350c41eeed",
+    "company": "Menarini",
+    "title": "Zola “Un onore ricevere il ‘Fair Play Menarini’, ripartire dai valori” - l'Eco del Sud",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmFWb0NGSlc4dExsVUhjNEwwZDlha0xOTHZacUk5LXVLV1ZnNm0wX1NtNVZxXy1nenVQS28zMnJ5TjJ0VXF3TjZLYzYwZDNtTTJyTGZZd21PblFBSjJYRnBoellDallBZWc2ajlCUjNNaDN5dUczcllzUTUzdlRDNnc5UnE2UVJZNTBkQmVXLTQtQzlmUGc?oc=5",
+    "source_publisher": "l'Eco del Sud",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_058dd6d1145102da",
+    "company": "Menarini",
+    "title": "Davide Ghiotto e il Premio Menarini: \"Il Fair-Play è vita, non solo sport\" - Sportmediaset",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVQ1WklUV3lBRWZsZmZMRF9aZnBGZzU4c1NFdjQteU44VGhLZ05lcURlWGs2ckNGRFM1dmdlOFF4eFRFMzFhYkt6UjdEY0N0cDczTHBIQi1fRlRmLTMxN0pzbDB1QkhQb2ZaejdIajF4Vk8xdUhlRXUtM0hqenM3NHlyWFBFX3BORFBzc1VsbnFKQWNGVlJPVFZHWU5CdFc3TUVQME1oMEY5dUU1VkNidjhKUU13amNJa1BuNGw2U2Jua2NWYW9RQTZ1Z3dLUWVlQUxTR19uZm9zT2U4?oc=5",
+    "source_publisher": "Sportmediaset",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_d82fdb3e6e80f32a",
+    "company": "Menarini",
+    "title": "Anzani \"Felice e fiero del Premio Fair Play Menarini\" - l'Eco del Sud",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajRVeDhhb2JBMWRfQlk2b2loczIyZ1FqSHNvTjBLNEs2M01sQ25ZdktSTmdxYURIekxCUm1Hbjg2RWpyUkJPSF91dURXMFZ6akF0TXFkWmVZZFVNZTIzSEw5WUpCdHV2TEgtY2tTTWo2N1NLZWZTVFRuVjZZV0N6LVZKaw?oc=5",
+    "source_publisher": "l'Eco del Sud",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_3bbc06811f1d508a",
+    "company": "Menarini",
+    "title": "Mazzei \"Premio Fair Play Menarini, una grandissima emozione\" - La Provincia di Cremona",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXphQkRnZEsyR1Y5SnhQTnBHcGZUZlQteGkxX3drRmNoSlAyWWx5QmhzSlhyaW5tM2dnTDB4d2dBWE1BT2h6REdsSnM0YlNmazFOOXZRdW83YlhJWjVVWTc2WXg3aE9Zb2x4S2RmRXVQNEFsUTVUVkdFSmxva3gtbVVOVzBiYURMX3VXN1F1M0s1S0o3b1lUbEkzVmRjN0xwdjJUZnBXOC1IVk04V2xUaGxqUU9vMkdQc3c?oc=5",
+    "source_publisher": "La Provincia di Cremona",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_d0ca7d8cb76dc198",
+    "company": "Menarini",
+    "title": "Premio Fair Play Menarini, a Firenze sfilano i campioni di sport e correttezza - lapresse.it",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEp5M1VjZnZTajd1aHh0ODBGT3FLSlJmSTVpcm4zcElDRzZrNHQwNzZ6UXJGYWgtb3dIR0JmRHB5aEJoRHI1X3M4aWVrWHcyREJTaGtGT2FBdWRrbjl2ODgxME9JN1dEYWpxaFFOcTlOQlBJbUhTN25jbVlHSUdaVVF2bTNELTAtdzJ3SDhTNEdfeC02eGxqc3RBX2dYN3lPaldSSmtQdzNUUFZwa0NKc2FyUmY1bEFUZlBESw?oc=5",
+    "source_publisher": "lapresse.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_ea4de987effba6b8",
+    "company": "Menarini",
+    "title": "Fair play Menarini, Paltrinieri: \"Mettere in primo piano una competizione sana\" - LSD Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGRCZ045SXZVRmx1V0JJSklXVmtNWlIwdlk4UWZOd2h3ak1DZ0lmWDVBLS04VnJ4UEZDNzVjZmxUV2VZMzA5Y2lvMnpaOXlyS3h2QjFBZWQyNTA4eWpTV3FTb2NlLXhmeEpIbU8tbGhGQVluNnlIbXBiVUluRUROT1JwTHBWVFBycER4QnFMQlRIamdYN3dacm9WcmE3cUFIWDZDMjl6T0JxZ21sM3NRT0I0SkpmUQ?oc=5",
+    "source_publisher": "LSD Magazine",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_2fca36ce77361593",
+    "company": "Menarini",
+    "title": "Gran galà Menarini Fair Play, parata di stelle al Piazzale Michelangelo - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2RIdkFWc3kxMVc4MWlVeENDOExwclpRUFVsbHZJRE9zTU51dDk5OUt1S2tsLU8tOC1HOVVTdW80aGk1bGhuLVAwSE9aRTVkWDRIYTZNd0FqZnRwSWZfSkhJZDhzck14NmhBTWlPM0ZYWkNuQWtaWV80cG1uaTV2ZkFvRzM?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_e2fa29937b04c237",
+    "company": "Menarini",
+    "title": "Anzani \"Felice e fiero del Premio Fair Play Menarini\" - Cremonaoggi",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDQyVUFEWklSR2xrNnB2VEhVc2U4UXR5Wjg1bHR4MmcwUDdIZmlXd0ZSZS1mR0VhN0JrcVdfWmt6NTRDZXA4anhQVzVzaF9WWWI0VGhfd21JbUljQmdiR3JPVnpETmUxVGJ1c2NJejJRSzJnZm1rQXY4U3BiN0h4TEdlaXNpOXM2WjhXUnp3ZGJwMmNn?oc=5",
+    "source_publisher": "Cremonaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_3113988c52c93806",
+    "company": "Menarini",
+    "title": "Trent’anni da incorniciare, il premio Fair Play Menarini incanta Firenze - La Sintesi",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSV9rWEh3NFJMWlgzOVFCUVBNd01UdGxBSmRDUG5rN3c3dDE3ekZKYlhNQW9laE0tVkxOalczM3hoV285QkU1b3RPUEd6ay1MQ1N6Qzl2d3hxSmltb0pldDFqTlFzS0JaUTB2a1pRTVdLdWNOSUNraVlpYUdGRnNpeEFuNG5jbTVfemJ1bUtPZ0hpa0tWWm9kN3dIb2Q?oc=5",
+    "source_publisher": "La Sintesi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_f82ff856c0fd1c09",
+    "company": "Menarini",
+    "title": "Vio Grandis \"Orgogliosa di ricevere Premio Fair Play Menarini\" - Cremonaoggi",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOE1yX2dOclB4WFZ3bmlpZUJBSjJwMlZ1WlZDS0p6c05zQ2l2VnlfNkpFNUMwLTRWT3JZLTduMHhFRTQ5bEVaMk1telc5N2syYU9oZFdPOFRkenlibzYxR3lBdlRTYlRBTEdfQzRQWUtjakNZcFl4Sk16djFsZjdIaC13WHhDRG5TTUlUOGZJOVN5OS0teF9UUldZS2lCd1po?oc=5",
+    "source_publisher": "Cremonaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_aa19094569e23a5a",
+    "company": "Menarini",
+    "title": "Le leggende del mondo dello sport alla cena di gala del Premio Fair Play Menarini. Le foto - Formiche.net",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6NllUUmN0X1pnODVYdkh5WXpfWWVZVzlCY0tnLVM3UWM0anMwM1YxbFQ0QkJUbkcwTzFOaUt1LVhCb2tyWXp2Vmp4bzdtWnV3UVoyMHhsLXg3NEl1bEVIVFZKem1ST1JqWVZVcmhRbFRWMUhraDNrblJoTEI?oc=5",
+    "source_publisher": "Formiche.net",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_903d7466415fb57e",
+    "company": "Menarini",
+    "title": "Vio Grandis “Orgogliosa di ricevere Premio Fair Play Menarini” - Telesettelaghi",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVhhWWlOS29aREJZWlBJWWlaemxabl83ZkJvZkVObFNJVmJNeGUzaUtPajl2WndNUmZjOHFSSXBUc2xBdDJZdUxLSHNTZ21QUzJ3NHg1MUhoNXlFT2NxT0oxTndsWmYwWVV6MDdWRTRENlJuWWpHLTA2ZGFfMzBlQmdGWUw5cFk4ek5lWXFCQjdpMXFvMGlROU1RdFk5Yi15UDZIZA?oc=5",
+    "source_publisher": "Telesettelaghi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_402b698a27805f67",
+    "company": "Menarini",
+    "title": "Zola “Un onore ricevere il ‘Fair Play Menarini’, ripartire dai valori” - Cremonaoggi",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEM2bF9CejBxTEJBQ21SMzJ1bHd5RWJCa3YxdktpRGdqaWNXdWZ3SUN2d1ZTU2t4RnZUMXFYZ3lPQkdFRm1EdnEyOWxhTF9RNmtTcnh0Y0tiUTBjd01wTWMzVV9wQmlIZmNvS0RiOGV6SU5pR3E1OFhHVDdVUTFoZzVKbjh3MTFhd2FXb3BOYmdDUTZteXdVVHhVeGRQd19OVzZyWDhrQQ?oc=5",
+    "source_publisher": "Cremonaoggi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_be551c241bf9b90c",
+    "company": "Menarini",
+    "title": "Chiara Mazzei e il Premio Menarini: \"Vi spiego il Fair-Play, secondo me\" - Sportmediaset",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZW1pMWxMNXZJMlZWS2JkZEtCTF9UYzlRRnZJNkJTbzFJY0lEYXpxdnlUc1N5QzB5LVlHWDVxLVZlaVZheXhRc01sM1hkbGtnazB0TGYzbl9rTUlvTmFjSy0xWEdSTjlPSlJpcTdTcS13a284a0FOYUdCTjdZOVpua3FDbGJIMDR3RmZtdDF1blpVdmlNQ2gwVUpHZ0hjbEk3eE5NZEhBeHlEUlBQR3dTQ1dQRW9qeFNlMDhFRTFaT1FzMXJiWmdUekJ5Zy16ZElYaktoYk82NUxyZw?oc=5",
+    "source_publisher": "Sportmediaset",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_952cf66f7f6d0d4e",
+    "company": "Menarini",
+    "title": "Anzani “Felice e fiero del Premio Fair Play Menarini” - Telesettelaghi",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG9KNHYxUUxGa0ExY2JsRWFsNFRYenpXb2ttaFZEdjVVU0RFSmNGdVlsREZjbGxEaFp5Qi1uVm0xbzl5cFJVZ2lZYVo5dUlKTzJLN1JXX204ajBTY1dfbjZmZXRsR1lPVTdBMVdCZmtWVjJ1YzE3bkNHaWhfNmxfM3Q0Q2ZKcnloak10MjYydkhzSHhtUXhERA?oc=5",
+    "source_publisher": "Telesettelaghi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_c471928ce16b5fc5",
+    "company": "Menarini",
+    "title": "Mazzei “Premio Fair Play Menarini, una grandissima emozione” - Telesettelaghi",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0ROcF92elllczR2MlhCdEt4MkxmT1c1a216TUlJRzY2RlVOd0xxU1F0TXBzN3ZYSm9zQ1VsNGlzVEh3aFA1TkgxbjM5TlFhQnJhU1A0S1Y1aUVtdEgtTFNvUktfblRMeXQ4ZmNNZTNsakNKNHVMMTkzcjRKSTJITDE2ZlA2N3p0R3ZjYk5ZNEJlTmo2c2NJUDd5RVh2d2dI?oc=5",
+    "source_publisher": "Telesettelaghi",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_346b9defc64f881c",
+    "company": "Menarini",
+    "title": "Premio Fair Play Menarini, conto alla rovescia per l’edizione 2026 - lapresse.it",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0k3OTlOMDhtdEJ2ZElFZ1VudWNXTnprWHpndTRpajlRVTkwVnFxX3NOT2puU2hNRWFibzZYLWZXRjhpaWt3TlpfUUdvcVFlN3MyTDYwSm1XYmV4cV9OeU5sMFZ3X0ZaaU5FOE1PWFJkZWswSXpVV3ItR2FLTlp2dnJlOGR4QWpYUExVQTBZSUhnOThpNGtEdVM2cms0REJ0U2FaVzRkTTZZWG8?oc=5",
+    "source_publisher": "lapresse.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-01"
+  },
+  {
+    "id": "news_67a7f68ba533c78a",
+    "company": "Menarini",
+    "title": "Premio Fair Play Menarini, Paganelli: \"Da trent'anni celebriamo i valori delle vere vittorie\" - La Gazzetta del Mezzogiorno",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLTRXN0t4UHIxT0s2S3A1eVpUaDdxelEzWEVDU1g5Q25lLUd4bHN6dGxOWGhXTVlwWGxQVDhEQVlXTlZCd0s2YkhoTHJZZ21hYnpDbTl0d1VmdEdPbExsZVJPV285dXdnQ25URGZ6OWpjSktHS2lxMTVEdzYzUWlwTHdWR2pyMzZCQVlDdmd6cGdrR0FKcW9aLVlfWklKVzFfdDVlVk04S3dMTG5uazZUV3hfWVctMVJEeElXN1pERVFCcDloMzRtcmprT2xqZkdPTWFiU0l0NFdXdXhUSVhBeWVPQ2hoOUVUMS1UV1R30gHuAUFVX3lxTFAtNFc3S3hQcjFPSzZLcDV5WlRoN3F6UTNYRUNTWDlDbmUtR3hsc3p0bE5YaFdNWXBYbFBUOERBWVdOVkJ3SzZiSGhMcllnbWFiekNtOXR3VWZ0R09sTGxlUk9Xbzl1d2dDblREZno5amNKS0dLaXExNUR3NjNRaXBMd1ZHanIzNkJBWUN2Z3pwZ2tHQUpxb1otWV9aSUpXMV90NWVWTThLd0xMbm5rNlRXeF9ZVy0xUkR4SVc3WkRFUUJwOWgzNG1yamtPbGpmR09NYWJTSXQ0V1d1eFRJWEF5ZU9DaGg5RVQxLVRXVHc?oc=5",
+    "source_publisher": "La Gazzetta del Mezzogiorno",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_c7f5f9bd9b233ed1",
+    "company": "Menarini",
+    "title": "Paganelli (Menarini): \"Il premio Fair Play al suo 30ennale, un lungo percorso di campioni\" - Sassari Notizie",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmJ0eXI1MVFOR3JuVGc5ay1SQzJ6R2EwTm81dzdvWkt2cldKUENha2NFU3lrd2wxMjV3SDFFRmJCNF9QbU10ZEZHMUp2SGFaYzNnblhWS3R1NnVfcURmQkRMSHVwQmVsVEpqTDFFVFZfbkJ0dklFTmNYWUNmSkhsUVFLeVlYOEdocHRwVGE0MTNkbWpiWndpYkdFUEFBZnN4RHhRNFJ2cGJ2eGJUakh3TWJtLS1OYmcxS1paMjlRT3JhTlJBQjI3N2ZR?oc=5",
+    "source_publisher": "Sassari Notizie",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_522eb9cf94dacd13",
+    "company": "Menarini",
+    "title": "Trent’anni da incorniciare, il premio Fair Play Menarini incanta Firenze - PRP Channel",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1ZmSFVveE5VVDgybndZNnJ6aV9hN1FvSV9ka1I1UUNUVG1HT3JCNThzeERnMGhnOUpUYU84MjJmRmtrb0lwNzNKclk2QTE5cXhBZnlHM1pGcGJ3UC1mb2xyVTEybUUtQkkyUGh6QW1pTkROMl9IUzVjRFlRU25NTHZIODd5OXRkRElmUWRCbXBBYVEyZ1dUZVVYTFFxZDA?oc=5",
+    "source_publisher": "PRP Channel",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-03"
+  },
+  {
+    "id": "news_92745145bbf44401",
+    "company": "Menarini",
+    "title": "Farmaci, Aleotti (Menarini): “Cambiare subito linea in Europa o soccombereremo” - Sassari Notizie",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0tLTjNsV003WGZqS2Nkc1ZRczlXX2xYTTloTF9WNW1WejQzbDA3V0JUNk5adlRfaHZBZFhaYWoydWpxUGdsOVZJek5lVjZxczRsbU42eGFQUjlzenlET3hrZ1Nvd2pyVzhFdmFaMFNFbzFmVjFMRWpOSWVnWkdRNWdvR25zMG9DS08tVGtPNERZR0l6Y0JIeGRySXVQQzhDd0hVV18wTEZSbE1IaVRaSnJnd1pWY21McUE?oc=5",
+    "source_publisher": "Sassari Notizie",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_a5440f5d084285f0",
+    "company": "Menarini",
+    "title": "Paganelli “Fair Play Menarini celebra i valori che stanno dietro alle vittorie” - Italpress",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnBMVGRvYlc4cmZZV2JQeExhRURaUy0zMG1vUWNLX24ya0FSMXBOQ3JwaS11X0JJZnQ1LVFyWTdCTmtXN2d1ZEttWmVxRjVHQ2c4X2VZQlI0WDNNRThNdmo3U1hlNkR2RWoycHFGTC1qVlY2bUFBTU1CRVlVLVQtYWJVaVhJaUNMUTVmNUVfcnRUN2hQYWF6V0FuR052SFp3QWxNWWctTQ?oc=5",
+    "source_publisher": "Italpress",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_e8f03a986f114a21",
+    "company": "Menarini",
+    "title": "Sanità, Beghin (Menarini): \"Accesso al farmaco valutato positivamente in rapporto Crea\" - Senza Linea",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFYyRmptakIxLW01MG9MNTdrajBuck9nNm92aGc2ZzVKR0hNNU1OV1lSSV80aTZ3MEg3ZnYxRHZER25WQTNwY0loYm5KdkZLdkE5SGwteGUxQ3NOWDE5ZFQteXl5NlIxLXprRHlKbE9TMk52ZmZINWgtQ0dUc0hnN0Nuc0tHak9kSWlWOHUyZkZ4emZtNUotTko4V0NXXzF2ZEloNU5QbHFzVmM3UEdCOVE3d053dHVB?oc=5",
+    "source_publisher": "Senza Linea",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_6e1e2e7c9c12f6b2",
+    "company": "Menarini",
+    "title": "Paganelli \"Fair Play Menarini celebra i valori che stanno dietro alle vittorie\" - La Provincia di Cremona",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUR4QmJYcHQ2Z09yQ09HcHhOM0xxd096UmhxSWhZQnYtSjRub2Z6UWZBcXJtSUIyeElZNDBFdWdJVHNteXNmOHZWclpJUGJWNk5aMGJjdmZCYWNHbmZQbl9DRmo1aTlsbkJlRUFPQlhGNmowS0RYbzc5dWR5cngyZHlkaGlmTkg1dUZrV3U1SHJPWFM4Z3gzdnFyci1TV1hKd0pfWTNnVjhsNnI4QzAzaDBEbE5wMF95aVh3NEh3cldoTXBIVlBDZVM2Z0dWNlVoZzZYMg?oc=5",
+    "source_publisher": "La Provincia di Cremona",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_c0f6b87ed537df99",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, è la notte dei campioni: stasera la premiazione a Firenze - Quotidiano di Bari",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGVwa3FvckNzSGxrQ3d6NEIzeEo2b3BDaEF5bDdpRXpMVWQwd19yYmF5X3pQZ3hyNTRmQ1ktRlRrTkJJdnlPc3RsOUJEX0FYY0ZCek41VEZrLWwwbENKdS1vX1VxTUdWTEx2WkVnZTZlQ1RYcDlBaXQ4OHVnaTZEWll6LVRnZC1WNjVBQ3ROQl8yamVoN0hkQTZUblBjRm9Td240RklKcw?oc=5",
+    "source_publisher": "Quotidiano di Bari",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_83de99701a771bc1",
+    "company": "Menarini",
+    "title": "Fair Play Menarini, è la notte dei campioni: stasera la premiazione a Firenze - lamilano.it",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFpYcjBxVFJ0QUF3TTVuNUVock1lWHpfb0hWLTRJVm1OczlRQ2s5UVUtajBfMl9hOFo1ZjZ2UEJRT1VQZEhPWDlfQmZSbzVKUVJ4T0U5alRod0NQYkhMb2NZYW9naDBDRy1hSUVhZU9VUmZHXzByMVY2V09SVG0zTUk5REltc3U1Nzd3UDI2MWZMNjNwZjNMNzQ0b1czR0JuSDVHSkJET0xmZw?oc=5",
+    "source_publisher": "lamilano.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_f69c684bd925c0b5",
+    "company": "Menarini",
+    "title": "Trent'anni da incorniciare, il Premio Fair Play Menarini incanta il Maggio Musicale Fiorentino - Quotidiano di Foggia",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnlKejVBSk50TC1Ia0h6Q2dTNmx4YVRueE0wSTZLWC1vVlFVOWtacU1tX0Mxcnk3ZnBEZHZEd1VLejM5eFpMeEVTRXhWU1pJclZoQWRnWVBTMHl4YU9VLS1ZQWp2RWtSSFMtRHVRcDhWbkRIQ21FZ0VBVmRXczVXZHVUN25iR1AzNDd4VlJDVUVvS0VwTko1d3FlajdLX0NSLUVCSWxoeWFiOHRHYzhZQ1BySzg2LUctRjcyUEdDSWY?oc=5",
+    "source_publisher": "Quotidiano di Foggia",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
+  },
+  {
+    "id": "news_ab41612203809733",
+    "company": "Menarini",
+    "title": "Vujacic: \"Essere Ambasciatori del Premio Fair Play Menarini è un grande onore\" - lamilano.it",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVEwdUZlRjdjWDRWazBHQjg2bV9QZjFEN0ZyNXpueDlKRlZrYm43dnJuWklvLTRJZ0NVOTM3OUJHU0xhaWlFQ3Y1S1pSa1J0NlhpbE8tREcyeF92NWlOdmVtNlA4ZWJtYWVRNjFvMHZrNkJCc0RqLWVERWNxMl85RzNPamQtSjRNX0h5Yy0zbExOOW9PaDZPc3pmUUFvbVQ0cEx3SGpqZ0RyQQ?oc=5",
+    "source_publisher": "lamilano.it",
+    "first_seen": "2026-07-04",
+    "pub_date": "2026-07-02"
   }
 ]
