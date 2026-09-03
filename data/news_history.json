@@ -16306,5 +16306,968 @@
     "source_publisher": "tuvsud.com",
     "first_seen": "2026-09-02",
     "pub_date": "2026-06-23"
+  },
+  {
+    "id": "news_ab194e57ef87a460",
+    "company": "Laboratorio Empolese",
+    "title": "“Civico 0. La biblioteca è casa”, nuove iniziative realizzate in collaborazione con associazioni e enti del terzo settore - Città di Empoli",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWW03WkxxSXZneTFWS01STkZ5TkpGOXpnN2lkdW9kcV8ySnI0Q0toMHZDb3FOUVZjcVhJbVRUcVVfTFpnZjllX3djY2JtOWgwOENmNER5OVhVYnZzb3lIVnRYRHBYUVllMndIaVFMX3pHVHdfdXJ2a0xhTkFLQW01QVVhcnBqbzNkLUZyRnpaWVg3cW9pR3hzRnhxYjFJcXdRMFlfUVgyX3djdzdpWHpZX29fS2VNSGhyTUNvbG1fMnJFSHpsSVJJQ29LM0FjaXRnZTlhUHE1a3ZsdFdxdkFDSk5kX1h4bVVobUFadldJeF83SVlNQVUxVFk3LS0?oc=5",
+    "source_publisher": "Città di Empoli",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-09-26"
+  },
+  {
+    "id": "news_03a836ef25e1dc55",
+    "company": "Laboratorio Empolese",
+    "title": "Riparte il doposcuola \"Scacciapensieri\" al Circolo ARCI di Pagnana con offerta ampliata e tante novità - Città di Empoli",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMnlIWmExNUtuTUU0N1J4bEhhejRVdWp0dGthWEh0WE1xMlhGUXlySTdIcTcwVnQ0azdpNE9JZG15MzZQcUdqVmdJWGNDX0lxSk44MFBsR1BtaTk0clJ0MDctTGlqY3NfcktET2JwNTA1OER3Zko3eXJ3aERUZHlFbDdFTVNhbFZFOTZvYmZ2WFhnZ0FCaTBNUUlpN0pFVmhNd01JUVNFb3d3VEVDT1hrM0VNajZ5OFZiZUxFQ3ZWZVpYWkU5QXpscHJCY3VLT3gxYVdfQUtsWnNkUUs5RzJCYnNnYkQ?oc=5",
+    "source_publisher": "Città di Empoli",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-10-07"
+  },
+  {
+    "id": "news_7ef59d8582ce5363",
+    "company": "Laboratorio Empolese",
+    "title": "Uno Spettacolo d'Estate, fuori l'intera offerta di oltre 100 appuntamenti tra giugno e settembre - Città di Empoli",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXJwOS1xQkZ1ZjZfSzVnYVYxR3ZNa18xS0hGbHZPS1E4cGowOHFMNmJzb3M3Z0ZJbDliRzFnWTQ4d0IyRVVHaVJfSWpSWDBvUjJWb0lFdmx2NGVpU3ppUkVOZXRSMXRMSXhwaVY2a2ZKYm0tNzNlN0pEa1NNWHFkaEpBSWRtY3o0MWswb3RKWGRUZWI2S0pDNFpKN2Z4OU5lcHNmTWpUQUdwT2hTVE83MXlWQnNoaUJFdVBzVGl5c2p0LUdid3NaMDRRcHpENjB2OUJLb3lyU0EweVB3WVE?oc=5",
+    "source_publisher": "Città di Empoli",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "id": "news_ea65bd102065deaf",
+    "company": "Laboratorio Empolese",
+    "title": "Presentato il progetto del nuovo Liceo Artistico Virgilio: pronto per l'anno scolastico 2029-30 - 055 Firenze",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHVQRWVUUG12V2hxTjFQV0VvZTlySWRYYWhuYUF1SkNhRHZlbVZNUzlLQjNBWFNWd3hzb29DYXZyLXZwRUlTSVNmUmIycWk4a2ZoOUVZX0JpZ0l6VFEwT1o1VmNPTTJTVlBGeTJJQzJ4QVo4eUhqX2JkbklmN1pBdnJUYXlhTGNXZjd3cEJqMzVXUDA2WVdSUW1jRFA1NmMwT0lySlhpRTZDdFpvSjk5WW0yZ2Z4YnFsTnRFd3ZIOUFTWlJoOEk1bXJOdlFuSHNjbXlj?oc=5",
+    "source_publisher": "055 Firenze",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-08-28"
+  },
+  {
+    "id": "news_fef84750e89350b4",
+    "company": "Laboratorio Empolese",
+    "title": "Dodici collane allacciate in meno di un minuto: l'empolese Bergamasco entra nel Guinness World Records - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkRl9xN1JfbldLYUlsS1pBaElwNjR1TUVZWk1tVFJfSnhJcVNjQUUzQjRoVnlSTkVfTGVYa1Y0RU82NktOd3RPWnptSXUzV01sSS1XbkpaU1JKR0FiQnppUnlKNTNiaFNQZE42Qk91OHNXc0l2Zm1kb9IBgAFBVV95cUxPY0F6VlkyanBONnlsQkRrU29zM1JPbkN1TGtBTnRwTmlLcFN4bER0dGUyQ0NMR0tVYTV1Z3N4RnQtTDB3c1NTUU9nN2pVQkNYclVGZnBlb253ZXBhZTBNaTVFNG5laVNEV3J3ZjVld1NIWk1QYU03ZHM0Y3lwMXpMQg?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-07-16"
+  },
+  {
+    "id": "news_1ef19f14cb9b45ba",
+    "company": "Laboratorio Empolese",
+    "title": "Empoli, corsa contro il tempo per il plesso Fermi: a rischio 4,2 milioni di fondi PNRR. L'allarme di Vinattieri - clebs",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGkteGY0UWdKYnFKM3FncVpaMHI5X3ZsQW1mV3pxQlptaU1DRk9UaXJZYUhTa3hnVXdiTW9JLW5DVm9nVDJLZ1QyeFVadEsyTVZicVk0TWFqVW0yeXppazExRzdHc20tdzhpMGs0RGdvbVBFN0tIQnhmSFlLMTFCd0I2cUtyM2ZhZ3d2YUhvWmoydnhKMXlHLUV3c2hlQ0FPN2tvM0dqdGJSc3cxNnZQOUZ4Z1QtUQ?oc=5",
+    "source_publisher": "clebs",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-07-10"
+  },
+  {
+    "id": "news_7d89155cd1b45f98",
+    "company": "Laboratorio Empolese",
+    "title": "\"GenZone\" protagonista del Beat Festival: 4 gli appuntamenti - clebs",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHZtWFdZZTB5YzYtYk9EM084YUhJWGtwWWFHbTNzZkljSUxOWG9jblNOTTVoX25rNWR4ZkhVeFpvcEplN0FfZWFOV3ZVZEUtX2x1TnVlak5hMmFyTGg4cHFMX3BiZnRINEQzNmpuRnU3d1I0QjY3MVVQMjV6SEk4RmVUb0VybEdIU0E?oc=5",
+    "source_publisher": "clebs",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-08-28"
+  },
+  {
+    "id": "news_3ce0420b644ca1d5",
+    "company": "Laboratorio Empolese",
+    "title": "Corsi gratis nelle biblioteche. Tante proposte per gli adulti. Foto, finanza e anche Feng Shui - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXBmSVdBM0NLSWtCb0IzalBBaVplQlM2dmtkVXVfQjhpUjBSU0k3NDQ5Vm1BSHZFTGlqT0ZkWFctRlNrRVl0dDdIRmIyQm1YdFJyZi0xamV4SUI2NC04aVhIWkhxeDJtSjR2X0xkaWpFTkhEVlQxcHJRY3hPbGlKajNuUWdIdzU3U3dPdmFn?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-08-20"
+  },
+  {
+    "id": "news_6e5afaa690ee2919",
+    "company": "Laboratorio Empolese",
+    "title": "L’arte e la celebrazione di \"Geppetto\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkxpZnZSd2JsNThzdEgwemw1b0l5Wm9RN1hVVW51NFR6V2dubjFvZGNlbEdlV0kyODJEZWtoUE9nOFlUcUlYZ3VTN05PTlJWQzJneFdqaXVmX3VMVWJPdmgxdzd3dG1DbG1hNEZNaFgyQTJ1dWRSOGt0UHk3bFlLdA?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-02-11"
+  },
+  {
+    "id": "news_d4b0b514e6f4a932",
+    "company": "Laboratorio Empolese",
+    "title": "Vetrerie di Empoli - Ilaria Parentini - YesMilano.it",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BNjJWbU13TU55U1poTXA4ZDZMNzloUzZBUUJ4eEZ2X2FUSnBnRzJJd2szTEFDVFJkem5SSTlWTWJVM29VVmN5TWZ1MVNETDRwb1ExZFpRa1B4QzBBNm1Lb09UeHRzb0NneXNaMHM5MG5hbTBLR1Zycw?oc=5",
+    "source_publisher": "YesMilano.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-07-16"
+  },
+  {
+    "id": "news_c20ad96261d342b0",
+    "company": "Laboratorio Empolese",
+    "title": "I talenti della moda crescono. C’è il corso gratuito per tecnici: \"Lezioni e stage in azienda\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEJ5dHdCUmRzRy1pT3BvM09zVk9rM3RkdTBDT3U1TXVJbzRwRHlheWhkVFp0ZGpWNlpmSjBSVzN4b2pKNVNmejZJLTRkeW1QZ1hLZHhfd3IxV3ZNTWtMbXp0ZWtOVnNJbmpQel9pWmlWcnNNakZTTl90emlJQ1p1WERxZlg?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-10-11"
+  },
+  {
+    "id": "news_39835393a0cce4e4",
+    "company": "Laboratorio Empolese",
+    "title": "Ludicomix 2026: Empoli si prepara a un’edizione corale, tra fumetto, gioco, musica e divulgazione - Tempo Libero Toscana",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1hiaGJ3cVhoQjJRdC01Wi04NTg2TXFnTmYwWTgzRXdLYjdVb0o3T3I5bmlQcnl2THJkbkw4TUtORC1UdldfNXd0WEhQd0RucE82Q0EyZHZRWWpPMDFTd01VcDVsZE5nenZIZ0pHU0xlOEZBdjNLYmRpbWNUdks5S0RSaFc4blZiWnIyY2REMGdBQnh4cWtRbHJldmpiTEtuMHNtRVpNV1E3VEtMMnJ2TW1JeG1pT3otazhiRDhsYkdtck1PU0xERVNBZ05MZw?oc=5",
+    "source_publisher": "Tempo Libero Toscana",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-16"
+  },
+  {
+    "id": "news_7d79dd9343864113",
+    "company": "Laboratorio Empolese",
+    "title": "Irene Bandini è la nuova portavoce delle Donne democratiche del territorio - clebs",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ09DTnQ3dUl0UUdXZEdzNGpDeGhEMkMxVU5TTjd3bGFLS0VzaU9rTjlDWTItdWZMUF96MFpiOE9zLXh4VGJYRjFjbDZ5SjEzUjN6dnV2Z3NXYVRjREsxVnNzMjNhY240blB6LXAwMkpfSzRlb3hkWDYzMWhjN0pWUThsbkgxeTNXa0RPTVVldENJSHBPNUY1dUlCLXBLSnNU?oc=5",
+    "source_publisher": "clebs",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-02-27"
+  },
+  {
+    "id": "news_8d142b23e831fab0",
+    "company": "Laboratorio Empolese",
+    "title": "Chi c’era a Spazio David Sassoli per Tecnopolis Forum Lab. Le foto - Formiche.net",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHljR0RGU1hPeVdLM2xhM3BjNEE5SUdvM3RBN2ppdTl2QmFsLUE2OGNFb09rdFJ6UlB3aXpSUmZIOUEzbDZETWtIS1V4R2x5NFQwSzBsNVRJWmxjM1NJNzdzVFg5NFUwbEtabENSWVlDZnFFN1VQMzlEWnhuQWttTzhSWlVZZkZ0cmdvZFQ1S2xmNlhzTmQwMVJEaw?oc=5",
+    "source_publisher": "Formiche.net",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-07-09"
+  },
+  {
+    "id": "news_ccd0a15bba9222f6",
+    "company": "Laboratorio Empolese",
+    "title": "Domani i funerali di Bagnoli, la salma esposta alla Sammontana - clebs",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHJlQUxtOVZ2RnM3NWdxMHJCZVBUX0h0Q2pVYTJZeWI3ZWNNZkktU2E5MGRHZDZtNXhUVEhLM01mbDFBOUhFV0lEeEFGeVB0M1pMM3I5NGlIMVhoWWk2aWVqbXdSbG9sYWZKbFZjZS1HaEJnWW1XdlVvLXU3MmRpVnE3TGxJZk5HcnFXY0xvaw?oc=5",
+    "source_publisher": "clebs",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-11-03"
+  },
+  {
+    "id": "news_dff738375e980c27",
+    "company": "Laboratorio Empolese",
+    "title": "La Città di Regolino: a Empoli domenica 24 maggio il villaggio - inItaly",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUtQMjlqbzJuVTZMa21iS2JMeEdSTFhjMGZmdEZCZEVjT0paVjVDTi1lWmswaUlkVXJYclNPVDM4SU9hSlNaSW9iRXZnREdwU0ZFUE52M1Z4UGJQRTdOS05HeXV6S0JVVE1IaHFGbGlUYk1HXzdReUtMU1htSXp6aE1CZ1FvZWx2T3ZpOENTdUdvZFNaSXRxRVZ1alVkdmo2ajNn?oc=5",
+    "source_publisher": "inItaly",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-21"
+  },
+  {
+    "id": "news_2038071e9130dda0",
+    "company": "Laboratorio Empolese",
+    "title": "Scuola, cantiere a rischio. La decisione del preside: \"Non consegno gli spazi\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFJJSGxjZWZyanktU0lwRHlIUXMzOFIweWV1aF9QUGFLV25kQ09VSFg0RVJDOVdRd3d4RzJGQ1dLWlM2bi1adDNFMHBja1dnSDlkcERMOTV4Y09SUFJ2SlZLd1hJVS1WdTZxb1lXRlZSTTRIUUN5cFd3WWhpenNlbkk4SQ?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-01-22"
+  },
+  {
+    "id": "news_2b758bace97be27f",
+    "company": "Laboratorio Empolese",
+    "title": "Dalle tisane alle consulenze per il benessere, l'Erboristeria Il Mandorlo: \"Le nostre ricette su misura\" - gonews.it",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlNxSnRNdXhaWk5FLXBWNkVjYUhGb1FQMURtUmxzUE5MV3h4ZnpmVlBmRDVOeDhtS2dRZk5GeE1hQ1dWY0RjWlZDWV9rSzdBalRDMm5BSGpqaGJFSWdFZlhPQXQ4QzdpUFIwRWxsd3MyX2ZRbmpFNjBYWVVJRDNEUzMzUS0waEx2WHY0cFY4UTduNDUzS3NEU9IBoAFBVV95cUxPZzhRenFGaXRZR0NZakJtdDJoMVFmd2pmWXJNa0MyaE5iMGpzaG42NVpaZzhCSm5ocGN5YlRqNzNPZmpVeHdLRlQycU1UV3lPTkhjX0FOVDFSUVBFc3RhUnNFQnpfNGtxZEctcWN1bmlreFVJNU1Mdk9KUl9kNElQTUFLTmJzaEw4cURrUVY5VHF4bWE3TzZfVkQtQ1hEd1V0?oc=5",
+    "source_publisher": "gonews.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-03-26"
+  },
+  {
+    "id": "news_8450284867c6d089",
+    "company": "Laboratorio Empolese",
+    "title": "L’amarezza del preside \"Ci hanno abbandonato\" - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlVTSUgweU1JY0VVQTZvVmhMaUI2MlV4QzJoQWhqVXpIbFROUEFtTUpRV3loR1A5MzllcjI0S24yWHRZMk8yNWRZSW44TGFPS0JHVDlCbS1LU1MyY19PcmdaQ19sX0YzVmhsdHU0dHEzNjlZRUZUOENnRjF0bjBjYlZwRWZkUUt6SG5sQkdJZzM2cU9ubFE?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-08-20"
+  },
+  {
+    "id": "news_087db1019f42df00",
+    "company": "Laboratorio Empolese",
+    "title": "Biotecnologie Sanitarie, nuovo corso al Cattaneo - quinewscuoio.it",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0TDVjOG9yTFNvcEJYVE9zV2o2VHRHQUxYZzRnLXpSc2YyYUlUV1ptQ3VYaVlfRzQ1aVJIRy1SdWZ5RlpfZGt4SWlsNG1Pekw0NXpEaGNFMWtKZUg4c1g2bjh4UkplZVhMVVpCQV9BWkstdnB3M3fSAXtBVV95cUxNQldmTkNYUVNwVDJRdjZVZ3pDN2NqZmc2SmdwNXlPR01hcGNLTURZYnI4REk1MkxLb0VuRGNOdmc0TGNmVHcwaDZ0TnN1SkdadE9ZZVpGekxBWGNUbko3Wm1KeEphUXhmMzhLUE1mNm51b3Jzd0JTbk0yems?oc=5",
+    "source_publisher": "quinewscuoio.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2019-11-12"
+  },
+  {
+    "id": "news_6759b3917c5f4c24",
+    "company": "Laboratorio Empolese",
+    "title": "Scomparsa la fondatrice della scuola Sarteco - iltirreno.it",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDA4MHRHZGkwc2RaNW5xTVNLaW5LQU1tSHhxVDhIdk54MVFIcmNqTW91RUh3d1pnTEpYblM3QURhRFhrQm1XNkEwRVpWcjM5eVN4VmJzSmJIWUFxSUQ0cndmNGdvcHlYOVFhQUZlWXgzUjdoM3YxTUgzOHRUQnItWUh2S2FPSUZWZ05VdEpLU2JvLVA2RU13dkZMR015STVOdGJkWFZDX216bHczTE9XSA?oc=5",
+    "source_publisher": "iltirreno.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2015-01-28"
+  },
+  {
+    "id": "news_8af6537c991cd125",
+    "company": "Laboratorio Empolese",
+    "title": "Piazza della Vittoria, al via restauro monumento - quinewsempolese.it",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1ROZDhyNG9DUzR1SHdnVjMxcUoxMHlsQXJFZFlhQTdYZTUwaXNkbVRhUkd1Q2swTi1ONk91QmlwZ1RzQmtNamJQSnFYN0dFU2J1aWt1OTRwNHp4ZEFQdjktSXNVNV9xcmk5VXhiNHBuXzdqLVF3WVB4SXMzdkU4REtKUmtBcGJZTWtDQXVUUGJmajDSAZgBQVVfeXFMTjlqTUVla1E3RG9RdEJ1bDlmZWppRUhyNXF4S0VIaW5jOV9HSV95aFk5b25wcFkxQXAxSk1uVk01MnU2TlhDRVNXaGNGczB6dy01VlViN0M0aElPMl9XZTVSc1M3eE8yaUQ1N09hRElXSk5CNC1nMVk3bHNDSXNRZ1FEcHplNS1yWTBVaVc2SVd4RVRqUVNfd0E?oc=5",
+    "source_publisher": "quinewsempolese.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2017-02-01"
+  },
+  {
+    "id": "news_87f9e0d396cd171a",
+    "company": "pH Srl",
+    "title": "Racconti di luce di Davide Groppi - The Way Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlEtVUxMaG5IRnVSWU1JbUdkSC1HMUstaEgzcm9GaGtNVWlnaWF5ckR2c1RhdDNFLVctWVJpVnladi1QcHN5VUVCeU9NbjJ5RGVuREcyVVNCMlBHbXkzZ1RfT21ya2lUSDFZVW4teXVkYy1VUEFJaUYyWm1qaTNGZzJiYkdMbVZL?oc=5",
+    "source_publisher": "The Way Magazine",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-09"
+  },
+  {
+    "id": "news_e106780d12a64144",
+    "company": "pH Srl",
+    "title": "Davide Groppi – “Un’ora di luce by night” - piacenzasera.it",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53MnVOSEpyRVl6RzZ0c2owNU1SaXpPdzlTaXlBb2VkRjVibzRSd185MXdtTkdiamJkb1R6QTBNRjQyY25VWnhibU9kbExrTmY5MG9xdW9lU0xxRENBVVFpbDB0a0NhcC1iVEpnaHRQWGpwVV9QcXpTLVB2Nmc?oc=5",
+    "source_publisher": "piacenzasera.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-14"
+  },
+  {
+    "id": "news_28116ff538c78cac",
+    "company": "pH Srl",
+    "title": "Palio di Asti 2025 Borgo San Pietro – ph.©Andrea Olimpi – 13 - Gazzetta d'Alba",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmhEZjJORndieXJZMERJLW1JdWQxWm1SeHNzN0hTbWIzTDBnOHdZeFA5QnYxSUpTQ25GOGRDMWVJYWN6bEhQR0RQWnU3UUlXQ0JWMTlONmFnX3BTTzI5cExtUGdiVzdlS2RjdXdkVVl1eVRtNWRJSVZQcGFudW5lQ2FrVFFOU0t1RVUtT1RXcWFPa2pvQUpsREdfSzhuc1hDRUZGeC1XRmd1TVQ3amZFWHpxUndPZ2E3UUtHOFFhQ3hCR1gySVlMUEMwQVg?oc=5",
+    "source_publisher": "Gazzetta d'Alba",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-09-08"
+  },
+  {
+    "id": "news_85d98ec7ac46a516",
+    "company": "pH Srl",
+    "title": "Caraceni, produzione in salita a 1,5 milioni - Milano Finanza",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3A5VjNhUnQwZUVETWZyZWhVaDkzaWJhUldqYUxOWkdTaksyNmM1WDRwUktobk1zNnIxQWc3NFNvTjg1Z3JUVG1qVWFOaGJadXphdHB4dW12ZUFULTJrNVVwaktaaHp1RWxkVlA2eWFfdG9PMzVwXzJmOE5mbkFZckduNG5PbFZPS2I5eGFnemNWUWlYeFpfaUJFbGhsWkMw?oc=5",
+    "source_publisher": "Milano Finanza",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-08-31"
+  },
+  {
+    "id": "news_50d1f8676957102c",
+    "company": "pH Srl",
+    "title": "Spot Acqua Maniva alcalina: perché non è vero ciò che promette - www.altroconsumo.it",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQendfNWlHa05rcG0wR0hrVDdVMjdXc01yLTBGa2pva1d6Mkp6cnR5U1NWSTVlUngxOF92djVHZXd3WDYydGtqdnZqNkF5eFlkeGZaaGplSUhzRHYxN3pNX3otcTZrZ0ZpLWFHUFkySWdKWFdELTEtemUzNmpMZGZXbzdoWVhwZkJnVDFB?oc=5",
+    "source_publisher": "www.altroconsumo.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-04-11"
+  },
+  {
+    "id": "news_2c1ed6207135135d",
+    "company": "pH Srl",
+    "title": "Relitto Berkan B, appaltati i lavori per la demolizione della nave nel Piomboni - Ravenna e Dintorni",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZJTTJmVDhPTkFsV1J3RUJtbFVIbUZqQ29yVGh0TXRjYjZqT3FmaXJGLS1EaDhTd2dTQ0dQY0FGOGtrYXNjanY4c3gzcUdOU0F2Z3BRcFVwQ2d0ZUhBakJtdnRsUGdfVHNnOW5HTHhkYktFT092cXJSZHNheVR3VU1iQ0w3a0dNN3dVOGlwV0Z2UkFoU3ZFRUIwMEFMMG9YYlVSX3JUVFRYNDhvSjRxWnJTN29aQzZFUFk2TFRwMjlEYU0?oc=5",
+    "source_publisher": "Ravenna e Dintorni",
+    "first_seen": "2026-09-03",
+    "pub_date": "2019-05-28"
+  },
+  {
+    "id": "news_cdef6228fd85491c",
+    "company": "pH Srl",
+    "title": "Scopri le mostre d'arte in corso attraverso uno sguardo alle opere - itinerarinellarte.it",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VTGprenB0bWFHYS1PZkk5U1k0M2x1OUdGcVF3V1VNNWtRR3I3TG1fVXRaQ2dyMW9vWkFhZEt5MEwzTXVVYVl4TXg3enhhYnNKUDFZYWpB?oc=5",
+    "source_publisher": "itinerarinellarte.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2021-07-11"
+  },
+  {
+    "id": "news_038988b4d7f7ff2a",
+    "company": "pH Srl",
+    "title": "Inaugurata mostra su Van Gogh a Palazzo Fondi. - Gazzetta di Napoli",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEpOczI3X0pnUHJZN1lUTEp3c1dJMFNUZjA1TlpkRVdEVDdCNHpIVWxoVXUyekpYcFdJaV9QenpoT21GbGR6Y1dxOFdMTUU2c3UtYm5XOWU2a2Fwa09pOGlRTklSSVBoTkxJYVRzeTlsUVdGLXRncU95UUxDRmo0dWU2cWdMc2o5UHNBZ0tB?oc=5",
+    "source_publisher": "Gazzetta di Napoli",
+    "first_seen": "2026-09-03",
+    "pub_date": "2022-03-19"
+  },
+  {
+    "id": "news_cf13f4ca995de29c",
+    "company": "pH Srl",
+    "title": "La carica dei 101 mecenati: 18 le new entry a sostegno del Mof (Foto/Video) - cronachemaceratesi.it",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZklFN21CNGNweFRwUXR5eVNPY05BOXJQUkFlWVZmeW5LS0lwUzV0amd3Z2dMenY3bHhVRFcyTWdEVVJPSzFvUEkzbFZGaWhuaEdmSmtjZmFyQzg1VmlRRDRjdHdhSkdsZmxFSFNJTWhQdXFWM1UzczR2d01sa0hIby14ZElvU3lRbkZiNFFmYzcwY0xPejlqSGRJVjd4czhKZ0FPY3FkZXk5S3NFQUFiRXNMQnBoVWRBQ21jVlpOTnJydGJ0?oc=5",
+    "source_publisher": "cronachemaceratesi.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-07-05"
+  },
+  {
+    "id": "news_3bffcf9a8d5f80ee",
+    "company": "pH Srl",
+    "title": "Alberta Tiburzi ph. Stefania Marchetti - Il Giornale OFF",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2VEQzFmX3VXbllxUExEUF9xZ2lYd192MUxDSlY0ZTdFOHpZZi01ZER1dzB0MmdyTERBa3RzZTlQODdhRzE1YXQ4bzJQd2c4RU9TQ0ZFNldmLUY1Z2tESkVZR2pKYllVclA2S3U0Q1lxb2JTSkFXZlQ1TzFfcHBEWmNOVzJyWVZ0TmV6YmkwVWpqY3BwVFNnRnFVZWgzdmF1aEZ2cVdaUmlTMmFORjVkTjZlWENKSW9ZSHk0MjBR?oc=5",
+    "source_publisher": "Il Giornale OFF",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-01-30"
+  },
+  {
+    "id": "news_b4d7b7cf759ad3af",
+    "company": "pH Srl",
+    "title": "GLORIA GIACOSA, DAI SOCIAL AL GRANDE SCHERMO PASSANDO PER LA TV - Corriere dello Spettacolo",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRF9KcXNVWmhiTVlDbHB0eGpFUS1vQjBnblZtYy1NRW1zakQ4N3BaT1dyd0kwYVZXS052OVBmMGg0SlFkYmtPM2tURlB2NWctR29GOHRDbFdoTktrendLRDZXSjNELUJ2UzlyalAzMUd5Rk14VS1xVTR0WjJ6MkdwQ282NXpkYmh3bm9ZcmRzbE9OejVfdFdqSUZOTW5mWFVJU2Z0RUczNmxLbEk0LWlEWDlkUWk?oc=5",
+    "source_publisher": "Corriere dello Spettacolo",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-09-24"
+  },
+  {
+    "id": "news_84251482ac34123a",
+    "company": "pH Srl",
+    "title": "Simonetta Gianfelici e Joyce per Krizia ph. Alberta Tiburzi - Il Giornale OFF",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUxJZWVmVmxzdWpqeTVHZTdxUnlHeXJQR0tHTTRWQkdLVlFCb3JDMTEzdDB1TVRaNkJyZ2hZdmFHRm9SUlBSSlkyZ09vXzZoczY1Y3AyM3RNZDhLNkxSdENpRGhNNzhRcjNNQlctR1E5a2diVGRNY0JKZXZYOUpPRXVyV2c2c1R5bUNsQTR1VGotN3VqYU54NmoxOFpjdFVHd3hVaTdhck96MVh6cHJ2ODRuVTlUanhYeGItRnN0SFhRN1FFbzZOVTE0NVh1c1Z5SmY3SC1ZSQ?oc=5",
+    "source_publisher": "Il Giornale OFF",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-01-30"
+  },
+  {
+    "id": "news_a861789c37885b93",
+    "company": "pH Srl",
+    "title": "Spettacolo Autovelox con Biagio Izzo – ph denise ubbriaco (23) - Il Giornale OFF",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVUMwWER4V3pFLWV6ZGJMd18yb2FRbk5SS3VjZF94WEo5SklWdE94ako1MnEyTlRlVWFQU3VZOHNzcER0UVpkc1N4SGtEUzRBNVlncEFhbElQY2s4NEZDcWZqX3Y3bDVWcFg3TDA5T0tud3NlNEEyel9QcF94YTNQOHVKQXVUQlE1d0cydUJvQlpUWXF1MHFUQzBjVTJoRjlrRlNJVFJ5d3JkWFpVYzhMbzk5M2w5M01ROEV6RnhSbFY0WVUzdGFmSTJFRVFsZFdVbGhkbElkQlA3TlRhWXBJeGhaYTNNRUllTEJKb2d4Z1lGdktkVmF2MjlCR1RGOWZ4RHc?oc=5",
+    "source_publisher": "Il Giornale OFF",
+    "first_seen": "2026-09-03",
+    "pub_date": "2018-08-05"
+  },
+  {
+    "id": "news_9d7286b6355505b4",
+    "company": "pH Srl",
+    "title": "Omicidio Stefano Leo: una passeggiata per la verità - Corriere Torino",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX3lNWVlMRGRobXQ0S1ExZS1oZ1c0MlQ0SFhZc0o3UkJQRXptaEY0eDN0QjVMNnpXQUY0M2hneVV3TVBjNU5GY3BoZHVOd1h3OWFPaFpzbjM4ejIzXzJUZV9YYzBGRWNZandZU1ZxYjlrTUtYYVVRTm1xajR5cFBuNkhVRzNNaHR1QzZGNTc0SkEydGJEUzFJWFdkM3UwSkc2dXg5VGlHSFBfcVhpb3ZMWElGaGdSODQ4ZUcxaUIxNG94TDdSdndzLVhVRGFsRTYwRC1ENDNVQ2V1UXdnckZJakxQaUkwcXFzdGxrc9IB8AFBVV95cUxPUEhjMVZteUFHX2d0Z0ZsNWtaYmY2STlVNk5jck0zZjJUMjJwTFVVYXg4eE1mNklZZnk0YzlCSlhOcW9BSDJrQmJTWDB5QXlWS0JaNjdfUFVHOGVaR3AtNlFaTnlDUTBhRDlHOGtFRFVBOFFpeWQ4Vk1Ycl9kWEV3YkRBRnBMWXRBcjNGelFnWDB4d2ZFVk9LQWdyTDh1eGx3ekxLeWJpWFhyNmFrYjZBaE1LaTlzYml6OGp0ZGZpSXU1RUMzZmExbUppanVKT0VMSnY0MGxKOXQ3em9FOGVkMnBRb1Rsd25wZjJ6a0FydGw?oc=5",
+    "source_publisher": "Corriere Torino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2019-03-31"
+  },
+  {
+    "id": "news_c7b6b289ba901f2c",
+    "company": "pH Srl",
+    "title": "La nuova stazione Giovanni XXIII - cataniatoday.it",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVREJOYnFMWXRjY2VMOF9UdGlGU1VIRW9ubEU2VFpiaUE5bV9QQWdjbjF1bEVEMGRhdGgzcmlMcHphcnc3dlhoTXk3bWZwY2Z2X19oV0tfRTlHaG11Q3RQb1Y2QWMtcHJ2cGZaV1A3OGNpV0YyUC1CdGIweEpveDQ?oc=5",
+    "source_publisher": "cataniatoday.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2017-03-30"
+  },
+  {
+    "id": "news_c9bffd98c4d4e820",
+    "company": "pH Srl",
+    "title": "‘Premio Riccoboni Solidal’: vince Vincenzo Raiano con Auto.Lin.P.H - Il Piccolo - Alessandria",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmVkX0RBQi0wZEx0OHk4SV9fel92NTZRcklBZ2JmeS1QcHNKS0JiMlhTMzdFMjNydHRpWVhyOGNPd21hZ0o4ZGVqRVVTNWN1YUcxSHRjSGdjTzVzYjRyWmJ6VWlqYWxuQWsySlVxcG1ZZ1Q3QkVFYnR5dXNaSDhMMkdUVkRSbUxFTERLMlNQUFkxalpXU2dSUDhILWlLQTFqQ2Rn?oc=5",
+    "source_publisher": "Il Piccolo - Alessandria",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-11-28"
+  },
+  {
+    "id": "news_a61e053fa2cf4be8",
+    "company": "Eli Lilly Sesto Fiorentino",
+    "title": "Tra le 100 migliori aziende dove lavorare anche 5 toscane - toscanamedianews.it",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcE5MQzl1dGpLMXByUkdVaGdyWTFHTXkxeU9jVzN4NTg2TTZrOXY0YVptLTg0Szl2a0NNMHhKZHR2bDFNUll0Q2hLME5xNGFfVWVQWEY5elJ4dmJGRmY0RDJjRnRhTWlvLWpGZmJDOURTelpYZDVxTUhGWFNUQ280YUVVQ3Z0Q1ZDR2k5UVlxNHFuMEowQ29ScDZhVHlYMkVlcHfSAacBQVVfeXFMTXRndklkOXJiUktvWFI5N0UxcXl6SWFLQVZGRGl5TVduZzh3QTh0NUpFWXJSNEVfdWRnTG4xMzRXM3hTUXZEY25RaGFQc05fS21ZbjZ5WEI3UGZrdlJ6T0ZhRVpzU3ZQd3J6eEVqS25GeUdhbUdVYnpfVFE4bXc3WnVxanI5aWFPeGxUeGM2anpHLTRqUzZ0dEtpaTIzcHBaSEtISVk3aFU?oc=5",
+    "source_publisher": "toscanamedianews.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-10-07"
+  },
+  {
+    "id": "news_8c606dd8cb41755a",
+    "company": "Menarini",
+    "title": "Menarini Bus, responsabili e lavoratori lasciano Flumeri - Telenostra",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUkhVMXAya09UeUktS1dqQ0ZCdFd2UVZkN0d0QzFtS0xFaXFmQWlQTUdTUFVFLXBnUlB5Y3ZTcVQtVU5STjF5c0RCR1lvUWRRYUhSZHRfRGYtQlJzUzJiYUY5UUN2VmM?oc=5",
+    "source_publisher": "Telenostra",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-02"
+  },
+  {
+    "id": "news_63e142dda4035c44",
+    "company": "Menarini",
+    "title": "Vanno via anche i dirigenti, ora è fuga dalla Menarini - Telenostra",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96bUNmTkhVdmhIUjZMVGJXZmFqeEhVQks0TEJBZUh4alc2WUg4RmthQkRibEJCOTRXUGpFZ0VoYmtOMFJJQUE2d19EUVI0dTkxUTlYcjI1UlNkLU9LMGRvQ2IwTQ?oc=5",
+    "source_publisher": "Telenostra",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-02"
+  },
+  {
+    "id": "news_5e024c7d8a8ba970",
+    "company": "Menarini",
+    "title": "A qualcuno piace radio: con Roy Menarini scopriamo il film nel XXI secolo - Cinematografo",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWp2TFFITmowU0JpQlAtWTFHeVBWV3BxMkhZQmxKbEoybV84cFBZX3V5Z05TSEZQMG9pcVNCYWFoTTh3UFFHM1RGNG1LNFdYejJnNUJ4VW5YbzQ2aVlhRTZ0dkktbzk3a1pJYmRKS3JYdkZtS1kxWFpjaWFSN0RHYjB2SkozNHVwTVdJRlBzSkxrS3R1dFNiekstaTVkaUg4WU5GbktxU3c4MmwtUFM5dG5jRi00eFRNSlEwNEdB?oc=5",
+    "source_publisher": "Cinematografo",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-01-29"
+  },
+  {
+    "id": "news_f6af3b0c334b7aeb",
+    "company": "Menarini",
+    "title": "Cresce il fatturato 2025 di Menarini (che investe anche su Firenze) - t24economia.it",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1hOR0xybWdhbHpkRVFrbW4tS3EwQmpOMHNTQm0zalYyWkJpOUQ0ZUpseG9xbVNwYUlCdFlNbFRPREl3RkxubHh5emNxcENvME9IMHNoOXFfSndJLVE0aWNPd19nRUNOS1JfWk5HdXFYMTlvNVQ2MjU2NGZYak15NkxaQ2k5WUZ3RkJ6Wl9tU2JlTUg2cjdOYnFqWTd0NkU5ZWRiY3k1T3c5aWgw?oc=5",
+    "source_publisher": "t24economia.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-03-06"
+  },
+  {
+    "id": "news_278327b0c14b511b",
+    "company": "Menarini",
+    "title": "Menarini cresce sui mercati globali: ricavi oltre 4,6 miliardi e ricerca al centro della strategia - Agipress",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUJaRE5HY2R4Y2Q4Mk80ZUhLT25Cc0ZaVjVVaF9QMVY3MVBuUG5xcm9pWW1URUlpY1d2YnJfbi1HZ3hsUjhKOG9yTE1pc1FMb2Jxd3ZKMTBvTXVtOVdlS3U3THlLamFGWWZOWDlzX3I4Q3Fub0VfWHMzS3pOOGlJaHF1RXFHU0FXeXV0UWlmRVJVTno0dVlZdTJHbWllamVKQW5YUTRaQjlYVTh1LXZOMnlGbWtmeUFyd1J0U0Vn?oc=5",
+    "source_publisher": "Agipress",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-03-06"
+  },
+  {
+    "id": "news_8364c9c64f84a461",
+    "company": "Menarini",
+    "title": "Fair Play Menarini Giovani 2026: premiati tre esempi di lealtà nello sport - Teleborsa",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWI5a3VxdDZESDdrd1M5RllZcjU3TTdZd2FqbjlNRVpweXd1VW1iMnBqWDI1enhDQTBmOXhKQlZqMmtuTjFsQjRVN1FsSDlhZUp5eDRzZDZWWXFxeDJoY3BjT3JRb2RvcUNOYTZaVXcxNjZTWFFlYldaMUtRX3JjMWFoMUFFbGYxbFB0NjdSV1VpZTMyY1N1aTY0RDY4VzY0SzlrQ1hqaEptazRKZ1FBMEJEOG1MMDFWNG5aQnRhWQ?oc=5",
+    "source_publisher": "Teleborsa",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-26"
+  },
+  {
+    "id": "news_f9485a061452f79f",
+    "company": "Menarini",
+    "title": "Menarini, Ceo Barker Ergun: “Vogliamo essere ammiraglia dell’oncologia in Italia” - startupbusiness.it",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3B4YjkweE5jbkhBM2VGNUpydmo1bi1Id3NUU2FzenhMXy1MLUNKblhRUjA4SG5oWlVRUUxkQm1EbWhYTGVUNmIxZkRoMVBuWG4xTzl0LUtYcHo5NnhNZFVQQzBaZzdEUTJxMUg2UUZFUDk4VkU1eGowRGtCUHQ0THQwUVJocWFXREFGdGxyNlF6XzVsT0F3UmtOalVLRWF2dDZhQVB0a1hNd3RCZHZpOWduR0w5Zw?oc=5",
+    "source_publisher": "startupbusiness.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-03-07"
+  },
+  {
+    "id": "news_5f4146162241f87b",
+    "company": "Menarini",
+    "title": "Menarini, zero ordini. Fiom e Regione in allarme - Il Resto del Carlino",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMndpSmM0QWt4d0s4YmQ4NTJsWWhYQTgyN2YyZmhFdkpacEwyOFB0Y0JxUWRMdE5zdzdRNUl6YnNFbDMwZkloNHQ0S1RZdm4wX0lsWERydDRnZlJDbjgxWWNZWUFBV2VRWVhYSnpRZUxva2h0LVVaSkRBWG5GNzlyM1JiQWluSzNGS2Zad2tB?oc=5",
+    "source_publisher": "Il Resto del Carlino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-04-08"
+  },
+  {
+    "id": "news_cc0d64b1422d9e50",
+    "company": "Menarini",
+    "title": "Da Duplantis a Paltrinieri, il Fair Play Menarini accende la 30^ edizione - Italpress",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXRIcnpiTmc3WlV0WFJZWjQtZEN1TzNRVGFYLXR3V3ZhRUkxX0N1UVhQVHlxbmppTEhodl9HSWN3cEVmd2pIUmhmYjQtTFRzUUtFa2lvQlVSbE5ZUkw5RGVwZFh0cm9oUms0NGxVWlV1Wk5vS202enZsRThGWk5DWlhic3Z3Ykd3eEotRk5vd29oQjUyUGN1eFFoYkNuLVU?oc=5",
+    "source_publisher": "Italpress",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "id": "news_c835e953a1a68b1f",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas completa un'emissione obbligazionaria da 700 Mio EUR - MarketScreener Italia",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc05HeVpuQ0F3RkRvR2R6WE9wRTFQSk5CNUhib3EySFNhTE1scXVYOHZFVXpQS21sRFJnMnEzWmNSNkRGNmh0UG5PQWNJQkFJVGlyNzRRMF9IR3pjNlZvaDlXNTJkMDN0UWgzYjllVl9EVUNLNWhvMFBUUXNsNmdVY002LW1oYXRnZl93T2dnbUNFR1NIUFd3dGpHRGlwR0Q1SDRyaUJVYjJEU3VvNXhFa2lqcHRLT0FWazlDeHVBVQ?oc=5",
+    "source_publisher": "MarketScreener Italia",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-03"
+  },
+  {
+    "id": "news_5c9ca9003e5a3166",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas realizza un'emissione obbligazionaria da 700 Mio EUR - MarketScreener Italia",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUgxdUVyN1Y3RnJmZHhFZzBCVE0tYmQxTXE4MTE2eEp1ZFVLOVdXalpfTTF6bFZHb0lGazlVNUNxNUx3VWZQOGw4UmFsVUxIR050UGpaRjBGZ005NUFuWmxCaUo2cnlXTjNESDVRNEZpYVo5YTJMTUlXZGZEWV9TOXRKRmNrZ2tpUUpQZU5fRUN3V1MxRGphSENNSXlpZlA5aGI1S3hzcGxJSUtCQlUzQnZPU3loOEtRUzZaNWpCZw?oc=5",
+    "source_publisher": "MarketScreener Italia",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-03"
+  },
+  {
+    "id": "news_d0d74d26e0470957",
+    "company": "Bureau Veritas",
+    "title": "BofA prevede che i target del Capital Markets Day di Bureau Veritas saranno in linea con la strategia Leap 28 - MarketScreener Italia",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmdKLWNOeXF3ZzNndExackk5SzRveFR0TGN4VkswNW82cURUMnpBenhvRVNSSGQzS0FaeTZQbVhBS1BYOWR0U05fY1g5OV8tQ1M5bTJEWnVXZG1jUFZ4ZGItMmg3cHZjR083ejgyNjNiLVhBcDlLcm5LUmRhMzJzT0VXZG14VHNiYUlxemlxUEVpaElobmMzT3JBOXA0R3oyMlZ4RllPbDRTNlhWem5uZVRuMHZma3NFeUI4QUxlR2tUZ3g5QkhJUDNrRWRNazFiT2tqN3lzSDA4a2ZoNmkyM0tCSW5MeXZFemNN?oc=5",
+    "source_publisher": "MarketScreener Italia",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-02"
+  },
+  {
+    "id": "news_e9f88a1d0dc646a5",
+    "company": "Bureau Veritas",
+    "title": "QCertificazioni cerca medici veterinari tecnici ispettori - fnovi",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1oRWdIcUhndy1Ib2RRX0JMcXYwM211T1JycS00ZU8yRG83a2tOODlWeTNPWENOWHNfQkhpdE1URUc?oc=5",
+    "source_publisher": "fnovi",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-11-13"
+  },
+  {
+    "id": "news_d70e48ff0ed24393",
+    "company": "Bureau Veritas",
+    "title": "Agricoltura e crisi geopolitiche: uno scenario ridisegnato - stream24.ilsole24ore.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVdLLWxEQXl4YUxaRFViYW82X3Y4dWxKdDJUb2EwNjRWelVnMmhfdm1PZ25wLUxTZTFsR2Nibzg1QmZIR09Zb29CMC1oajZmMFF2NlpKcklUNGZkbFJGczN6cktXWmpITy1RSWcxSHVmczdGRHNEWUdkOUJJdHlvbUlab0FPNVZCQTd2U1F2UFdZMElGMVRTcEVTSG9qWHNSQkpiMGRCaklEcnJxMEtz?oc=5",
+    "source_publisher": "stream24.ilsole24ore.com",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-06-16"
+  },
+  {
+    "id": "news_60ed5eb2ae2ffa20",
+    "company": "Bureau Veritas",
+    "title": "Amundi SGR consegue la certificazione per la parità di genere - FocusRisparmio",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13VzByVTA0VVlXeENBQ2p5QmhrN0NDLXFDdUlSYnU0a3dLQWp2M0pscmRxRXVKcXlsVG5IZlpWcE5jWlhpV09RRjFJZ29reGVCVDRNZ2VMTWUxX3dIUkRlRzh4WXVDSkQwcGxQRjNTeEMzXzROaWVoVzVFZw?oc=5",
+    "source_publisher": "FocusRisparmio",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-02-08"
+  },
+  {
+    "id": "news_73f8855b26b7fcf1",
+    "company": "Bureau Veritas",
+    "title": "Veritas Capital, accordo per acquisire Bodycote per 1,85 miliardi di sterline - Teleborsa",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdkNSV3k1MTNxZi1iOWpyWVlFM21mWlJQaU85d2plRVRCRnJEOGNHLW90RjlFV3JWQW56Y0VHbWducFR4QkFIamE4TV82ZmZleU01akh4cU9KZlBJR2JHdjIzWVUyTXJRM2JJN1FVMjVEZlpLQ1MyZWozNHlLcGtGLWVERzBWaWIzSEc2LWxnWGY4Rk11Nld0a1pLZ0NUU0FtUHA0cnN0eG9fQU1QTVFydE00UzZGaHZtaTZIMmJIWElINjA?oc=5",
+    "source_publisher": "Teleborsa",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-09-01"
+  },
+  {
+    "id": "news_4c5c671b3d9ef2f6",
+    "company": "Bureau Veritas",
+    "title": "Sport, diversity & inclusion: la cultura sportiva educa all’inclusione - Sport&Impianti",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2plWnBhOHh1VDdCQk9xRVpRWkljWXBoaE1ZUEZWa0ZfMnBndFVDeXVoN3hNQVluLS1SSW84Q09Qd0lwYnhocy1nSkxKc0J5bk4wSUdpN1FaZExrM0I3Vm9ZUkgta25JNGo5d0wwTU83T2F3NWhUcU40eVl1b1hJN3Znc2cyTFFUdEtWWHN6dHdSc1VNWHExdWdjLW5kbDlWNUdtVU5fai1qVkhvM2JQakVfMElVUEVTSjF6MXhVTXFVM3V3ZHp0YUJNc3czbFVBLTJzWV9qV1BCamM4SWJFUXZpVQ?oc=5",
+    "source_publisher": "Sport&Impianti",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-10-17"
+  },
+  {
+    "id": "news_991f234a5af26b92",
+    "company": "Bureau Veritas",
+    "title": "LyondellBasell, l’attestato. Politiche aziendali inclusive. Premio per la parità di genere - Il Resto del Carlino",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzdsWmktV0FNQnJpcG1UdkN6aHdUSnM5WVRldUxDd1kxbklqMmc0TlhDdzFUbkg3V1BjMVJtUTBtS1d2aVphNXRyemxpQ1dmYVJRbHYzREdUcWVtRk95TEJWQU9ya21sUktVSFNfd3dFRGpEUW5nLUZjcmlPc3R6ZS01Ul83eFZKMFlEZV9CY0tlWVYyMnhkLWFjT0o2NlhmcmN0WUpDZG0xcEkxNHR0SWQtWQ?oc=5",
+    "source_publisher": "Il Resto del Carlino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-08-04"
+  },
+  {
+    "id": "news_9a0c42342243547e",
+    "company": "Bureau Veritas",
+    "title": "Logista Pharma Italia, ottenuta la certificazione Gdp per l’hub di Fiano Romano - FarmaciaVirtuale.it",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEY5V2RQcmJnSm5ZRW9QRWI5WS1rVk8wM1NycWFwazdpTWx5aC1ZOUlpUERjNkltcFhQNmU1cUo5M0hiVWdGLXRGLTBDemhJNU1FZ1RncTZLdTBaNkVqMnlPbTdGdFN3UUtSMVB4LUVuRXlrTjJfdWVlYXVfQ2FqOGlPdkVPbl9aMDB6Z3FhbXVGS2hJcE4wWHJod3VCRFN6ZkpnMGhZVXoyUQ?oc=5",
+    "source_publisher": "FarmaciaVirtuale.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-12-19"
+  },
+  {
+    "id": "news_270b84a3cfb41712",
+    "company": "Bureau Veritas",
+    "title": "Terapie sperimentali in oncologia ed ematologia. Accreditamento per Villa Sofia-Cervello - insalutenews.it",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEc5Vkh5OURJRnRhajFsTkJWUWNkVzBNQXFKZWxkN3JRQjdDWFBYVkdWeG50QVVQODhpLUNKdzRqMGo5SDBuMWVTeXFOVlE2eG9OWVJpa3BjVXlfUXV3Y2RaeDBPT2NzRjNrd0RxNFFUOG5Vc3BoYkg5Y2JCRVhjM3NEb1NRYUQ4YmlsQi1FenV5WFU4SUg5c2ZHWE9JT3IxaDJaaTNiNEdrdFA1RGxVaUhxS1hFTkFlcW9qcTFzS0Q5WVBm?oc=5",
+    "source_publisher": "insalutenews.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2017-03-23"
+  },
+  {
+    "id": "news_a442e37f4d404f3c",
+    "company": "Bureau Veritas",
+    "title": "Groupama Assicurazioni ottiene Certificazione Parità di Genere - InsurZine",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDJBN29WMk9HaEk4ZTBkZTJsWk9LMjM2SXktMnlReUJDdzI5OExwT1dBNXhyRDdENkJTMkJuLU5Ca3IyazR2SDBBRmEyRURyUWFwajEzVmRMSTFmOVI3Y0xUeU5lT2hFQ1d3MWdIbVFxaF9ZY2R1VmNZRE5RMF9haDh5ZzNMa0xiSmNNNXJqS0JxWGdZY3pUSko0aXVuWkhJcGc?oc=5",
+    "source_publisher": "InsurZine",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-04-30"
+  },
+  {
+    "id": "news_63412aa5af47565d",
+    "company": "Bureau Veritas",
+    "title": "Aboca ottiene la certificazione per la parità di genere: la biodiversità umana è una risorsa strategica - Farmacista33",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcy02WnZyQUExUzRwRlJQaFpsVlZMNnRYTEVMS1gtX0FyRlY1enV3em1pamZNYkRQTF90Vkl2NjBBN0tmcFVhcV9sMXJqb3U3MDlLcjRLRUFEbG5NM2poVGp2WGljbVVDVTB5X1VsQ2RqMWdPdU9ZLXRFNmRjNEhkMDJCNGxaWHFNTV9WUTB6d2hBSW1HZ181dThPRW1Nckg1RDNDbDlIX0RrTGNPclphc3BycGl0VkE5LU9CalpBSmd3alNBT1RsLTd5enNMeFNkakg0VzZ3M3FtMVpReFRrbDlYSmxFNVBnZkJhOFdfQVZmeTg?oc=5",
+    "source_publisher": "Farmacista33",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-07-02"
+  },
+  {
+    "id": "news_9eb82e5df85462a9",
+    "company": "Bureau Veritas",
+    "title": "Shipping: prima donna ispettore su navi petrolchimiche - Uomini e Mare - Mare - ANSA",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeHdFZGJNMmJwNmhVNFRDSnVoekg0VkY1dUE0NXM0LVBUR3U0cGdRaUJILXpPdnZ5alBYTEdSZnQzd1NlQjg2V2xYaGwxUnZ3V1BkR20zQWwzbl82b1VWM1BwWUFXaWVGQ1FiNGJtQzZNWThrdzJ6ay1iVGNZZ2YxWGlFM2l3RXhJUENTVUtJd0Itd2RCWTRwRDkzQlN2cjJmRkJBWUpXT0txWENyNmVaT2dNOVdia0xTUldyY0h5Z2hyc2JNZ0lHZ2ljUU9TR3B2NEp1VHNBeE12cGFpNnlXTi1zeElKbnN5RUtoVzBRVHktQQ?oc=5",
+    "source_publisher": "ANSA",
+    "first_seen": "2026-09-03",
+    "pub_date": "2022-03-09"
+  },
+  {
+    "id": "news_fffb69607c8dc2ee",
+    "company": "Bureau Veritas",
+    "title": "PATENTINO FRIGORISTA F-GAS : PRIMO RINNOVO DECENNALE - I&F ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkc3eU5adXhBN3JmSUc2S2VzSWV5aGZyVkdta0lkLU1Ia3ZQaHJ0ZExib1phdzdLQmVULXZIa3ZyRGRrOThIbFZiUUFGSklCQmhZQWN6dm9MNUFzRldsMlJxRFQ1YWVRdjBEV3FUMjBiTUNjNGNVS21tUjlvelg2SWE4a2ZsLU1NV0VjM3d0ZGtQZzRaelBJVUpn?oc=5",
+    "source_publisher": "I&F ONLINE",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-01-30"
+  },
+  {
+    "id": "news_d7150b04dccc7049",
+    "company": "Bureau Veritas",
+    "title": "Container, al via i controlli - Myfruit",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PczhMVUxGNTlDeG91dDI0Y2FXeDhjbHlQcWZfMUR4NHpPOXlkM0FoZXdQaFlNZ3hDdG9lS1B0cDgtdWNEVmppY0FEQlh0OXd6ODJYbW5YNGkwTDV4N28zdkVkTjJnWVRNbWJLVHUxd1c1SlJpMDhiSVl3UGlmZw?oc=5",
+    "source_publisher": "Myfruit",
+    "first_seen": "2026-09-03",
+    "pub_date": "2022-06-28"
+  },
+  {
+    "id": "news_2bd7ea3bb1096662",
+    "company": "Bureau Veritas",
+    "title": "Seriart G2, arriva la certificazione per la parità di genere - Il Resto del Carlino",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTUlpVGtBMkdmNmFiVjF0ZWhicXE1M2VCMk50a2pEYXB3X0tfX21vazF0WHZhc3MwbUtJX0JhOWVBOHo3OVNNQXpXWi1XV0hTaFZtMW1lQXJMNlJUMWEzSUZEUEtSUzlXYjN3azl4elZrRzdFOWZXSlhCM1RpMEtVOVVDYU5oTHpwTVJYT1p2aUVKZ1lMVzlCQWl3?oc=5",
+    "source_publisher": "Il Resto del Carlino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-03-05"
+  },
+  {
+    "id": "news_bd5fd34891f6bad0",
+    "company": "Bureau Veritas",
+    "title": "Tumore alla mammella. Primato nazionale per Brest Unit di ASST Ovest Milanese - Sempione News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFNIUWRTangxQm96VlZOLXJsakJlMy1NWkhBdmNKWmhxTWNCVlJiVkRzUE1PM3pmQy1aUmZXeG9JSV9UU3MxVmpaSkg0OUE4eDBnX2pCNExRR091TGtqZlFIN01pTW9RSElSRFRzTjc0UWlYeU52cnp1bl80WGFRTnF4TVdDYmMtd2FvRkh4U2ZRNTk2eDJ3cE9UdldCcDZrNFRhXzVhTkhmTHMtNV91M1BzVTFzNzg?oc=5",
+    "source_publisher": "Sempione News",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-08-07"
+  },
+  {
+    "id": "news_085cf5211654e717",
+    "company": "Bureau Veritas",
+    "title": "Un robot che mantiene sicuri i binari dei treni, -75% sui tempi di controllo: come funziona - Il Resto del Carlino",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGVqeVdDcGIxLW5YRGoxOW5jdFRZaFNoX1BoMVYwcFU5X3p2dnlxRERJT0w3YU5pSmlpRHA3YmVrTWdEaG9vOWF4NVF1ZEx2R0M1d3M1aVN6MUZhNHdwZ3ozSHFDNzJrelNhZC1BRWkwT29zSWZoODVaSk1kSTVEdzNNLXRwVlZoLWc3dTZqVnZGM21H?oc=5",
+    "source_publisher": "Il Resto del Carlino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-03-05"
+  },
+  {
+    "id": "news_653f2f5120a87ea9",
+    "company": "Bureau Veritas",
+    "title": "All’ispettore Paternò il compito di verificare la permanenza dei requisiti Porto di Palermo, “esami di maturità” per il Centro Studi Cedifop - Zarabazà",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUWoweFZtVElmQ0o2SHhCVUhQYVRxekJZYnppZ1dCTjNaZ1BGSWd3OFZZSXZlVFBvZmJMTGFUeGNiTGZ4SDBoR2ZXdXJXeU4tQ1VEOUh2bkE0M2RpQXA1cWRVVkpXYVFPSUxsd3lCYmVFY1c0cVFhQW1abThnTDVkTnNXT05jN2lBMVJEaWxhdmlfNVhvY0RVUVBncS1FNEJHLWRDUW9aVGg2YnltMzVyNEg0SFc4UUpRa3FMMmtrcFRkeTNLbHVtN0ZveWNRQlVhTXBPSUpBVWtZUXFzVF9NcWNCLUswWHo1WUl0VEZjYk5mSHhPNHU5cjE2aHhTVzZ6cWc?oc=5",
+    "source_publisher": "Zarabazà",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-09-15"
+  },
+  {
+    "id": "news_cd6a5dc1b9e122f2",
+    "company": "Bureau Veritas",
+    "title": "Banco Marchigiano per la parità di genere: rinnovata la certificazione - cronachemaceratesi.it",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFFwVTNRekg2bFZWLUlacVpNZjcwYzR1V0ZyYU0zYkVPM0plaFM4c085OGNrU2JQUk93QXhPWG9WcDZPSFlOSUN2TDQya1lBcVZ6bzdiR1ktSF9uZ1hoTjhSUnlZY2JFQ0lSUmNYNGtOMEpLcGVCdTItNEdGWC1lS21iN1R0dnNQX0pGeWxmVVhuZzJEc255cExfU0RKY2NqZC15Q3ZvemFXWm00dlczN0llUW9XR1l3d0tfRWV3VDk?oc=5",
+    "source_publisher": "cronachemaceratesi.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-01-28"
+  },
+  {
+    "id": "news_39fcebf6c2080d21",
+    "company": "Bureau Veritas",
+    "title": "Concluso il corso per Operatore tecnico subacqueo del FSE Il percorso finanziato dal Fondo Sociale Europeo ha avuto inizio lo scorso 6 maggio - Zarabazà",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZlpqWV9kY3JWOWthY0dERGFtQzhtRy1YWGV6RTFCXzQ1UjRwZlpRWmtvYWhMYTNjX1JIbTlzN29UZkJ1M05IWmFpemg1QjgtNGc0Z3JyMGIyVExrNEhwRlhZN01tVmhlbjhMQ25yOTYtWTRTSGN3TC16NU8yeUdsUkd2R3A4ZVgwbTBfZXdfMzVxSTRCcEpkbGlyMDJsdGo0ZzMxaGFlSVNvVU5GdVpnSVFjczlqOTRfelh6LUlvUlNkbXFVTEVpNmlNeVlsdlNneUdaOWphVXhDTWNCWlM1cFZwdUhlckpGWmNOR090Z0gwbmZETnBVUk1TeTc4VVBadjBCM1dSc3M?oc=5",
+    "source_publisher": "Zarabazà",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-12-02"
+  },
+  {
+    "id": "news_f35ee0648bda73fc",
+    "company": "Bureau Veritas",
+    "title": "Credem tra i leader italiani dell’innovazione - Data Manager Online",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2RlMUxLb3VOWWU2ei1zOGFCYURTdzRuRlpoQ2FocjliYWttd01tRUNJWmk2T0I4Vk5xbGZEMEQ2UXJnd2FKbzdOQXRlaW14eENIcFhSRkZ2ZmY4SzdXdDJySHZ5TjVuX3pZSWk0bng5QlNld2F4R3BodWJzZFE4WXNKa0htTVE?oc=5",
+    "source_publisher": "Data Manager Online",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-10-25"
+  },
+  {
+    "id": "news_5ba1773ca5deb422",
+    "company": "Bureau Veritas",
+    "title": "Ospedale Sud Salento, progetto fermo tra ritardi e fondi revocati - Buonasera24",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWJHT3Eycy1sTDExNmtFYnU0bDdlcTN0U0JEQmR5NXdSZkxiWnNscUczUWx4X1M5VUZINWxZQmtWcHVRc1E3cXpNb3R5TlQ4QlBoV0xzWTZIaURHRk54dmRFdjJPcmlfN3FpcGpGT3lYQ1ZEc3hSOU5SeEFLTE9Jc2pmQ0xYZXF4SG5IZGJlYUktX1BtN19zSUIzT0E3TFR5a3BfUFU1QW1IUkt2QlgxN2xlcFVpck0?oc=5",
+    "source_publisher": "Buonasera24",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-04-08"
+  },
+  {
+    "id": "news_089c518a701df595",
+    "company": "Bureau Veritas",
+    "title": "Scompare l'armatore Michele D'Amato - informazionimarittime.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0x6ZUcybUlEUDhCSktuRkF2OWw3MzFTQml6d3VMdWt1bF9RaDNDcV9uTXdYWUZBZ3pNdXRhWDBlTW1YeTNnY2ZUWDI5UjViX0VXRFF5RVBWRFU5aDg4SDYwZF9tZFBERmJ0OHZYMnZLRmRKT2NSVDBPQ1ItbHhFLW9n?oc=5",
+    "source_publisher": "informazionimarittime.com",
+    "first_seen": "2026-09-03",
+    "pub_date": "2022-03-20"
+  },
+  {
+    "id": "news_220137a612fda902",
+    "company": "Bureau Veritas",
+    "title": "Anche Galaxy Z Flip 7 è super resistente: il nuovo pieghevole Samsung è tosto quanto il Fold 7 - Multiplayer",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTAwekFPN1JMZGhaRXFwdFB5R3lMbXM2ZF9BVmZ2alRDMERidHF6dGV4TkpTLTloZ0FJN19iRER1cWxJMUxhN2JWYnlFTnhvM0gtWTRMZ3hDcEJLd0tpNV9ZY0NiNFdoQmVlUFpkeUpGeUZYQTZPNngzdWVQbFFpNzZRN2I1ZHVsenZ2MWNpSlVNOTh5Tkh6VUpzbmk0VWRaUnc?oc=5",
+    "source_publisher": "Multiplayer",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-08-01"
+  },
+  {
+    "id": "news_c35431d8702126cc",
+    "company": "Bureau Veritas",
+    "title": "Performance energetiche, Feat Group ottiene un importante riconoscimento - LeccoToday",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHemt2dWJqYkZBWG5YdWtxZElvQ1lvODF5N0xfcEdOZlNFTTlJZUtBTXIybTJ1NTRLcG9lNlJqOVdhNVZ4TkktbnNGd3BNUTNDZXFQUkRxQjVlTFJTd3JtSGZFcTBfRHVsVnBxYnVTb2g5eTA?oc=5",
+    "source_publisher": "LeccoToday",
+    "first_seen": "2026-09-03",
+    "pub_date": "2019-10-02"
+  },
+  {
+    "id": "news_9d24975b4857ebde",
+    "company": "Bureau Veritas",
+    "title": "Danone Italia: nel 2025 le donne costituiscono il 62% dei dirigenti - Il Messaggero",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNYWHdqekp1eGhkY2ZtWmxGT0tIdXNMYVhCSGV0a0NIQ3c2TUFMclUydEllbVBjdGxtcVJ0VWlsY2NqS1Y5ZkllaDNhWmNTcDdkOWpzeF90SzFEa3BHV0wxUXQwWlVvM2hFQklkQ01HV1ZMaTVLdU1Nbm9OVjNqeXJMVl9IcUJFQndzd3BWRHpSUDZwX3Y5T1gxOGhKY3JaUzAycUpsM1JYeTc5WmVfVG9QTDYydGUzWDBpZFBsSWXSAbsBQVVfeXFMTmVxOVFYNXdLRjhXcXNaaTF5ZUtDdWR6YnBRODhaVEFobEdWbTh0eFYyUVhteC1tV3Q3ZHFMbHE1WnR4WHpBcFBVOGRLOUx3cWZFT0N0S0JmYXJULWxZejdLVWsySE9ZZ0NCT3Y3ZGkxcWQ0TkJHRVpFdWtDLWR5LV9UVUlFaFp1c09XR1pBN1JsSHV1VFQxeGdWYm56RnQ4ay1VZVdhZDhFMHlrVXNURDhDRE1QMDA0cjA2UQ?oc=5",
+    "source_publisher": "Il Messaggero",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-05"
+  },
+  {
+    "id": "news_70aa04f959ab4769",
+    "company": "Bureau Veritas",
+    "title": "Emanuele Filiberto inaugura a Triggiano la prima azienda del food della sua casa reale - La Gazzetta del Mezzogiorno",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcFZhYjhvNHM5bURqWWV2ZzhWVHNOdGlJcTRTZ0xqblV5ZEQ5U3NUVWRja01qTko4cGVEbmtTWkRtVDIyQXRwSTVsN2d1VzZxMXJjVVBERlJXaEJYWENLdHVEdkwwNWFzbWdlc1dYLUZtamJJdkNVaHdxSThPOHRzMG0yWnozUFdNYW1IbkY1bE05c0ZKMHJaa2RGSFpQdnBBcGN6ZmF4bkJzZ05GbGNSSkkwbnZtSmx2VkM1Uk9pRDk1Vk9ESldabUcwNmtHdkJTUGVOZTgyVzJmVXBYMHNkMkcyUktsSmlRTWY5NlVxZjPSAe8BQVVfeXFMTVVocS1sa3hSUkpFem04SnRNUnVISjhnOUxFbklDSmdvT0Y1UDFwQnhHbHh2YV91UFBFcnZDQzdVcUtlTENCa1NlZFg1LW5UT3Q1UUVLcWVvVGNJUHRLUWVrc3o3b05hR1VhZ1NmaTBnQW1jUm1oQUlvbHB5bWJOZXZVbzVPUWRodTFvMXhNOTRMZm9jUDRaZ1E0OVdQTWVGMlRpTjRGZmU3V01QYjBGNVlzMFcxaUpEendpSlhzdS1WVnVJTjE0cHJtQ0VvZlFpVmNYaC04MlZxY2N1VmxpVlNmY0ZXUFV4NG96bVI4QjA?oc=5",
+    "source_publisher": "La Gazzetta del Mezzogiorno",
+    "first_seen": "2026-09-03",
+    "pub_date": "2016-11-09"
+  },
+  {
+    "id": "news_50fc0f8afd225da6",
+    "company": "Bureau Veritas",
+    "title": "Verso la nuova \"Uni En Iso 14001\": incontro all'Ain - NovaraToday",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UMVJleWFuemx5Wm0ybkZfWWFrTi1GZVhzb3lZeTE4Rml1aVc1UHVEWjlwbjkxbXpqWkNiNUI2N0Fma0tDR0FBb0tYek1BVHlDRXFXMm84b2VpZGJ5T05QZGhXYmJrM3dfeFpFcVc5dk1DU3k0VFB6LTZ3?oc=5",
+    "source_publisher": "NovaraToday",
+    "first_seen": "2026-09-03",
+    "pub_date": "2015-04-28"
+  },
+  {
+    "id": "news_dfc3b5cf24335c9b",
+    "company": "Bureau Veritas",
+    "title": "Miss, amiche e bollicine: brindisi natalizio nel segno della bellezza - Il Mattino",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUVPaE80Qlk4WWRIaDRyWFU5X1J2S0dCY1pxSThMTHA0dVVGRnNVQ3NpOGpsbWN2V25DS0xtNW9VZmV3dGpmWWRNNHplMGU5NHJOcFphd3dleDFVUXB4ajBRN0I2a2oyZUFIMXpDVzNCNUlXR09OSmdxS2lkaXlQc2ZscU5WTU8xeFJVUFJqc2stcWx6X2FDMUFNZ0hycHF2WHR4bFI0S0ZQVzI3RGVjM9IBrgFBVV95cUxNOGhfOHhNZFdLbFJsM01zczV1dWl2eU1FV01WbVBKNzhfeHVRNmY5dnhycExKZ3lwZmdwTHRwWWY5WkphVUFZVkhmd2RDVENuTzFiVDd1WGw3UG9PbF8tbGhNd0N1V0NVWHNGTTRyNEY2bTk5dUQyODFoYnM4dTRfNlhaOFhTclNUTmthNnNWd183Yy1LTzNrdUVNTzlOX3laVTJEcWZhT3U5R1VUNUE?oc=5",
+    "source_publisher": "Il Mattino",
+    "first_seen": "2026-09-03",
+    "pub_date": "2017-12-17"
+  },
+  {
+    "id": "news_2fd06c045493253a",
+    "company": "Bureau Veritas",
+    "title": "L'Istituto di Candiolo ha ottenuto la certificazione ISO 9001:2015 - Torino Oggi",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeW13SDU5dGNqUUNSSl9MakpIaklxLXZuWHFBZ19aak5EN0VFTEVKVjVpbXZkRnZwc3RER1VjdXMyY0hYYnRibVVMTEc1NWpjdGxIZ08tajlGMEJwTzVlci1tOGVRcnB3Z1oxam1uclpZelBoNm5WRU9tbVQ5U0RYcWJVUXF3YkpiYmc1aGUySkI2UHJJWlVhNV9PV0FmeTVwVXZwVkpfekpfSWdnRTAzMW1GYjVKWFlZSlpTb1FWRlFoUjZpQVIzbGZwSnZTOU9CZUdmSUI2ak3SAdgBQVVfeXFMT3ltd0g1OXRjalFDUkpfTGpKSGpJcS12blhxQWdfWmpORDdFRUxFSlY1aW12ZEZ2cHN0REdVY3VzMmNIWGJ0Ym1VTExHNTVqY3RsSGdPLWo5RjBCcE81ZXItbThlUXJwd2daMWptbnJaWXpQaDZuVkVPbW1UOVNEWHFiVVFxd2JKYmJnNWhlMkpCNlBySVpVYTVfT1dBZnk1cFV2cFZKX3pKX0lnZ0UwMzFtRmI1SlhZWUpaU29RVkZRaFI2aUFSM2xmcEp2UzlPQmVHZklCNmpN?oc=5",
+    "source_publisher": "Torino Oggi",
+    "first_seen": "2026-09-03",
+    "pub_date": "2016-12-15"
+  },
+  {
+    "id": "news_79a457324f1828d7",
+    "company": "Bureau Veritas",
+    "title": "Asl 2 Savonese, sei nuove strutture certificate di qualità, ora sono 47: \"Le persone la nostra risorsa principale\" - savonanews.it",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdE00Yl9KbHF3NVowaFU0Z3NiWFRkcmY0UEtHNTdLcld5LWQ3eEVZc0laV09CUm85dklNSE8teFhDWDNueG10VEtjRUJ4aW9wNmFBbnVtN0RadlJZMExTRTBCMDNjLU51U1FSdzNXSjdTei1UUXRJeEFVeWpmbHZRZEx0TUx6MWd3SmZRQ29neGJlVDdzSTN6RkFyMEh0T3UzanBxS0VtY21lNkJnN2ZwOWl4WlNvczJLU3phdmVid2pBb2NPc2pHcW9VQnRSNmVpSm4zZmtNd3ptVHVST0V6VzI4RzNac3NsSWd4cXUzMXpUaUNfcXlHV0g0X0NUMDMwZVlaWVhaWG3SAfsBQVVfeXFMTURpRlRJa0NQNGxVbDZ2X01mN0FoLXk4enNZbGlfWmZhZTRJX0NROURGU0lBeUZjNmt1NGRVSTJtMGN0TmJMZEk4WS0yWU80SkVQSjhsX2dvdU0tWjV5WU4wazRPWHhyYjRILURobWR6b2tCOU82Wk1vVjd5clEtWTZPNnlhaFR0UlhQTUs5NEozZGdtR3dqckFMajdIQldLcEtqamp6cy15WktVWGlsRmxveXRPdUtnc0gyZ3dWbi1HdE9tVW9ld2Q4VHhRQlBpSzFaYjhTNXdIZWtpc3lDanFJTFJTVWtQaXdoUHVabDJGM0ZjbS1TZ1JUNGc?oc=5",
+    "source_publisher": "savonanews.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-12-12"
+  },
+  {
+    "id": "news_157a2671105e939a",
+    "company": "Bureau Veritas",
+    "title": "IEG, Summertrade: raggiunta la doppia certificazione volontaria ISO 22000 e ISO 45001 per dare valore ai primi vent'anni di attività - Affaritaliani",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS0h3a0FyQWVIVTF2YTAycXBIMDA2cVJlcG9IcXN5QWxCaU51SF9ldTczaHh4bW0wckJwenh3NUpwMDNMaU5HRmpOUEtYSWhtOHJsaEdkN0NobnBGMnBIa2lsVlNraF81UWg0RDRiTERyV2xkNDlfa1lrb0hsYS1JdC1DdFU0ZHhvaTFVY3dhMGxtUHB5WjhLLWxjRTc2MU9SYVM4WTBrNzVqV2Iwa0NBWTZJNUZoZGF1RVFRMXhzNmx6QXUyZHVTc3U4QlpRWDU0UU1jRUJ4SWJwQ2htQV9NdVZSZnJVeW5sZi1Eb3p5NG1SdW5HazFmd2RYM0xSbTdvanN4QkxRa0JNNzZhT1k0?oc=5",
+    "source_publisher": "Affaritaliani",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-10-13"
+  },
+  {
+    "id": "news_f9259f62e5ab14ee",
+    "company": "TÜV SÜD",
+    "title": "Caldo estremo: cosa succede ai prodotti che utilizziamo ogni giorno - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkYxSENGQUUtX2kwMnM3WTEwTVlWcHNhdzBQM1MxU3lpbWljSGJNV2xOTWx2ZGdwYnpqQ1RKaW11bWUtV3JjdV9kNDBqYUJZN0JhM215aDlseW96TjlUbERQUktUaFRjenZxMm5OT25sZGlZT0VJVUxLVm84Y0dVOGFCc2M3Y3ozakxrb05vQWdia1lmLTlXRFNkaG9Jc1ZKQThfT0oxeEVpbndZRUZCM3psQUZBNWladE16V0RLOEE4dkJHZW5KdlVR?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-07-20"
+  },
+  {
+    "id": "news_23a0d39c184186fe",
+    "company": "TÜV SÜD",
+    "title": "Il Goodyear Vector All Season 4 debutta con due test pneumatici - Gripdetective",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbk5Wd0ZnWmVZc1V2NnFkcE5KUWdfYk9PN0Z0ZzRUSklnMGNIU2dHX0k5U1pkb3lmQzZVdWRDZXR2bzdIVW1zdERNTmg2T0laRVpaV3JJSk1DbGtaSmM2SHRFcUk2emV1dnhpOV9MWTlsZTljQWRSbkdvRzVENGpXc05wQk91NlRXY3lmN1dZYzExSlJwRGtIZjJqSQ?oc=5",
+    "source_publisher": "Gripdetective",
+    "first_seen": "2026-09-03",
+    "pub_date": "2026-05-22"
+  },
+  {
+    "id": "news_ba8e1b0097dd0f84",
+    "company": "TÜV SÜD",
+    "title": "Soluzioni per l'economia circolare - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaGRybnd4UE9MR3VTb3JsZTZkRF84QWtuQzFPQ01nY2RHSDhVZnhxOHdCbHRzME5zTTJ4ZmktV09vb1lRQks5QmFNLXoxVmtJN09CeFMtaXhZVmpZZ2Nsb1cyN09zM1pXUzVhcGlOamtrRE5QUDE5WTFHV3BtTkdOZ3Jn?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-07-24"
+  },
+  {
+    "id": "news_82ab740a820aa134",
+    "company": "TÜV SÜD",
+    "title": "Nuovo Accreditamento per Test Biciclette Secondo UNI EN ISO - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUpWY1FPRjF6b3FZb0ZpVWc2aHVIT25WSTJjMmhpZk9NcEh6b1E2dDdZQVdxRGtOTWpZNGQ2cGdaQ2RweElyTnAxalNJZ2VudjBDc0RtaktUUXJoWWpIdGo1VXU1dEZqSjhNQzdNU2NhandUemxRRHNOaEMyczdpWldIcklBR3dxSTJsOEdNc3dBczFaaGFoN3c3NWo2RW5zck56Zm9SWVE0c0RkTUlnMGRWLWhpUDRUTUVvNDhzTURVNWZnNktlNUQtdw?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-07-23"
+  },
+  {
+    "id": "news_64e650fb0ca4c188",
+    "company": "TÜV SÜD",
+    "title": "Webinar Piano Transizione 5.0: Incentivi Digitalizzazione ed Efficienza Energetica - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0duZlFScEhJaHdULThCenRJOEdFdzZiVENsNnFmZS1McnVtX2k1RGUzYUdPVExSYTQ1VThuTGpLa3k5WmRReE9qbTh0Snllay1Sanh4d3NRTnNOU0xTUVlCaVhGdGE4UjVEa2pRQ3Z5enZHOGRWMkI0TXBKZFBrdktESVhhM05UeXkzYnRxSnM2Rl9ZdWFv?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-11-05"
+  },
+  {
+    "id": "news_fcec2ee565512419",
+    "company": "TÜV SÜD",
+    "title": "TUV Italia alla Fiera Key Energy 2025 - Rimini Expo Centre - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUVNbVVOT1VUVFR6Qjc2VnVNeVNIbFRtdGRJcGsyTjdhc29sOHhydl90NlJLNzIxRHpmUS1QY3VYTld4cXZ6VmlZTDRLZERTOG5sbmRYaVBUdTEyOTdzZVFKTkVMOWhscVI0SUk1ZE1vRjFRRUtzMDZoeC0ySDlsRnRkd0NvVHBaX3hTNmx3TFFMc1V3US1ZdUpTOG9vWndfZ2ZRZUxZU2g?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-02-13"
+  },
+  {
+    "id": "news_53c121b832472de4",
+    "company": "TÜV SÜD",
+    "title": "Tendenze Cybersecurity: Soluzioni e Normative - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzdMLURIMl9KeFJxZm5PRmdoSGhIa2ZPVmFBREtmclc5ZGpkVThDcFZTbmt5ck1NSk1DdlgwdUtTOHFOWXk0YUo3M2pGX193X3REWEo4LUNsOThJUlFHNjF3TVFtbDlhNlV5dlgwMlQ1XzJJX0FGVGFodXc1TXYzVUZudHdCdFNrOWRISVlndktqT3J3Q05NbkJKb3dqQjlhdWRJckV1VHZmUFRJYV9jcjFxUjBNQ2ozb3QwTU8xS2dzSEdUM1NkX0dOTURfNGs?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-05-17"
+  },
+  {
+    "id": "news_2791889b8da24d1c",
+    "company": "TÜV SÜD",
+    "title": "Normativa Euro 7: Riduzione delle Emissioni dei Veicoli - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkZZaUtLUVphdjBVVmtrY3pIaGJVLXNLY0Z5NzlXNWt5ZzdBN0p0R2FaUXpSdFRVT1c0NUY1NkFHd3BHVE9kTDdNX1d1amdCN3VGTjNZM25zZlB3eWM2amVBRG1hSVdSaU00X21YYmgyMFpvYld1Q3pDTVVnUHlVeU1teVRsV0N2RlNteDVWaGQ1VlJ4aXBaRUxCM0txLV9yS3BXV01xN2ZMdnJjYXFWczFSSmFkVFM2RVYwQjFwUWl0all1ZmV4cVpvdHA?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-01-21"
+  },
+  {
+    "id": "news_1672f14aab6b4bad",
+    "company": "TÜV SÜD",
+    "title": "Cyber security e Direttiva RED: cosa cambia per gli apparecchi radio? - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZnF5SmxwaEY5OGYzOGVyRHRZQnRWMTQ1WTRVaGNmWG84MEFxWllWRFI3eXhSXzN2YlQ3aFFydHdyZnlfdG45QTJMb3l3QklkcEh4Sk9Cb0w0Z3hHd0ZyMUx6OXlKX3ZzT1ZtNkhjaW1aYWdYRUJPYkYtLV9lTGNiV19vdFFxOVhERUw5TTN1R19fX091T0NHU0ZOVm03ZWNnbm5rSFZwaXBTdGc2WDl1cjd1UGEybHNmdHktcVRmWXFGMGVpQzVYZVZrTWRLb2V5MHlTTWFKbjVtQlJFeGlRVUIxN0I5YXlEUWxOczdfbkp3Yk1hX0E?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-04-22"
+  },
+  {
+    "id": "news_53bfc0512c028783",
+    "company": "TÜV SÜD",
+    "title": "Innovazioni e Sicurezza nei Parchi Divertimento - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjB5aGk3NU9lNUh0aTB2ZW8wN0R4R25aTm9BS01GVmJHSHBGOWY5N1VnMWxnNjltc1hLR2FyT2pnRmNPQk1qa19BZmdpbEZKWlZWUWZGaHlhS2JpNTdtd1dsYlp4NkFZVTdRUGpVS0tCVzA3and3LUhJbWNEM3pDYnRrZk5BTDlZWHFMUVNDYzhNR3plTWhxcm9SSkpzeFhkaTR6UGFvcjJiUDVXclV5RFQ4bTJuT2VZejhGaTRQYllIVXUxM2xLamJaN3NKZw?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-02-02"
+  },
+  {
+    "id": "news_a4b605f4e1d198a4",
+    "company": "TÜV SÜD",
+    "title": "Scopri le Novità del Nuovo Regolamento Macchine: Webinar Gratuito 2023 - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemhYa21Lam9xcXVLXzRvekpSRmhISllGUnVuQ3Y4TVYxNkFOTW13ay04cnE0MFZ1ZS1XeHQ4Zl9sdU5FY2tWSW9FV0tVTnRyYVlaYmJjR01panB1d1hSblBfOF90bUVZc1l5UjJyUHRZUk8xa0lVa1NuN0g4R21kV3JYWlBMUW55dVdBbnRxX20tVGVIUjFpLVVoWDhBSHF4TDJjLS1SWmo5VDdraGZ1THVJWHc1WU5MT2Jz?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-04-07"
+  },
+  {
+    "id": "news_ec77db4d39b446d8",
+    "company": "TÜV SÜD",
+    "title": "Requisiti di cybersecurity della Direttiva sulle Apparecchiature Radio - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN0pyT1RZQlE0eV9tNUQtazdwb3o4aENMUFZzQ3dZZnZiMXl0aDcyR3pQWndZaG5RQS1QRWhtZWtZR25GeHhHRC1qeU56dnd5aHhaNGVhdTFqV3UxYnAyRy1ZZmZ5YzBhVmNwRHktRXlnOEhCVjF0cXBGZ245YzRRakNQbXFlWFFGMVJzMjl5bTBOZzdCcG1oTkFOODJsQnpkM3JUS21BODduMkJ1c2IwZzBYMDRQNmk0VWU3OTdHYnQ2NzVrLXlxWl9jYkRKdjIzUXZlM3VpT2hGQlNnT01OTzZhczBIUmdIMFJZbmFGR1hfei1pb3JDMXRONHlVOGFrRi14SFNzREtNdw?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-01-23"
+  },
+  {
+    "id": "news_c62d02dd1696654b",
+    "company": "TÜV SÜD",
+    "title": "Certificazione ISO/IEC 27001 Standard di Sicurezza - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXk2QTF0bF8tcmVmRkNzMFpNWTI1STdBVURqNTM1X0k5c0J1Z3FwMHB4MlBLeC1XNmoyMnozT29qY3VXZ1QzS1g4RUVMLVJJLXo5N2l0ZWZfamVQLXE2Zlp1Rk9NNzBZenRLRUN6LTBVY0F1RlJlRGJNTlJuLTViaVV6b2JUYVk?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-11-09"
+  },
+  {
+    "id": "news_7b925bc49d5dd9f8",
+    "company": "TÜV SÜD",
+    "title": "ISO 21001:2018 Norma Servizi Educativi - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHdaS0VfUjJJLWVFdXlCM2cyWjBVckZHUnNfblNwX0txSENzeFVrSHZOQW8tVGgwTVVjT3pTSDdpRnBwMGRZQUF0YVYtT00xc01UcXEySjdCYkZsRmc1R0hVdUp5TXZ5NTlWcnNQYkR4ZEdzbEF0ZjFxU1BrMzU0WTFmYjJxb3NHcl96dGw0WkNPNVB3NnJNOWljd0pIY0dJOE5QSllyUGRkY3M?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2020-11-12"
+  },
+  {
+    "id": "news_0f6a3d43d3ce859b",
+    "company": "TÜV SÜD",
+    "title": "Decreto in materia di vigilanza del mercato e conformita dei prodotti - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWnllLUhyLXhkNGEwbnl5ejBvVnF4UTdaTS1xWldUQlpUVUhkdWNobm5KWVBWVnY0NTc1SWx2bC13QnNxMjlJaXB0dGVUWFlrb1hCTy1iVTFwSXBnS0F5WUxXRzlTMkZQT3BOUFFNTVFXLUprUS1WWnFvS3J3YVRLZEw0eUt6V2oxQ3hFamFDZnc1SzlaNGprMHEwUGcwNlVNcEt4c0pGdDJaTzU1NkZNV1RuVlZQSnhOT2pvMTlRcHlsWUF0UHF1ZDNtSlN0eVl5WEY1ZlVPa2Rzb0FoaUpzV0REQzJXbENh?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2023-01-12"
+  },
+  {
+    "id": "news_206328c4abc94c3f",
+    "company": "TÜV SÜD",
+    "title": "Direttiva acqua potabile: qualità e sicurezza secondo la 2020/2184 - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRFVuekFLd0ZLR2pLVDZzMnZMbDh6enhuUU9VVngwRGFSakxuTEN1ZUx4dmIwbUJKZG8zeXRfQ2dHYzVvWmdKX3RKZEFBSXpVc01MR0VYbUptWlB1OFZRRDNHV09LejlGREx5aDNDZGNfY0x6Mi1jQkpTaWVrWGEweDRjYi1iczhwNHZ2Y1BvRHhRQUpmWFZUT0J4bHhzckJHSFRUeUZyZVFlZXhnS0E5VnJkUE9GZGJFRFljNm5Wa1RLcWZnYVZCbllpT0ZWdDdQM0kwcWJaY0VsTDhOa0d6QU5rcw?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-02-05"
+  },
+  {
+    "id": "news_64e0c294d99a8f51",
+    "company": "TÜV SÜD",
+    "title": "Aziende e sostenibilità: cosa si aspettano i consumatori? - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGlQckNELWNhdHFiSThGTTFqTnJoQTQ2cnVjS0dHeldhNEM5SkRfejhsNDRRM0lxVFljNllVUEZSR3ZnTlk4T1F1LXBDc3dua0lTNzhOMDVudXluR0JIZnJaY1Mwdy1vay1hQVM1TGMxamFNYkpkRzEwMFhOSEVEcmhPeFVBSi11dG1tMF9EMEktcktUY1RWOXBVYlJhZ2pGeFZYeHA2ZTA3OGtseWNmTkhCaEs5ejRocjlrZGdQNGtqUjVHdDNtbWdjU0xudTNibGlROENuRFlSN2VS?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2022-10-06"
+  },
+  {
+    "id": "news_cb572e529884d497",
+    "company": "TÜV SÜD",
+    "title": "Diversità e Inclusione nel Mondo del Lavoro - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXJkenk2bTgzRnhRNlg1ZVJKWml1ckRzTmtXa3hGSEY2U1hxSXZJYml5Slp0aDduSVN2Qmg1a3k0UTZUc2lBaTl0OWdmVGtFQzlqZzBVX1FKMHk5VG9RVmlDTE5iVmpQVEpwMzJ3VVJEUlZqOVo0LTRCLWJLS1E3RXBYaGY3OHpSRDJlV1hzS25VZFNUZjg0eFZmdFFGTHJEeU9jdWFhN1Brbi1EYkNuWXlxdldCMzdtWF9mWkxlMXBBeHlNRnAyemZjaHF5N2ZQM1E?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2021-02-05"
+  },
+  {
+    "id": "news_d872b484862c9da7",
+    "company": "TÜV SÜD",
+    "title": "Pubblicata la nuova edizione della norma ISO 13849-1 - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZy1UTi1hdmNMNUJiQXo4c2twaVhsM3pTME54bmhHZ2ZJbFNrZ2tydGNEWWZNZDFsTHJGRWhNNGlRNlVuQlpKdWxxMGNENHBrMG9YSGotbklUX3NsNU9kMzEzckVNeElRVzQydTN1RUpfT09kd0JFa0lqWG0zb1ZqOXhSVzRzQ0ppNmVxZHBLSGJTVTZWVDlSZkdHQVVNMDFsS21OVWdhZU93aTNVZzV5M3phT1NYQQ?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-02-01"
+  },
+  {
+    "id": "news_4334574b88235ad4",
+    "company": "TÜV SÜD",
+    "title": "Prove buzz, squeak e rattle - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVBxVXFjVHd2VC1hYUpENUtJM1V4TkJaRTQwTm5Oak5nQk1GdWZNaHJUS1ZPVFBadnItYmV6ZmlVRWdKdDJBemdRcG9yWHhtQVhFcTJlbWxOMDdCS29SV3A3X1NJdlNkdDBKRXZRcTNoM2ZmSHllZDJta1ItX1d2bmpKdnRmdEJsUGNEeko3T0stMW45VHVRT0psbjlWN2JDUTdLZ1lUdVljWF9PNWpwYmdCZWczUklLMklFV1ppY0V0cm4ydzJXX2JuWTR3dmI1ZGY1NlozZUhEbUE?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2021-04-19"
+  },
+  {
+    "id": "news_a7d8b9bf7035323f",
+    "company": "TÜV SÜD",
+    "title": "Normativa Omologazione Bici Elettriche - TÜV SÜD",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTFYanVMRHQ5Q3MxN1pGTWZJVVlBRmd6NVd1aV9UU2VkYlRXb3RNOENoZmd6SnpSaGN4dTViOWpVdWU1Q01BbG1WakFkZktianB3RFlocEhEVG5CX0NZR0tVR20teWl3SF82N0Z1UmVTYjRsSi1SWVF0MC1xeDdPeV9hc0l6dFF1Q09NVjdRYUdwamFYa3VPaFJJUDYxTURtemNONTBnSS0xTGh4eUI0QTJrRUNDMlB1cS15WWJpc2I1ajh5NXdVdlktY0hMZjZkWFRxS3VRdEpZZ3FSU1FnLVJXVVE?oc=5",
+    "source_publisher": "TÜV SÜD",
+    "first_seen": "2026-09-03",
+    "pub_date": "2021-03-21"
+  },
+  {
+    "id": "news_e3141ca6d7fa4bd2",
+    "company": "TÜV SÜD",
+    "title": "Kumho Tire conquista il podio nei test di Auto Bild: il WinterCraft WP52+ tra i migliori pneumatici invernali del 2025 - Automoto.it",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWGI0QUNmRGxNUkhPRHdVMERqcXlpQ2pBN1RFQm5HZXFxVlhpMEpSenI0OHctdnRXZXBlc2RJRXVNeG56R3JKQ254M3MyRGZCUnhUcnBkSEZ4b1h4QjNhZU5yM2E1eHhvUm1fWHdmTTdlWDlDajA1anFVbTFMN1docG5GRjRUdkpsM1JUOUl5QmdTM0hJWXBLenhVbzRYNnlJNk56bnVvVTlTZkQwaUdkaXlGZl84QmJsbTUxVGNqdVRWSDk4MkdYTGhhVDZ1UTNVOTMzVWxHcmRpOGcwdGpyN1ZXS1Y?oc=5",
+    "source_publisher": "Automoto.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-10-15"
+  },
+  {
+    "id": "news_e98280768fd1072a",
+    "company": "TÜV SÜD",
+    "title": "Bridgestone lancia l’evoluzione del suo pluripremiato pneumatico invernale, Blizzak 6 ENLITEN - Bridgestone EMEA newsroom",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdTRDb2dDcnVMLWFtblZ2VzRlaDdNc1FSWVh6eVBDWXFiQmJoTmNpbWExWW1ZUF9JQmxTOWVjcGxUUF90WXhWVEdyeWdyb3FtYm9vdnlndW9XZkt6UV9nOXowYUZxX2p0MzUtcmpBRkxkQmRGNmhraTJkVU5YYkV0RkliUzRiY2huUWZlQnBRaVI5bkFhSU5XRGtYNlI2Y2ZCZlpSUThHUFpGQVRFRUdmVTczUThrM2lyZWhyUVRjaHZCdVdLd0lTTTdR?oc=5",
+    "source_publisher": "Bridgestone EMEA newsroom",
+    "first_seen": "2026-09-03",
+    "pub_date": "2024-02-22"
+  },
+  {
+    "id": "news_296bc8a0db1214c3",
+    "company": "TÜV SÜD",
+    "title": "TÜV Italia lancia una campagna digitale a basso impatto ambientale con MyVisto e Teads - Engage.it",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2tPOTRCRzN4UXJ3RDNtbnZKMmQxbDd3YVhnWHpIQXl6YVFnT0xpR2N2Mzc4MmxSZjV5WUUwQkVEazBTRHFpeXpYYzhCNGNDbnI5WWZ3d01TckV1WFJwQU93NHplcHhKclFabkZZTTRVNmJ5ajJwWVQ0X3ItcnAyM05MeV9fOXFEV0h1NWE5QXJkS0VENEJQZXJnY1h6U29ScnNJUzdjcXg3M3R2dWVHX2c2bXgtRjdsNFBNc1d0NA?oc=5",
+    "source_publisher": "Engage.it",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-07-10"
+  },
+  {
+    "id": "news_ea2f22d8bc75bcb2",
+    "company": "TÜV SÜD",
+    "title": "Khumo Ecsta Sport: il nuovo leader tra gli ultra high performance? - MotorBox",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3RBeGdyU3otcDhPZzZOMVVSdW1Nc2Y1QVRwTG95RkhiZURiUVZnQ0J0eHNMNGhaNlRyam5pRTVHVDF2QVFyVy1oVDJ3Zndid3g5S0I3eElRa25oSUpnd19WWUpYaGN6QTFPTTlDbnNWUlRyU3FxbXhEZXBnaVpMZWEwWVZ4SFF5R0d0dlVaRmp0bDB5M19ZWXBOQ3R1NGJOXzh1YUNB?oc=5",
+    "source_publisher": "MotorBox",
+    "first_seen": "2026-09-03",
+    "pub_date": "2025-05-10"
   }
 ]
