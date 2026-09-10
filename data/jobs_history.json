@@ -30638,5 +30638,115 @@
     "source": "google",
     "first_seen": "2026-09-09",
     "relevant": true
+  },
+  {
+    "id": "adzuna_5877359633",
+    "title": "Chimico Per Laboratorio R&d",
+    "company": "Azienda chimica a Firenze",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877359633?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": true
+  },
+  {
+    "id": "adzuna_5877359990",
+    "title": "Tecnici di Laboratorio Biomedico",
+    "company": "Orienta",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877359990?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877359894",
+    "title": "Técnico Laboratorio Biomedico",
+    "company": "Orienta",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877359894?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877362396",
+    "title": "Stage Técnico di Laboratorio Chimico",
+    "company": "Lifeanalytics",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877362396?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877359199",
+    "title": "Técnico di Laboratorio (M/F) (M/F)",
+    "company": "Cerba Healthcare Italia S.r.l.",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877359199?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877347511",
+    "title": "Qc Biological Laboratory - Sr. Technician",
+    "company": "Lilly",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877347511?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877359292",
+    "title": "Logopedista Per Laac - Firenze",
+    "company": "Cooperativa Sociale elleuno s.c.s.",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877359292?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877346229",
+    "title": "Aiuto Pasticciere",
+    "company": "Cortese Cafè",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877346229?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877362165",
+    "title": "Addetto/a Alla Logistica di Magazzino Farmaceutico",
+    "company": "Bre Ros Srl",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877362165?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877362603",
+    "title": "Addetto-a Controllo Qualita' Minuterie Metalliche",
+    "company": "Adhr",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877362603?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5877358483",
+    "title": "Addetto/a Controllo Qualita' Biologico Settore Farmaceutico",
+    "company": "Humangest - Branches",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5877358483?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-10",
+    "relevant": false
   }
 ]
