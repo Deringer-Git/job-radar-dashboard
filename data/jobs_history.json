@@ -30838,5 +30838,45 @@
     "source": "adzuna",
     "first_seen": "2026-09-11",
     "relevant": false
+  },
+  {
+    "id": "adzuna_5879967805",
+    "title": "Técnico di Laboratorio",
+    "company": "Zeus IBA Srl",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5879967805?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-12",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5879960078",
+    "title": "Sr. Technician - Qc Biological Laboratory",
+    "company": "Lilly",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5879960078?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-12",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5879956698",
+    "title": "Area Sales Specialist Centro Ovest - Settore Biotecnologie",
+    "company": "S&You",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5879956698?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-09-12",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJPUEVSQUkgLSBPUEVSQUkgQSBDSUNMTyBDT05USU5VTyIsImNvbXBhbnlfbmFtZSI6Ik1BVyBTLnAuQS4iLCJodGlkb2NpZCI6ImliSWxkR2p1d1FKTDJHSW9BQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNOblVqZFViSEoxUm5SMVgyc3pVVmxYTFVNMmNFVjRlV2MyV2xkRU5HbGhSV2h2ZERaSlNXazNVbk15TmtOVGRrRnFaSGRhY204ek1HVmZVRzVKVjA1SE9YVk1MWE5QZFdkcldESlVlamh5V1hSbVZESjVXbWhoY21aM1VIRkNkRTAxYkRaa1EwSnZja04wUWtwVWNtY3hkM0ZFWXpSSlpIcGhXSFI1ZVdFeWIyWm5VbW9TRjA5b1UyeGhjRTlzUW5FelpIQjBVVkF3ZFV4bGJWRlJHaUpCUkhOeU9XWlVaMFExU2pGdllqRnFZMGhsYTFsc1pXTnJXbmhtVGpGQlRVNVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJpYklsZEdqdXdRSkwyR0lvQUFBQUFBPT0ifQ==",
+    "title": "OPERAI - OPERAI A CICLO CONTINUO",
+    "company": "MAW S.p.A.",
+    "location": "Città Metropolitana di Firenze",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=ibIldGjuwQJL2GIoAAAAAA%3D%3D&hl=it-IT&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y2NSwrCMBQAcdsjuHproakIbhSEUlQKtpGquCxpDG0k5oXkKcXTeABv4cX84GYYmMVEz0G04NtlleYQw19SyPJswyHj5T4vD_xTKi2VlwJOGoy4oUcIV1gjtkYN5x2RC7MkCcGwNpAgLZnES4JWNdgnZ2zCF3XohFfOCFL1ZDrumbPtKC7SI-yYYykDbSHTRK8HFIo8OjSahP1NV9ore1dvP39QLq8AAAA&shmds=v1_ARwrE21qX_r7t0zGLtjFR6ckty71uK9EFuAGgNlLH_FP7Oq9iA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=ibIldGjuwQJL2GIoAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-09-12",
+    "relevant": false
   }
 ]
