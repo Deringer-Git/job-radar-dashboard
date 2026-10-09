@@ -38508,5 +38508,425 @@
     "source": "google",
     "first_seen": "2026-10-08",
     "relevant": true
+  },
+  {
+    "id": "adzuna_5919393705",
+    "title": "Técnico Sanitario di Laboratorio Biomedico",
+    "company": "Orienta",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919393705?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919394922",
+    "title": "Perito Chimico-tecnico di Laboratorio-miscelatore",
+    "company": "MAW - Men At Work Spa - Filiale di Firenze",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919394922?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "adzuna_5919313132",
+    "title": "ADDETTO LABORATORIO CONTROLLO QUALITA' - CATEGORIA PROTETTA",
+    "company": "MAW",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919313132?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919393225",
+    "title": "Impiegat@ Segreteria Reception",
+    "company": "EUROFINS LAMM",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919393225?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919381021",
+    "title": "Addetto Prelievi Calcestruzzo",
+    "company": "Tecnocontrolli s.r.l",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919381021?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919385595",
+    "title": "Pasticcere/a con Esperienza",
+    "company": "Caffè Gilli",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919385595?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919391416",
+    "title": "Operaio/a Tessile Settore Maglieria",
+    "company": "AXL Spa - Agenzia per il lavoro",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919391416?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5920052921",
+    "title": "Addetto/a al banco panetteria",
+    "company": "ADECCO",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5920052921?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919302107",
+    "title": "INGEGNERE AMBIENTALE/CHIMICO PER ATTIVITÀ DI CONSULENZA",
+    "company": "Openjobmetis",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919302107?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "adzuna_5919305043",
+    "title": "OPERAIO CHIMICO FARMACUTICO CAT. PROTETTA",
+    "company": "ADHR GROUP",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919305043?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919394779",
+    "title": "Addetto/a Accettazione Campioni",
+    "company": "Lifeanalytics",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919394779?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5917938979",
+    "title": "Impiegato-impiegata analisi ambientali - settore idraulica",
+    "company": "Ali spa - filiale di scandicci",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5917938979?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "adzuna_5917938938",
+    "title": "Addetto/a al confezionamento farmaceutico",
+    "company": "Axl s.p.a. firenze business unit",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5917938938?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919387918",
+    "title": "Farmacista - Parafarmacia Veterinaria",
+    "company": "PETCARE",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919387918?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "adzuna_5919301852",
+    "title": "CONTROLLO QUALITA'",
+    "company": "Openjobmetis",
+    "location": "Firenze, Provincia di Firenze",
+    "url": "https://www.adzuna.it/details/5919301852?utm_medium=api&utm_source=ee374850",
+    "source": "adzuna",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJSRVNQT05TQUJJTEUgTEFCT1JBVE9SSU8gSU1QQVNUSSIsImNvbXBhbnlfbmFtZSI6IklzbyBTZWxlc3QgUmljZXJjYSBFIFNlbGV6aW9uZSBEZWwgUGVyc29uYWxlIiwiaHRpZG9jaWQiOiJvNE43VVR6TnloWEtURUVRQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuZGxSMGRpTVVremNFWmlSbEJMUW1Zd2FpMTNTbUpsTURaSlNXZHJaM3AyV0RBNFJXNVdUVFJuTFZodVRWbEhSblpaTkZOVGFXRXpXVFZRYWxOR1RERTVNbEJFZURoQ05qSldURUZUU2s4MFozUTNjakpvUW5kbGNtcHVWbEJLUkdoWmMyWjBjVGhITVdsRFRuTlNSRmxCZVVOUE9ISnlPVlZWT0Voc1MxUnVkVzU1YTBRU0Z6Sk9TRWxoZFhwM1N5MVVVMnRRU1ZCMVNsUkhPRkZuR2lKQlJITnlPV1pSY3poalVHbEJTR0ZVVm5rMlpXVlJNblV3VGpGaE1TMUlTR1JSIiwiZmN2IjoiMyIsImZjX2lkIjoibzRON1VUek55aFhLVEVFUUFBQUFBQT09In0=",
+    "title": "RESPONSABILE LABORATORIO IMPASTI",
+    "company": "Iso Selest Ricerca E Selezione Del Personale",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=o4N7UTzNyhXKTEEQAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2NywqCQBRAaesntLrrII2gjUGgpDFgKepeRrvoxDRX5k4h_ll_12PR5iwOHI73WniHMqmK_FJFscgSyKI4L6M6L0UO4lxEVS1gDaXq0HYSrgq0fJIl4AeciHqNy_3g3MhhEDBrv2cnner8ju4BGWxpCm7U8hcND9LiqKXDZrvbTP5o-lUomKBCjez-k-QnZvXp4YgaCrRMRmoEZSBVFs2MkIo36mudqLwAAAA&shmds=v1_ARwrE20XtcX6-6q3EpqTSTD43q7DnyxhC_s_pgnhzEUWAvf-Sg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=o4N7UTzNyhXKTEEQAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUw6ljbmljbyBTYW5pdGFyaW8gZGkgTGFib3JhdG9yaW8gQmlvbWVkaWNvIChGaXJlbnplKSIsImNvbXBhbnlfbmFtZSI6Ik9SSUVOVEEiLCJodGlkb2NpZCI6InRrc0FvOWNyU3NHZjU2RFlBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1U1Sk5HOXVUVXh1V0dNNE0wbzBkVTkzYzNoNFRVSjZOek5tWjJkdk1rNUdVRk5yZUVFNExVdG9TbUpOUkVodk1GQnJhVEpxTm5kRk1YZzFhR1JzV21OWFNXdFFWakJNT1c1Sk4yVmtWbkExU1V0YWFEWlVUbmwzWmkxWlYzQk5TVmRVYTNJdGNYRXdSMkZJWVVjMGIyeE5TMTl1WWs1SmNXcEVWMWRpY1VSb1IxODRSRWdTRnpKT1NFbGhkWHAzU3kxVVUydFFTVkIxU2xSSE9GRm5HaUpCUkhOeU9XWlRXazlUU0VSdmRFcFpXbWRxYUdreGNUaFhZMll4YmtoTmFEZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0a3NBbzljclNzR2Y1NkRZQUFBQUFBPT0ifQ==",
+    "title": "Técnico Sanitario di Laboratorio Biomedico (Firenze)",
+    "company": "ORIENTA",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=tksAo9crSsGf56DYAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NwQqCQBBA6eq9S6c5VpAbQZc6FWQIUaDeZVwHnVh3ZHcL6Y_8jn4shC4PHjx40TiL8uI7astaIEfLAR0L1Aw3rMRhkEnPLB3VU7JM2JH90Ao2kLEmp3GKDb7FCfgXXEUaQ4tjG0LvD0p5b-LGBwysYy2dEkuVDOoplZ9Q-hYd9QYDlbv9doh726znjyy93IsTsIX_D5L0B_XbmtCsAAAA&shmds=v1_ARwrE20z0QITJ1NzEkM7xje83iCINwQYt4kM8NvxVUq4gQEXAQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=tksAo9crSsGf56DYAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJDaGltaWNvIFBlciBMYWJvcmF0b3JpbyBSXHUwMDI2ZCAoRmlyZW56ZSkiLCJjb21wYW55X25hbWUiOiJBemllbmRhIGNoaW1pY2EgYSBGaXJlbnplIiwiaHRpZG9jaWQiOiJiTXhxZFhyS2dGbENiVzhOQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuTnVORVE0U2tSNmVIaFFNVVZHVTFWU1RqY3hPSE5zY2pNeFNubFVNSE5XWmxWclpWOTRjbEExYm1SZlJtdElPVFp1ZVdSNFREbFdObVZ6UzBkb2FqWnBlRGhTWjJjM1F6Um9PR1YzYms1VWRVa3RZekpSVnpKclQxaGtaRTUyWTB0RFVXZFpWSFEwUkcxd1VGUnJhV3c1V21FM1oyUk9hWEZ5V2pkd1EzSndZM1J3TjNZU0Z6Sk9TRWxoZFhwM1N5MVVVMnRRU1ZCMVNsUkhPRkZuR2lKQlJITnlPV1pSTjBoemRYZzVTMDVZYVc5Zk9XRlRaa3hTUkhwWU5IbG9SRmRSIiwiZmN2IjoiMyIsImZjX2lkIjoiYk14cWRYcktnRmxDYlc4TkFBQUFBQT09In0=",
+    "title": "Chimico Per Laboratorio R&d (Firenze)",
+    "company": "Azienda chimica a Firenze",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=bMxqdXrKgFlCbW8NAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OOwrCQBBAsc0RrKbyB2ZFsImVBCKCheQCYbIZkpHNTphdJeRKXlIUsXm87r3kNUvyvOOercCNFK5Yi2IUZYFy0cCqYCU_0Rq2ULIltQgNg8OnqEB4wFmkdTQ_djEOITMmBJe2IWJkm1rpjXiqZTR3qcMHVehQaXAYqdofdmM6-HazPE1MvkGw3xMEhF8W2P-1uLwBPNEk1a4AAAA&shmds=v1_ARwrE21qO7O5_uW8u7vfUZsgcupa7-IolUU1ZAtFOFGHQzZjFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=bMxqdXrKgFlCbW8NAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUZWNuaWNvIGRpIExhYm9yYXRvcmlvIOKAkyBWYWxpZGF6aW9uZSBlIFRlc3QgUGFja2FnaW5nIiwiY29tcGFueV9uYW1lIjoiQWx0cm8iLCJodGlkb2NpZCI6ImRVUld5NWR6SHRIOTFWMUZBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3psdE9WZHFRa3hyV2s1alNsZFVlVkY1Y0RkTFNUQmFlRlZvZWxFMU16TnZSbmRpTlZGeWJERjNWRE42T1c5WmRtSnJjMnBsZVZkc1dFWXhNbXRDUVZwYWNXRndkWGhKY2pWb05rZHJZMlZvTjFCV1QwSk9RM0ZZYkdsZlRFdEVTSE14VTJnM1JWUklabXhZUVZnMFFreGpaM1JrTjJGSVNISkVUVUo0VVdvdGRqaDNiR2NTRnpKT1NFbGhkWHAzU3kxVVUydFFTVkIxU2xSSE9GRm5HaUpCUkhOeU9XWlVXaTAxTTBOS1pqVlphekpEYUZWSmVIaEpRMjVWUlVsNk5UQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJkVVJXeTVkekh0SDkxVjFGQUFBQUFBPT0ifQ==",
+    "title": "Tecnico di Laboratorio – Validazione e Test Packaging",
+    "company": "Altro",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=dURWy5dzHtH91V1FAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWzT2llNLZiIYKOVTUSwEIm2YbIZNqPrTthZJaTyDp7Ca3kSk-Z3_yXfSXIpyHg2AjXDESsJGCWwwO_9gSs6rrFn8QQEBWmEE5o7WvYWFnBmQ8HgeDp8SRDQJ-xFrKPZtomx1U2WqbrUasTIJjXyyAarki67SaVjSm0wUOswUrlaL7u09XY-3bk4aOwh50C-J8gPf7SA3vWsAAAA&shmds=v1_ARwrE22X5Wnx9jE8po8kKyIj8JGG4Rl8zhrBJO0iOxAZZ8qsrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=dURWy5dzHtH91V1FAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUZWNuaWNvIGxhYm9yYXRvcmlvIGNoaW1pY28iLCJjb21wYW55X25hbWUiOiJBdHRhbCBHcm91cCIsImh0aWRvY2lkIjoiTHg4LWpaWDR2RmszSGFZTEFBQUFBQT09IiwiZ2wiOiJpdCIsImhsIjoiaXQiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa2t0VUROMFdGWkZTMmN4Ukd3MFdEZHllR3hvVUdadllWRlFhMFJVVkc5cFUyUnhVMjlqVUZSZldteFVXa1EzY0c5WU5HaFpWWE5oVGxWUVJHNW1RbGhXVG5rMFZHUTNkM2xqUkRsV05rUlVaVjg1TW5WdVZVSkZWV2h1VmpoQlFtWkJVbWRFVmxCYVVIcHVWRWx4YW1Kb1NtcGFhV05uYlZSdFpqUmFhVmswZDNObGNXa1NGekpPU0VsaGRYcDNTeTFVVTJ0UVNWQjFTbFJIT0ZGbkdpSkJSSE55T1daU1ZWaE5OR3RVYWpndFJGQldjVU52ZVhKSWVIQjFOekppZDJObiIsImZjdiI6IjMiLCJmY19pZCI6Ikx4OC1qWlg0dkZrM0hhWUxBQUFBQUE9PSJ9",
+    "title": "Tecnico laboratorio chimico",
+    "company": "Attal Group",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=Lx8-jZX4vFk3HaYLAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCQAyAYVz7BjplFrwTwUGdXFpcxb1cY2gj18uRS6X4Gr6wdvmHj7_6rqrTgzAxCsTQiQYTZQEceFxsB3dGUgzw5P_wFhUoEzQifaTNZTDL5ex9KdH1xYIxOpTRS6JOZv-SrixpyxCUcgxG7eG4n11O_XZ9NQsRGpUpAyeoWSl9COrbD1zFPtKWAAAA&shmds=v1_ARwrE20uG-_MyatOShiYK6YpzCZErGzlRJ1WLjg20H6evSKv8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=Lx8-jZX4vFk3HaYLAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUZWNuaWNvIFNhbml0YXJpbyBkaSBMYWJvcmF0b3JpbyBCaW9tZWRpY28iLCJjb21wYW55X25hbWUiOiJPcmllbnRhIEFnZW56aWEgcGVyIGlsIGxhdm9ybyIsImh0aWRvY2lkIjoiZEhmWnhwMmRpUEFyelRPM0FBQUFBQT09IiwiZ2wiOiJpdCIsImhsIjoiaXQiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVmh4YlRkUFgxcEpXR3h0YjNSYVZYWkpXbk5MTVdSSmJtWnNOekIxTjBocVdVMHdUV0pDVFRKQlRXZDVUMnczTXpWQ1lYbElUV2hCY1RSRFVtaERRMEpyY1ZZd1ZYcHZWRzFtZUhGbFUwbEZlV1JHZFRObk5rSnRTMFpWTTFjNFltVnpURVYzWkdGNGFUUlRNbEpzZWpOMWVuTTVWV2RHVWt0elZreERlRWs1V1ZseGRXY1NGekpPU0VsaGRYcDNTeTFVVTJ0UVNWQjFTbFJIT0ZGbkdpSkJSSE55T1daVVlsaHpjMWsyZUc1TmFUZEViRTF1Y1RKbmVrcG1ZMVU0ZEc1UiIsImZjdiI6IjMiLCJmY19pZCI6ImRIZlp4cDJkaVBBcnpUTzNBQUFBQUE9PSJ9",
+    "title": "Tecnico Sanitario di Laboratorio Biomedico",
+    "company": "Orienta Agenzia per il lavoro",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=dHfZxp2diPArzTO3AAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNMQrCQBBFsc0RrKZWzIpgo5UWUUEQ1D5MNsNmZLOz7I4SPJcH1BQ2Hx7vwS8-k-J4JxvYCtwwsGJigZbhjI0kVBlxz9JTOyYLuLKlZHFMPL4kCeQnHEScp-m2U415Y0zOvnRZUdmWVnojgRoZzEOaPE6dO0wUPSrVq_VyKGNws_klMQVF2DkKb0aIlID9_4UDVJx-hqA6fQESVm9ktwAAAA&shmds=v1_ARwrE219fOk8EGHsb_5ejMVE-XV0iKimn9Qw7N9poOyXOm8AUg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=dHfZxp2diPArzTO3AAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRPIExBQk9SQVRPUklPIENPTlRST0xMTyBRVUFMSVRBJyAtIENBVEVHT1JJQSBQUk9URVRUQSIsImNvbXBhbnlfbmFtZSI6Ik1hdyBGaWxpYWxlIGRpIEZpcmVuemUiLCJodGlkb2NpZCI6IlRjS2otWXotQktUNFM4aTZBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hSaFIzZzNhbU5OU1RCTk5UbFJMVTlRVTJWeGVpMXJURVUwWmtVM1VVRnBla2h3ZFVaT1Z6WnNSMk5TY0dRNVpsbGpaa3R3VW5jeE1qWlljbDkyU0c0M1pXeEJiVEoxZGxBMFRuUk1WbkZXVUdrM1ZtcE1UblpqZUdsbU4yWnFWRlIyZG10MWMwTmtORU5tY1ZGdmJXdHFXRVIxYXpkS2FWUlFSMVpsUlRSRGVrbDNURmtTRnpKT1NFbGhkWHAzU3kxVVUydFFTVkIxU2xSSE9GRm5HaUpCUkhOeU9XWlJNMjF0UWpsSFVEWnNSSEJsZVZJemIzcHBjVEJqZVROQ2MwVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJUY0tqLVl6LUJLVDRTOGk2QUFBQUFBPT0ifQ==",
+    "title": "ADDETTO LABORATORIO CONTROLLO QUALITA' - CATEGORIA PROTETTA",
+    "company": "Maw Filiale di Firenze",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=TcKj-Yz-BKT4S8i6AAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2MvQrCMBhFce0jOH2DIAi2IrjoFPtHIRoNcXAqaQ1tJCYliVp8OJ_NdnG5XM7l3OA7Ca4oSVLGCGC0JxQxQgsCMTkySjAmcL4gXDA0hyXEiKX5MCM4UcIGBw2QylrYmsNNguIvYw24J-TGNEpMd633ndtGkXMqbJznXtZhbR6R0aIyfXQ3lRujdC23olPci3K9WfVhp5vF7MDfkEkluRLjeyat0B8BUv9rVvwA4_M6DcEAAAA&shmds=v1_ARwrE22s0rVj4hdqgBRp3irj7rB-p98dCAt0TJl0yBKyjlMRug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=TcKj-Yz-BKT4S8i6AAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRPIExBQk9SQVRPUklPIENPTlRST0xMTyBRVUFMSVRBJyIsImNvbXBhbnlfbmFtZSI6Ik1hdyIsImh0aWRvY2lkIjoiNnJ4ZmxSazJYcC1ySGJQVkFBQUFBQT09IiwiZ2wiOiJpdCIsImhsIjoiaXQiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWEo1T1ZwT09UWjNTRGcxTm14eWNVNTNUVFZ1TkVkeGNYUjNTREJTVGpGaVpqUnRlRGxPYlcxc09HczNialUyYmxWc2QxUm9jMjV2Ym5kVGVVbE5kREZGVDBkWGNVbG9ZM2RaY2xkblZqQkNaak0xZUhVNE1sSkxNMlkxT0cwMk5UQlFObWh6UVc4M09FazRiRWx6VUVNNFkzTXhUVXRGUkV0bGVWbEVZbDlSYVhsTlptb1NGekpPU0VsaGRYcDNTeTFVVTJ0UVNWQjFTbFJIT0ZGbkdpSkJSSE55T1daVWMzcERla0ZLVEUxdFIxQkhWV0ZxTWtGVlZ6SjJTVmw0ZDFobiIsImZjdiI6IjMiLCJmY19pZCI6IjZyeGZsUmsyWHAtckhiUFZBQUFBQUE9PSJ9",
+    "title": "ADDETTO LABORATORIO CONTROLLO QUALITA'",
+    "company": "Maw",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=6rxflRk2Xp-rHbPVAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEMQrCMBQAUFy7uTr9TRBsRHDRKbVWCtFgiHNJY2gjMb8kUYsH8bziG172nWQlLcuDlBwYLbigkouaw56fpeCMcbhcKaslncMShNUmaAU3C069MCDEJxwRO2dmuz6lIW4JidHlXUwqWZ1rfBD0psWR3LGN_5rYq2AGp5Jp1pvVmA--W0xP6g3WQ2WD8R8DVf0DBS4mfJkAAAA&shmds=v1_ARwrE22SuTV_M9bz4PfyqFNCXQ1CipFd4O2EbeLjbeZlU_XBEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=6rxflRk2Xp-rHbPVAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUw6ljbmljbyBMYWJvcmF0b3JpbyBCaW9tZWRpY28iLCJjb21wYW55X25hbWUiOiJPcmllbnRhIiwiaHRpZG9jaWQiOiJGZG9MdlNaOW8yVmJWeTVyQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsWjVUbXQzWXpSb2RVMDBSSE00YWpWeExWOURlREZGVlRWbFlrbDNWRjlZVkZrMWQzVXhMVVZqVmtVMlN6TnFTemx2YUV4SlFqWmpNWFExZEdOQ1ZHa3dibFZmYlVkbWJFcEJUMVJIZVRkWGQyeE5URm8xU25oUVgySnVOV3h3YjBOM05HZHVPRFU1WmxOd1kweDZRMkZpTlZsM1dFNXFTSFZzZFdoQmRYcERSa3RzZFUwU0Z6Sk9TRWxoZFhwM1N5MVVVMnRRU1ZCMVNsUkhPRkZuR2lKQlJITnlPV1pTUlZSaFNUSjZiVGxWZUdwRFpHWnpUMHBEUm1kZlowVjROa2xCIiwiZmN2IjoiMyIsImZjX2lkIjoiRmRvTHZTWjlvMlZiVnk1ckFBQUFBQT09In0=",
+    "title": "Técnico Laboratorio Biomedico",
+    "company": "Orienta",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=FdoLvSZ9o2VbVy5rAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCQAwAUFy7uzhlFuyJ4KJODhVBEMS9pNfQRq6XIxel-Bn-hd_hj0mXN7ziMysO99_XR_YCF2xE0URZ4MgyUDvtCm7sST1CyxDwJSqQn3AS6QIt9r1Zyjvncg5llw2NfellcBKpkdE9pMkTde5RKQU0qjfb9Vim2C3nV2WKhsARKlaKb4Lq_Af1P9d4lQAAAA&shmds=v1_ARwrE21q-70IbuKgaeIuURr0weh4F8MumaQxCh-rqyp6Hk4cUA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=FdoLvSZ9o2VbVy5rAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJJbmdlZ25lcmUgRWxldHRyb25pY28gSnVuaW9yLCBIYXJkd2FyZSBBTkMiLCJjb21wYW55X25hbWUiOiJQdXJpbGlhbiBzLnIubC4iLCJodGlkb2NpZCI6IlJXRVZHM2pjZ0NBT1VhS2NBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21NMWFqbFFSR05STkcxNlVuVTFiWE55UVVOZmJqUnNWekkyVkdaWmR6aGxlRFJXY1dzeFNVMHhlVTAwZGtoQ09XMDRRek5EVDFGelIxaExXbkpMTUVONGVWOTNORVZGT0VOTGVVbGZMV0Z5YnpCVWJFOUpkVEpKVkc1YVNuTlpiMnBDYjNoNk5ISlFka0UxYkc0d2NIUktiRUZTY0ZreVF6TndSVUpMVFhkbk9Fb3dhSGNTRnpKT1NFbGhkWHAzU3kxVVUydFFTVkIxU2xSSE9GRm5HaUpCUkhOeU9XWlRRMkpDYmt3d2VEWmtaR0pGWTNwdE9EQkNOelp3VEY5RFoyaFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJSV0VWRzNqY2dDQU9VYUtjQUFBQUFBPT0ifQ==",
+    "title": "Ingegnere Elettronico Junior, Hardware ANC",
+    "company": "Purilian s.r.l.",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=laboratorio+Firenze&htidocid=RWEVG3jcgCAOUaKcAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBEGYWnQjgo1WIsbEQsQLhM06bEbWmTC70eCBPKex-c2Dn30nWVmxR8-oCMeAKakwOYFzzyS6gNLq_W1H3F8OsIQbOVRn4U4Q7EtUIPZwEvEBp7s2pS5u8zzGYHxMNpEzTp65MDYy5A9p4j91bMdhF2zCer1ZDaZjP59de6VAliEaNcEAMRSkyB-EovoBPdEgdakAAAA&shmds=v1_ARwrE22rBK9Fheh9v5pIxabg79_LuGGgqVTyegoAjdNQZIxmDw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=laboratorio+Firenze&htidocid=RWEVG3jcgCAOUaKcAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJPcGVyYXRvcmUvT3BlcmF0cmljZSBzZXR0b3JlIGNoaW1pY28gZmFybWFjZXV0aWNvIiwiY29tcGFueV9uYW1lIjoiYWRlY2NvIiwiaHRpZG9jaWQiOiJQdURXU0hWM3kzMGxFcVVTQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwVmhaRzB6ZVZWTlVqaElaMnBmVlcxT2NWQndSVXBNV0ZOWU9XcEtSMnRtTFhGV2JVVTNRVEJHWDJkTGNuZENiVTlUZEdodGVua3dOVWQ0YUU5dFNVcHRNa1kzYVVvMFlWQk5jWEZhV0ZJMWRrTjFTMUJYVkZadVFrUlZlblJYVkhCUFpUQlBSRlZOTjE5d1FVSnVVbU14TjNCa1JWTjVkUzE1VjFsR2QxZG5OMGxpYjJnU0Z6SjBTRWxoY0ZOT1NIVmhjWEoxUlZCNVlreHdObEZSR2lKQlJITnlPV1pST1d4c2IyZGhjbGRDTUhZeFJtaFFXbk5CTWpCblV6RllYek4zIiwiZmN2IjoiMyIsImZjX2lkIjoiUHVEV1NIVjN5MzBsRXFVU0FBQUFBQT09In0=",
+    "title": "Operatore/Operatrice settore chimico farmaceutico",
+    "company": "adecco",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=PuDWSHV3y30lEqUSAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCQBBEsU1tZbW1YE4EG-0jVgF_IGw2a3JyuT12LxL8Hj_UBJth5jHDFN9NUdeJFbMou79TTwzGeUVAgx89CTxRRySe8hoO8Fg6Sgidh4BvUQGb4CbSB95dh5yTXZwzC2VvGZdNSTI6idzK7F7S2iqNDaicAmZuTufjXKbY77fYMS0XPkLlleOHobr_AORnX-ynAAAA&shmds=v1_ARwrE20YmuvFA8PVYo8Er0UtAYJ5gZiio8YULj0w8Pjc2oLazw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=PuDWSHV3y30lEqUSAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRPL0EgUFJPRFVaSU9ORSBFIFZFTkRJVEEgLSBTRVRUT1JFIENISU1JQ08iLCJjb21wYW55X25hbWUiOiJMaWZlIGluIiwiaHRpZG9jaWQiOiJNb0JwTElKX3djQUxTR3J0QUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNqbFVNMFpHYlhCdWJrTnJVM0JMUldRdGIyOU9TbWxCY0d0M1Z6TkJUSEJzVmxwa1NreG5ObTB5YWxSNFRtcHFRMGhDYzNvelpqUnNUVTU1ZFhaTWVHMVhhMmR1YkhkTGVGQTNiWGhoU2kxUlNYVXRZMmN3TkRGSll6SjBhMFJmTlRSQlRuVnJaMTlMT1VoNE4yYzBiM1UwTWxveldEbHpiRk5DZHpBMmMzVm5SRGxDWVc4U0Z6SjBTRWxoY0ZOT1NIVmhjWEoxUlZCNVlreHdObEZSR2lKQlJITnlPV1pVZFRkSE1XSTNWVXMyZGw5bE1GVkVaR3BIZG5ZNGQxWk5ZMDEzIiwiZmN2IjoiMyIsImZjX2lkIjoiTW9CcExJSl93Y0FMU0dydEFBQUFBQT09In0=",
+    "title": "ADDETTO/A PRODUZIONE E VENDITA - SETTORE CHIMICO",
+    "company": "Life in",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=MoBpLIJ_wcALSGrtAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWJsQrCMBQAce3u4vRmwUYEF51Kk2pAW6nVwaWk8dlGYlKSKOL3-KFaOG64i76jKE8oZVVVkAQOZUFPF17kDBicWU55lcAMjsMuGaRbvudp8S-lkuikgKsCLV7WWfBP2FjbapysuxB6vyLEex23PoigZCztg1iDjX2Tu238oNp3wmGvRcB6sZy_49600_FO3RCUGciUQ_NByPgPugGv_KcAAAA&shmds=v1_ARwrE22p0JpNOaBbvIvWojvgMGv2RBclZ3Z2hZBrJR9ExIDuFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=MoBpLIJ_wcALSGrtAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJJbmdlZ25lcmUgQ2hpbWljby9BbWJpZW50YWxlIChGaXJlbnplKSIsImNvbXBhbnlfbmFtZSI6Ik9wZW5qb2JtZXRpcyIsImh0aWRvY2lkIjoiUlZZbkxQN0dpZEcyeXd0SUFBQUFBQT09IiwiZ2wiOiJpdCIsImhsIjoiaXQiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa1ZqTkhBeE1YaFVkelZUUjJGdWNHRnlWVlZWTldzelJVdHZhVzFVY1RkV2FERTBTa3g0UVRGemVISjZNSFJYU1ZSTVVraE9Va2hTYWs0MmFFRTNaa2MzZFRnNWNqTkxiV2xPZDBwZlJHdEVkRGhUTm0wdE1GTlJNME5DVmtsb05XVnNja1pGVDNWak1tdFhPV3c1TUdGQlNYUmhVMWMwVlVkcFgzVmZabFJoZDFCcVRqVVNGekowU0VsaGNGTk9TSFZoY1hKMVJWQjVZa3h3TmxGUkdpSkJSSE55T1daVVlqTnpkWFZ5V2pJNVpqTlNWbTVLWW1GeGRHMXdXbXRpTldOUiIsImZjdiI6IjMiLCJmY19pZCI6IlJWWW5MUDdHaWRHMnl3dElBQUFBQUE9PSJ9",
+    "title": "Ingegnere Chimico/Ambientale (Firenze)",
+    "company": "Openjobmetis",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=RVYnLP7GidG2ywtIAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVz7CJ1uVMFGBBedRKl0EnyBksYjPUnuQi5K8WV8VRVc_uUb_uo9q04de_SMGeE4UiQn5hAHQi42IMxbysgvXMAKruQwOws3gmCfkgX0AWcRH7Dej6Uk3RmjGhqvxRZyjZNohHGQydxl0F96HW3GFGzBfrNdT01iv6wvCfmLEQspEMN_Cm33AWk0crmiAAAA&shmds=v1_ARwrE21E1NJu7a9vS1gR7RE885w9SUNQ2zIoayJ8G2h7TFyEjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=RVYnLP7GidG2ywtIAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJJbXBpZWdhdG8gL2EgVGVjbmljbyAvYSBkaSBJbXBpYW50byBDaGltaWNvIiwiY29tcGFueV9uYW1lIjoiUmlzb3JzZSBTcEEiLCJodGlkb2NpZCI6Iml0bnZFR0hOYkpzLWgtTHFBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2psT1NYWlRNblJ6WDE4dE5GVkdhR3R1VlZKV1pVOXdUSEZOVEhveWEyY3lTWFpqVFVwa0xXRlNOMGxNWmtrMGQySndXbFZMU0ZocVQyVnNOa2RpUjFsS2RHNVhXWHA2U25SMGJqSlJlR3RqVlZsa0xWOXpXbkZNU1ZadllVaFZWbloyTWtsZlpucERXbXRMYkVKelVrWm5MWEp4U2xoZlJEVXpUaTFNZWpWaFNqaE9SbE1TRnpKMFNFbGhjRk5PU0hWaGNYSjFSVkI1WWt4d05sRlJHaUpCUkhOeU9XWlRUWEpvUlc5S2VFOXZhamxHYms0MGMxZFJabGRzZDNBMU1WOUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJpdG52RUdITmJKcy1oLUxxQUFBQUFBPT0ifQ==",
+    "title": "Impiegato /a Tecnico /a di Impianto Chimico",
+    "company": "Risorse SpA",
+    "location": "Sesto Fiorentino FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=itnvEGHNbJs-h-LqAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMQrCQBBFsc0RrAZLwawINlqJoKRN7MNkHTYTNjvLzio5lIc0SfN5_Fe84rcpqmqMTA6zgEF4kQ1sV3wzLArDbO49j8t9gJotJbtaj19JAvqBp4jztL32OUe9GKPqS6cZM9vSymgkUCeTGaTTZVrtMVH0mKk9nY9TGYPb72pWSUrQxBtwgIZ0Dj9YEoXMYcbqD4pY4dSvAAAA&shmds=v1_ARwrE22li_GDDg_ERRZJgFGbbsrBLdrRMRcwd2njASsOPz_BxQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=itnvEGHNbJs-h-LqAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJPcGVyYXRvcmUgQ29uZmV6aW9uYW1lbnRvIENoaW1pY28gLSBMaW5lYSBBdXRvbWF0aWNhIiwiY29tcGFueV9uYW1lIjoiR2kgR3JvdXAgU3BBIEZpbGlhbGUgZGkgRmlyZW56ZSBQZXJ0aW5pIiwiaHRpZG9jaWQiOiJPVUktNTBjN01NOVhJemt1QUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtZERSekZJT1hNeVNWSk9ZbUZYVkZkUGQxRm1NM0poYmtweGFFUjNPRlZFTUd0UVVFaFlPVzFEVm1wNVUwNVlRalZ1V0RKVFgzSmpkVzVRTkhKa1RVdFVOaTFPZEhkSk5taFZZbEUzU0hKTlprNVlURXQ0UVV0RlFVZGxaMDVRZEVNM2FUWkVVSHA2YjJKcFZXTmhZVEZwVG1WaVJsQllMWFJ5YUVjMU9VSTFNUzAyUlRrU0Z6SjBTRWxoY0ZOT1NIVmhjWEoxUlZCNVlreHdObEZSR2lKQlJITnlPV1pUWlU1eVprWkdUVTQxT0ZGNU5VOUlaR05xYlc5RGNWWkdabnBSIiwiZmN2IjoiMyIsImZjX2lkIjoiT1VJLTUwYzdNTTlYSXprdUFBQUFBQT09In0=",
+    "title": "Operatore Confezionamento Chimico - Linea Automatica",
+    "company": "Gi Group SpA Filiale di Firenze Pertini",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=OUI-50c7MM9XIzkuAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2NwQqCUBBFaesntJp1kEbQplYiKEFQ2AfIZJNOPGce740hfWGfVW7aHC4HLif5LJL67CmgaSAoVB70ZhUcSEyh6HngVmENJxZCyEfTAY1b_KmaWwq_dWdw-NKgEEeoVDtHy0Nv5uM-y2J0aRdt_qStDpkK3XTKnnqLM5rYYyDv0KjZ7jZT6qVb7SqGKujo4epzKNkxOpozJQeSN8GFgrEwsPxVefwCDafk1MsAAAA&shmds=v1_ARwrE22geSLFJU8xWWNDfcqjfHO21qiumytiMAk7tfneM1dBRw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=OUI-50c7MM9XIzkuAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBZGRldHRvL2EgYWwgY29uZmV6aW9uYW1lbnRvIGNoaW1pY28iLCJjb21wYW55X25hbWUiOiJHaSBHcm91cCBTcEEgRmlsaWFsZSBkaSBGaXJlbnplIFBlcnRpbmkiLCJodGlkb2NpZCI6IjZmazdROEtPRGZyc3hvTFhBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU213eU1uWTVTbkJWVURrMmJrWnNYMGhoVUZSUVdESmpaMFptWVhReWNUazBUWFZPZFRCRWNITlVaRW96Vm1aMVZrWmFhblJyY1ZSdE1VTTVSM1pKV0hwSFgxRkNTbWxRUzFsc1pHUkljRXhPUjJKNVdHNXRORkYwTjFOamFXTldjSFZSUjJOSWRtbEJNREp2VmxKRFZFSkNNMFJ5TUU5R1UzSTBiRWhOVTBKNVMyZGlhSFlTRnpKMFNFbGhjRk5PU0hWaGNYSjFSVkI1WWt4d05sRlJHaUpCUkhOeU9XWlVlblpmV1ZwdlRIUnVTSHA0VjNsU2RWODJVSEJxZGtSelJsOVIiLCJmY3YiOiIzIiwiZmNfaWQiOiI2Zms3UThLT0RmcnN4b0xYQUFBQUFBPT0ifQ==",
+    "title": "Addetto/a al confezionamento chimico",
+    "company": "Gi Group SpA Filiale di Firenze Pertini",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=6fk7Q8KODfrsxoLXAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NMQrCQBBAUWxzBKupBbMipNFKiwQ70QPIuBmTkc3MsjuRkJN5PElj84vX_OK7Ks6ntiUzdQgYwKu8aGYVHEhMwfc8sFfYwo09JY_QMgT8aFLIIzSqXaD1sTeL-eBczqHssqGxL70OToWeOrm3PvOSR-4xUQxo9NhXu6mM0m2qhqFJOka4xxPUHBgDLZuaE8lMcKVkLAwsf6ovP6cFZU-7AAAA&shmds=v1_ARwrE21kMN1z--s2iluj58ikV4XdU9Pjj14tvCKXSxOPk2LZwA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=6fk7Q8KODfrsxoLXAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJNYWludGVuYW5jZSBNYW5hZ2VyIC0gQ2hpbWljbyBGYXJtYWNldXRpY28iLCJjb21wYW55X25hbWUiOiJNaWNoYWVsIFBhZ2UgSW50ZXJuYXRpb25hbCBJdGFsaWEgUy5yLmwuIiwiaHRpZG9jaWQiOiJvZkRxRl9rdTNjX194LUNQQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwbFhjRVUyUm1GQ2QydDFNV1ZvWlcwMFgzSnZaRTVTVEVOZlZXazVPWEJ6WTJoSU9YTk5RWFJuT1VVdFRUaHJTRGc1Ym5CeWFtaDFNbGMyYjJsRGFFZHNkM2szWnpWeFdXWk9URkp5TWtnMWJXbzRNV1prYzBoQk9UaHVSRlptYW5KdWVGOUZkVTlyVkZWNlIzUkhkbEZ1YTI4NU1qbE9VbVk1YlVJek5uUk9Tbk55TTJzU0Z6SjBTRWxoY0ZOT1NIVmhjWEoxUlZCNVlreHdObEZSR2lKQlJITnlPV1pVYld0M01tRm9SbkV4YmpoTFZWQTBSMEpZV0hCQ01VNUZPWFJuIiwiZmN2IjoiMyIsImZjX2lkIjoib2ZEcUZfa3UzY19feC1DUEFBQUFBQT09In0=",
+    "title": "Maintenance Manager - Chimico Farmaceutico",
+    "company": "Michael Page International Italia S.r.l.",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=ofDqF_ku3c__x-CPAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrKYWsiuCFloK0RQB0QOEyTokI5uZsLuR4OW8mmvz4Bfv84rvqrg2yJJIUBxBg4I9BSjhPPDITqHCMKKjOf1HCXd2FBzCk8HjW4NCnOGi2ntan4aUpni0NkZv-pgwO8bpaFWo08W-tIt_tHHAQJPHRO1uv13MJP3m0LAbkDzccgDUuShIPlBBD3VCzwgPE4w3wAIVB5IPQVX_AAGXkgDCAAAA&shmds=v1_ARwrE23e7fvwBlVpBmMp7-vAaMS3OHi9elKAe5DQQfgkYd_XPA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=ofDqF_ku3c__x-CPAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJSaWNlcmNhIEZhcm1hY2V1dGljYTogSW5jYXJpY28gMTIgbWVzaSBpbiBDaGltaWNhIiwiY29tcGFueV9uYW1lIjoiVW5pbWkiLCJodGlkb2NpZCI6IjVodXNuSVQ2SXZnS1pYVW9BQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZsbFdtdFhia2xuYlRWclprZ3hSMk00ZURaSGJtUXRkbmRPY2poQlNFcG5Vbmx4VEdkTVpUTmxhVWRuWm1sYVdsbDVOVWROWm5kclZYbHpRemxrWm1SZmJHRnVjRzVRZEhGdFppMTBabnBXWkdWeFdqVk1XbFJ0YlhZNGFqQTVjVzlrVjNsdE0wUkRWbEpzU2xwMGRteHpkR3MzYVVzNE1GSmhSMDlLUW1SNk1uTkphVXNTRnpKMFNFbGhjRk5PU0hWaGNYSjFSVkI1WWt4d05sRlJHaUpCUkhOeU9XWlNkREJDZEZFMVVrMWpOVFphY1dWUE9YWlpiMkZ2Wnpob1JqbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiI1aHVzbklUNkl2Z0taWFVvQUFBQUFBPT0ifQ==",
+    "title": "Ricerca Farmaceutica: Incarico 12 mesi in Chimica",
+    "company": "Unimi",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=chimico+Firenze&htidocid=5husnIT6IvgKZXUoAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNsQrCQBAFsU1rZ7W1YE4DNrEUIqkEwTpsziXZcHcbbi8S_B1_1KSwmeYxb7LvJrs_2FK0CBVGj5amxBZLqIPFyFbgVIAnZeAA1579MsIB_s6LweFbooBOcBPpHO0ufUqjlsaourzThMthbsUbCdTKbAZpdUWjPUYaHSZqivNxzsfQ7bfPsDTWWMWRwoegqn-42kRwpgAAAA&shmds=v1_ARwrE230WZdQvCAZWl4mPmGymso0L1nIcGRZ3bsD--ckOYAFBQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=chimico+Firenze&htidocid=5husnIT6IvgKZXUoAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJUZWNuaWNvIGNvbnRyb2xsbyBxdWFsaXTDoCIsImNvbXBhbnlfbmFtZSI6IlJlbGl6b250IiwiaHRpZG9jaWQiOiJzZEp6bmJvMDkxbkRsZElmQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwSjRMVU5FY1RKQ1l6WlVNMmxrYzJKcmRTMVBNRTVrVjFJdGFERkJTRTlwTFZwbVMxRk9URmRmZEZOUGRGZzJOazQ1VlZwek9HTXdjemxqWDNGM1lta3dZbU13TjE5VU5WVTBTRXRtWVVkcU1qbGtSVlZHT1RSYVJVbFdSRmw1WTNwdk1rOXNiVVl3VWpkR01HdDRRWFkzYzNwTlIzSnhPRmhCYVhkSmIwSnZUbVpxU3pFU0Z6TjBTRWxoY25JdFNIVmxXbWgyWTFBdFkyWjBNRkZqR2lKQlJITnlPV1pVYzBKelJXOHpaek15WkhOb1dtUldUMDlNTW5oMlFWVjNXR1pCIiwiZmN2IjoiMyIsImZjX2lkIjoic2RKem5ibzA5MW5EbGRJZkFBQUFBQT09In0=",
+    "title": "Tecnico controllo qualità",
+    "company": "Relizont",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=sdJznbo091nDldIfAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCUAwAUFx7AAenzIL9Igiie8W1uJdvDG0k_tSfVEov4RW8ixdTl7e-4jUrdmfCxKiAmjyriMJjiML-ecMKakbKGOHKIPGpWcEGOKq2QotD597bPgQzKVvz6Iwl6j1ooouO4aYX-9NYFzP1Ep2azXY9ln1ql_OahKdfCZyg4kxpIqhOXwJNdX-SAAAA&shmds=v1_ARwrE232NiK8Zub_EMb1p_bqCTMPBFP_U9X1UDLSVaZKo6hpyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=sdJznbo091nDldIfAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBZGRldHRvIENvbnRyb2xsbyBRdWFsaXTDoCBlIFJpZmluaXR1cmEg4oCTIFBlbGxldHRlcmlhIiwiY29tcGFueV9uYW1lIjoiQWx0cm8iLCJodGlkb2NpZCI6Ii1WUmlLemZvb2poZ2Z4LXhBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1RZdGJHTjJjRXBXYlcxTVpqSnpMVmx4YUROSFRVdExXRFJKWldzMFdWVnFaMVZYUmpsVU4zTmtkMFprWkV4aVIzZFVPV1kxVW5KNWEyZENiVU0zWjNoMU5YSk5VbVJxVjJOeFQyeHFkbWg1TTA4eGFGRnZaekI2YzI5NmN6aHJWbEZtUlVGNU5ubHhSWEF4YkhGdk0xRlZNSEI0WnpCeWEzZGxTa2xhWXpoU1YyUkdTMW9TRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlVOblYwYzFaSVYxbG9aMHR3TVhWM2RraE1PRU16TjFwSUxXaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiItVlJpS3pmb29qaGdmeC14QUFBQUFBPT0ifQ==",
+    "title": "Addetto Controllo Qualità e Rifinitura – Pelletteria",
+    "company": "Altro",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=-VRiKzfoojhgfx-xAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsU1rZ7W1YE4EG62CELFTwTpcLmuyst6Gu40EK__gB2x9hz_xJcZmmplikvcoOWVVhaoCG_EahFng0Fkm_bwA4Uhn8qRdsPB9PGGPzEOMgSzMBukwOAsVAdubBIHYwVakZpysG9U2royJkdM6qlVyqZOrEY-l9OYiZfyjiI0N2LJVLBbLeZ-2vp6OMx5WgDzkFNDfEfLdDxCb5gKsAAAA&shmds=v1_ARwrE23qsK4Y5FIqOEqKgUHjkxd9PfuvlWg4l8Chkyt0J3SUEw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=-VRiKzfoojhgfx-xAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJJbXBpZWdhdG8gQ29udHJvbGxvIFF1YWxpdMOgIC0gTWV0YWxtZWNjYW5pY2EiLCJjb21wYW55X25hbWUiOiJBbENlbnRybyBTLnAuQS4iLCJodGlkb2NpZCI6IngtVFgza0VXWEl3V1Vod3NBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hvM1F6UmFNRWhtUjBsV2JIUjRZMWxKV0ZORlMweG1TRGxSTjI1elZVcHNaR3BzZEVjd1NtWmpUM05YTmxKQlF6TXdkbVIwYzNOWFdETXpWMU50VGxjeFRHSnFUR1p6VlVSTlRUa3hlRmxLYUdKUGR6RnpPV2xyYzFaSWFYaEpkMVZVYWtwWFNVcHRkazV6YVVkVlZGSnplRXRqVVRVM05rRlJkbFJ3TVZORlEzQlFNa1lTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlVNMHBUY0ZWTlozWlRPSEJrVDFCc1gyMU9URXBDUjB4cVUxZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ4LVRYM2tFV1hJd1dVaHdzQUFBQUFBPT0ifQ==",
+    "title": "Impiegato Controllo Qualità - Metalmeccanica",
+    "company": "AlCentro S.p.A.",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=x-TX3kEWXIwWUhwsAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQoCMRAAsfUJgrC1YCKCjVZyoIhYqA-QNS53K3vZkOzJ4WtsfYcfU5thmGqG78Fwv2sTU42mUGm0rCIKxw6F7fOCKRzIUFoKASMH_IUTB8o_uzEIPjQrlA62qrXQaNWYpbL0vhRxdTE0Di5o6zXSVXt_12v541IazJQEjS7zxax3KdaT8Voq-h_A2SW3dsARNpwpPgk2uy8Hp7uErAAAAA&shmds=v1_ARwrE21Ue_OaE2TvbFfKsZxdKiUXBXxYvXUpP4xfRvbmekqEMQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=x-TX3kEWXIwWUhwsAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRJL0UgQUwgQ0FCTEFHR0lPIEUgQUwgQ09OVFJPTExPIFFVQUxJVMOAIGEgQ2FsZW56YW5vIiwiY29tcGFueV9uYW1lIjoiQXJlYWpvYiBzcGEiLCJodGlkb2NpZCI6IlpzRmNLSUJjSEo0MmM2QmZBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dRMlJFTlZXR1pJVlVGTlpUVlJNVE5UUTE5M1ZYYzBkSEJZUmkxZlVVeENka3RLYWxRMFQzZFpURUpoVERGek0wRjZjbTlHWVZscFFrMWZhbFpFUzBsRVdqTXhMVk5LT0VzMVFtbHpabGhCVFVrNVFrbDZOemxpVDBkSk4xRjRlSEZSYmtwRU1YWmhaM0JJVEdkdmRreDBWakozTFVNMmJXUk5VM2hETmpSQ2NHNWxSMVlTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlJVMnhwWjJOb1MyZE1aRzFyWkZCRVVVdGZVazFoZFV4SE1YUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJac0ZjS0lCY0hKNDJjNkJmQUFBQUFBPT0ifQ==",
+    "title": "ADDETTI/E AL CABLAGGIO E AL CONTROLLO QUALITÀ a Calenzano",
+    "company": "Areajob spa",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=ZsFcKIBcHJ42c6BfAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNuwrCMBRAce0f6HRnwUYEF51iXxSCxVLBTW5raCMxtyRRipPf5C_4Y1ZcDhzOcIL3JDjxOE6qKmcJcAER3wmeZXkBfy32VVkIUcDhyEVefV6AEKGW5omGYAGlaqRtEC4KND7IErg7ZEStlrNt533vNow5p8PWefSqCRu6MTKypoFdqXY_nF2HVvYavTyv1ssh7E07n3IrcYzgegRlIFV2nEpI8y8L2NbftQAAAA&shmds=v1_ARwrE234rwFcNUIBRCdSUh0_Yuyu2KT3EUIJLwXvvVNmNzh40A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=ZsFcKIBcHJ42c6BfAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJFc3BlcnRvIENvbnRyb2xsbyBRdWFsaXTDoCBNYXRlcmllIFByaW1lIChMZWF0aGVyIEdvb2RzKSAoRi9NKSIsImNvbXBhbnlfbmFtZSI6IkxvdWlzIFZ1aXR0b24iLCJodGlkb2NpZCI6IkNXdmNkUGpLazAxWm5sZ0ZBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2pWaGVXeFllSE55YzFOb1N6WTRYM0l4VEdaWk5sRnBjVVF3UmtkWU9YbFBhMmg1ZVRackxXaEJXRUp2VmpCTlRUQmhXV0U0U0RFM1NWUlhUV293U2pRNVpIRlljMjF2T1dsV2VIWk9kRzVJYVhGZmFubDRSMUZGUlhJMVgwbzVhMVpzVDBWU1ZuZFNUbVpoTUdzNVoycENYM1ptTkZSaVlrbExhemxsWm5kSk0ySXhSRllTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlNNMmt6YmxCaFltUmFZWFJqUlRsWVZFbDNMUzFTTWt4Rk0wWjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJDV3ZjZFBqS2swMVpubGdGQUFBQUFBPT0ifQ==",
+    "title": "Esperto Controllo Qualità Materie Prime (Leather Goods) (F/M)",
+    "company": "Louis Vuitton",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=CWvcdPjKk01ZnlgFAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWw9gjZTqmBWBBstxYigoBZWQliTIRnZ7ISZiYin8Rj2XkzT_OrB7396_etGGxRjWHM04RAYTq0PZN83HLyhEMJRqEYY7dFbhQJb5kLHMErdYQxTOFOOknsoCIJ_sDBo25ky4GBVmTW6dE41JKWaN8qTnGvHEW_8dHe-aZdMKy_YhP8wmy9mz6SJ5WS455YULi2ZcQSKkJJgfCGkux8Kid74uwAAAA&shmds=v1_ARwrE22gJX91qOMbxaZ_GmKaOq6wOHJ0ecOEX5r_XeO_lAxbbA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=CWvcdPjKk01ZnlgFAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRPL0EgQUwgQ09OVFJPTExPIFFVQUxJVMOAIC0gU0VUVE9SRSBNRVRBTE1FQ0NBTklDTyIsImNvbXBhbnlfbmFtZSI6Ik9wZW5qb2JtZXRpcyBGaWxpYWxlIGRpIEZpcmVuemUiLCJodGlkb2NpZCI6ImVoVGR0T1FQVDRnMUEwX1BBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU201ck5taFhUVzVRVEdkYVZVMUZaV1IyVVZWdGQzcDRTVGt4YTNwNlNXVlBjelI1WmtGeWFEWktTbFZPUVVGWlNVOXBPSHBaTjJWaGJVOW5UM1ZEWW5OdlduVTBabFZLUzBVeGEyeFdRbEpmWlU5VFdqbGlVbWMwY1doeE5sOXdSRFk0ZDNkQ1R6aDJZa014T0hKV2QwZ3dTMFozWDAxSmFqQmhOMUJuVERjMFkyazRWMWtTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlNRbFYxUjJFek0zUkVNelpFUkVWSVVtZFlOa0k0TTBkcVNXOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJlaFRkdE9RUFQ0ZzFBMF9QQUFBQUFBPT0ifQ==",
+    "title": "ADDETTO/A AL CONTROLLO QUALITÀ - SETTORE METALMECCANICO",
+    "company": "Openjobmetis Filiale di Firenze",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=ehTdtOQPT4g1A0_PAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NsQrCMBSFYVz7CE53FtqI4KJTqK0U0gZrdJVYL20kTUoTpTj5bvpgtovL4YdvOMF3FpzpbpcIwQkFyiDmhSg5YxwOJ8oy8XlDCMfJywTyRFCWJ3FMiyzmI5Sqwr6ScFOg5dP2FtwD9tbWGufbxvvObQhxTke189KrKqpsS6zBqx3I3V7dNBfXyB47LT1eVuvlEHWmXoS8QzNii145SJVWUuN0k6oezQtBmX-m2Q_cbx5pxwAAAA&shmds=v1_ARwrE22WZnsZfFlDSnbXWpM-tAWlADY_OnIy4bjoiVEPMq3jmw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=ehTdtOQPT4g1A0_PAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBZGRldHRvIGNvbnRyb2xsbyBxdWFsaXTDoCBkaSBzdGFiaWxpbWVudG8iLCJjb21wYW55X25hbWUiOiJSYW5kc3RhZCBmaWxpYWxlIGRpIGZpcmVuemUiLCJodGlkb2NpZCI6IjF2aktoUVpkVmo0Zkp4VHVBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdGZloxOXBTbVJKUkZCU1RtaDJTalZVYzJob1RVTkhWVnBzTW0xS1UwRmllVTlvVkhsc1EzaHdXWGxHVG1OMWFXdG5ZbVJWWm1KVmFYcG1WREJXVVdjMVRVRjFXbEZWTkRaVk1rWldibk5vWm5WcVdrNWxYelZSTFZwSU0zTnZUMjFPTUU5T1EzWmtlRVo1UTNaNExUQkJjVXBsTm1GVGQxTmtlbEF4WlVsVU5IbHhlR2dTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlVSSGx1ZDB3MWQyMU1laloxTUdoUlFubzVTMUJtTFUwMUxXNW4iLCJmY3YiOiIzIiwiZmNfaWQiOiIxdmpLaFFaZFZqNGZKeFR1QUFBQUFBPT0ifQ==",
+    "title": "Addetto controllo qualità di stabilimento",
+    "company": "Randstad filiale di firenze",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=1vjKhQZdVj4fJxTuAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NMQrCQBBFsc0RrKZVMCuCjVY2UdtcIEx2J3FlshN3JxI8jWfwCl7MBGw-H_5_vOyzyC4n50hVwErQKMwCjwHZ6_cNzkNSrD37jsJ02UDpLUWL88L4lCiQBjiLtEzL4021TwdjUuK8nUD1NrfSGQlUy2juUqc5qnTDSD2jUrXbb8e8D-16VWJwE-OgmXTINCsaHym8CHyA4l-L6w8pln22tQAAAA&shmds=v1_ARwrE217IfOs6yH3QS3oQFVeKqH8aSm1f2o5YqEu-97TF6k1Wg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=1vjKhQZdVj4fJxTuAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBZGRldHRvIGNvbnRyb2xsbyBxdWFsaXQgIGRpIHN0YWJpbGltZW50byIsImNvbXBhbnlfbmFtZSI6IlJhbmRzdGFkIEl0YWxpYSBTcGEiLCJodGlkb2NpZCI6IlNEOEVoZnRBZjMyVE5zV1dBQUFBQUE9PSIsImdsIjoiaXQiLCJobCI6Iml0IiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tadVEzVnZXSEpvTURCc1RuQkhRVUl3TUVGTk1FMDBVVTVoY205bWFtcDNTVjlTV1ZsQlMyMHlhMHgyWVRKeWJXeGtaelpHTm05eFIzcDVjMHRXYzBoaFRqQjBYMGxaY2tkd1VrTTFlRU5xUm1kMmJ6TldWbUpOTms1RlJVWmlTVXRmWXpsSlQyNUpWVUppU0RaUFZrOURlV1F3ZWxWR2FrdFRRV1J6WmxNNGIwaDZWbTBTRnpOMFNFbGhjbkl0U0hWbFdtaDJZMUF0WTJaME1GRmpHaUpCUkhOeU9XWlJORTU0ZDFWWVJIRmZTak4xYjFFM2VYaENUR1ZIUlZWUE9XcFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJTRDhFaGZ0QWYzMlROc1dXQUFBQUFBPT0ifQ==",
+    "title": "Addetto controllo qualit  di stabilimento",
+    "company": "Randstad Italia Spa",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=SD8EhftAf32TNsWWAAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CQBBFY8sRrMbWRNaY2GhlA6HFA5BhdwJjlp11dzDEG3lLofnNey-_-O2K-uEcqQpYCZrEe4H3jJ4VwDFkxZ49TxRW4wQtW0oWN-LxI0kgz1CLDJ7291E15psxOftyWENlW1qZjATqZTEv6fM2XR4xUfSo1F2u56WMYTgeWgxubRw0up4jPCMCB6g4UfgSVM0f2KMqfqwAAAA&shmds=v1_ARwrE21u-KzGOQjr8xX9m--zuuuVZCI213FGAiOqOfoPYW_rDg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=SD8EhftAf32TNsWWAAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": true
+  },
+  {
+    "id": "google_eyJqb2JfdGl0bGUiOiJBRERFVFRPL0EgQ09OVFJPTExPIFFVQUxJVMOAIEUgUklGSU5JVFVSQSAtIENPTExPQ0FNRU5UTyBNSVJBVE8gKEFSVC4gMSBMLjY4Lzk5KSIsImNvbXBhbnlfbmFtZSI6Ik1hbnBvd2VyIE1PQyBGSVJFTlpFIiwiaHRpZG9jaWQiOiJ0WkF3eWdzbVNsYXhuSnEyQUFBQUFBPT0iLCJnbCI6Iml0IiwiaGwiOiJpdCIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxbHFYMnRNWVVVM2VVZHNjVk54V1RGb1VUaEVXbDgzUTBVd1QyMUxXRVpvVDNwSVNUVk5OMmhmYjNsYU9FNTVhMUJXY1ZFMFNuUjBNVzVETUU5UmJrNDViVEp1WW10dFlXbFlUMGx4ZUZwbVNFSkpkRGMwUTBoalRVWlFXVU5UUTJScmR6QkxlR0ptTTJsUlpUUjZTWFpIYnpJNWJYcGlWWEF4YTBSQlUyWmpaVzlOYldRU0Z6TjBTRWxoY25JdFNIVmxXbWgyWTFBdFkyWjBNRkZqR2lKQlJITnlPV1pUWDNsb1FUVkpNWFUxZEhrek5XZDNNRUpIV1hJNFowSnZZMHhSIiwiZmN2IjoiMyIsImZjX2lkIjoidFpBd3lnc21TbGF4bkpxMkFBQUFBQT09In0=",
+    "title": "ADDETTO/A CONTROLLO QUALITÀ E RIFINITURA - COLLOCAMENTO MIRATO (ART. 1 L.68/99)",
+    "company": "Manpower MOC FIRENZE",
+    "location": "Firenze FI",
+    "url": "https://www.google.com/search?ibp=htl;jobs&q=controllo+qualita+Firenze&htidocid=tZAwygsmSlaxnJq2AAAAAA%3D%3D&hl=it-IT&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWKzWoCMRRG6dZH6OriqhVMaqHFn1UYMyUwM6EhbtxIHMMYGXOHJFZx1XfrE_SNmm7OB-c7o9-HkWfrNddaUgaFbLSSVSXhc8MqoX--gYMSpWiE3igG01zkt2A1b7SEWiiW54kpTWAGFXmf08XiOWfKtTa0Bg4OevOFASFe4AOx6-3j6pjSEJeUxtiTLiaTXEtaPFP0do83esJ9_McuHk2wQ2-S3b2-vdzI4LvJuDZ-wKsNUMsCSqF4s-XgPJQuWH-3Wf0BuCd0lNQAAAA&shmds=v1_ARwrE23tP7Siw-yKsJybJ0I91qlxi7HGoMB6-QNaJIvVY_fEpw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=controllo+qualita+Firenze&htidocid=tZAwygsmSlaxnJq2AAAAAA%3D%3D",
+    "source": "google",
+    "first_seen": "2026-10-09",
+    "relevant": false
   }
 ]
