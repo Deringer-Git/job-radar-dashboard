@@ -22048,5 +22048,509 @@
     "source_publisher": "Gripdetective",
     "first_seen": "2026-10-14",
     "pub_date": "2024-05-07"
+  },
+  {
+    "id": "news_1448a623c6129a1e",
+    "company": "Laboratorio Empolese",
+    "title": "Incontri speciali a Palazzo Leggenda - La Nazione",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmM3R2J6UFhxdEd1R2FnRnFyZHhEVTFuSGJ3Yl95NGRVQWpGMjEwcmE3d3BmaVhrQ0VVRGxsVHBjVkxBYThuaDBlRmZ3ZFZoWTltaHlyS3EzakVIeUNaY0g2TlQ0TFlxYkFBa0pnZm93OWsxYjJiUHN0amVfSzJFTTlQbS13aW0wempYemNn?oc=5",
+    "source_publisher": "La Nazione",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "id": "news_437a0586e061013f",
+    "company": "Laboratorio Empolese",
+    "title": "Laboratorio dell’ospedale di Empoli allo stremo, il presidio di Fp e lavoratori - Cgil Firenze",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXRDZXh2dDFXUk83bGVHeE5aUEdYYzFaV0FWRlJyLUFaNkRsaW4wVkF4cFpDM3hJTzF6VmlWeFJxa015bjNSYmV4VGNpWFVVRW5HTjduNHM4MWtnNkZZZHd6RDh4eHhyRWVZR0wwNXViWk41eHdwY2JPYUl1YlZqTFNxSUdyQU9Ya3kwZElKTlpUSkJidEFQamp5VktsQkVFczgwNkZQZGJqS3BYd2c?oc=5",
+    "source_publisher": "Cgil Firenze",
+    "first_seen": "2026-10-15",
+    "pub_date": "2021-03-11"
+  },
+  {
+    "id": "news_68470dac804c84c6",
+    "company": "pH Srl",
+    "title": "Presepi genovesi del Settecento dal Museo Giannettino Luxoro - Arte.it",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlJDalB6WXVmakxGeERhWnpfVzJiUDc0aE1EZkNyMklxbzdKa3JnWnhfci02LVZGWFdJUFROR2RDRDlnbEZFTDJoLXk1eW94QV80c2t6ek1BR3o3bGVRS0dUYldvWEQxaVZNVnpEMjJKM25qLVZPMkpCeXVkYUpTdDZUX3NQUzExZ3Z0bDlPaG5uaFdmYUNBZGtiQ0l4Wmh3SkZDZGROT1I1dFlldzRjbmdxc2tkWkFN?oc=5",
+    "source_publisher": "Arte.it",
+    "first_seen": "2026-10-15",
+    "pub_date": "2018-12-07"
+  },
+  {
+    "id": "news_8fd0a8cdc3d71765",
+    "company": "pH Srl",
+    "title": "Borghi di Velluto – Museo Nori De’ Nobili, Trecastelli, Ph. Anna Mencaroni - Senigallia Notizie",
+    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOVDQ1aXhCT2VpMkRpRmxETlpDYlc4NnhqZURqdGQzV2hwYnBKREhzNW1hNjQxRjZiX1NGRDIyVDVmb0NuQ1p1MjIzTUxPY01Td3dpY09wTmN0NDF2eDJ4YUJUbFhNN3FYbE9CeEpBZEZtWG5ZMG1GUEx1VVVmVWJVTXI1UmF0d1hDYVVqT2gzMTNzM0J1Z1k4VGxDTF9yODhwR2hILS1HV1h6VGtSVXdSdUJlb2ZSbHRuMjZiWlpCa0RVVEFVb0N2VndRVURiMUZIRnJIanJHWG82MjBnYUo0dG9Qcko0VUVoZXVxSXhaLThhdVcycVBJVWRaZnNOQlJFVk5mNFU1Sy04czMxR3AxQkZFYW5rSXNxMkhkbGhRaW54S3E3VURRVzNFZWRsUkNtb0cyNDQtN2xCRHBNaUlxc1VHMkJWZ29fdU5qVDljZWszRXdxQlpocUl3?oc=5",
+    "source_publisher": "Senigallia Notizie",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_7b9e38348ae49956",
+    "company": "Menarini",
+    "title": "Fondazione Menarini, 50 anni di impegno scientifico:\"Guardiamo ai giovani e al futuro\" - Sassari Notizie",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkxKdWZxYUVRV3hFZmZvQmFRWm1BZWhzWFFoNVBjOXN1amlRaWpMM3hvZXQ3TVhVYzF4cUE4NWJoSVNTZmF6aWNzaGRlbjUwMXczSVNyZ2VEazFDZng1TVJpOC1EMGZVajlWeEpteDdVbGhZRFllMTVSOW1OUnBfdnp4b2tPZE9WUDUtdmY0ejhWN1RGUDQtMlduQ0RocUtITlV3SXFpM3dWRzBJOHZSYWVHQ2MydWp4SkxmdVdndDF2ejA?oc=5",
+    "source_publisher": "Sassari Notizie",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_70749b7b1cd91aa9",
+    "company": "Menarini",
+    "title": "Dalla ricerca alle terapie, 50 anni di medicina celebrati da Fondazione Menarini - Italpress",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSU8tMUlVM3ZQLW5TWDhQWlpUd2tNenN6N3ZCaUVBYmJkbmdmUUY2MmhMal9MN0hhSURVdURiMURGc05mWGpucWJNN3NLQUIyZ19PdFJrYWI3dWxuVmZmaGlmZDZkYmhsem01Tmo0TUEtbGl6SFFQYmhYR0dITmtrc0Nid3lRc25JSkRXRF9VeEtQT0Vzcl9Vc1lZOTJ5QTFsZFNRRGtxWTJydw?oc=5",
+    "source_publisher": "Italpress",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_fa52367baf710808",
+    "company": "Menarini",
+    "title": "Fondazione Menarini, 50 anni di impegno scientifico:\"Guardiamo ai giovani e al futuro\" - gazzettadireggio.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUpHZ2g3X0xMdVluSjVkLWhEYTVUemxSMlBpWU9zcjUzQ1lIeUFJRG03WW5zb0dWbTJTQW1Sc0FnWDFUMUZpOTNKRmNaMFdjd3I5cGFFZTlXeWxXa1lWSVczUTRBXzJkZm5WMDRtTndMQ0xVMlVnU0Q4RTJLSHJKSDNIbkluUUlyRmlOaEVyQmZPVlZQNjVYT2pIX0UtUFR4RkF1WUpzdXR3eUNEWTViVlJUTm9rMnRPODNOY1hWTm4xd2E5UkE?oc=5",
+    "source_publisher": "gazzettadireggio.com",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-08"
+  },
+  {
+    "id": "news_10715cb444f34969",
+    "company": "Menarini",
+    "title": "Fondazione Menarini, 50 anni di impegno scientifico:\"Guardiamo ai giovani e al futuro\" - Mantovauno.it",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFB6d2hGQ09WUnZKQzFMeG9KVUgwQ2xicGhHWENBUExweGxFdE9zRm9qVXYtRjJfWUg0cmxHdmJaUkk1SHV2a1RuNDVJNTRQTkx1UV9WODhSY0w5QlR5dkw4MTVQWW5hSU56aEFnZFZfOUppd0VjSFdJQmRzaUkzSk1CRGltMWdNMlZaNUNCdmNPYnZ0a0pSRE4tUVlEdHZ5YnpCeVkydW9MQmdfWm1rVjRR?oc=5",
+    "source_publisher": "Mantovauno.it",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_70f80b20b780efcd",
+    "company": "Menarini",
+    "title": "Fondazione Menarini festeggia mezzo secolo a Firenze con 40 esperti della medicina - - aristanis tv",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTliU3Q4ejJuVExkQnNJcUYyRkxhcHRrR081ZUFrY3RnaWxwM29xVFBQOWxSY0MzMXVQV2djcHZjR2JCWTJ5R0JvaDBvZHpRQWVoWHRKdEF1OUc0Rm5aX0Rjc05RSUxHa3daX3BrRFpwbGo0YnhFakRfQU9zVlhCMVJobmw2aG5DWUFJTlFPVGVmV0RLZlZGTzAzS2FHSTlsZl9rZ1FRcWNUUkdkWWJxaGN4elc?oc=5",
+    "source_publisher": "aristanis tv",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-08"
+  },
+  {
+    "id": "news_914cc2989a4221c8",
+    "company": "Menarini",
+    "title": "Fondazione Menarini festeggia mezzo secolo a Firenze con 40 esperti della medicina - 94018.it",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTRSajJpMDRJRnRBUG4zRm9kcUFRV0pyMWE1Q01WUlVFOXBiOGlQbmExMkFqZWR0RXdCZUZGcjBQYkh5WkJacHZXeC1ERjVxME5TMU1OSVVSU2l5QVUwUTkxR2kyaUJlTjd5VG1acUF2S2tlM3pfQ1VaSlB3OTk3RVgzSi1fdFdKYU0zOTVKTG9BZ2pRNUR3LXY0VDNyTl9USC1KV1E5dw?oc=5",
+    "source_publisher": "94018.it",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_3010c145f9ef5949",
+    "company": "Menarini",
+    "title": "Fondazione Menarini, 50 anni di impegno scientifico:\"Guardiamo ai giovani e al futuro\" - lamilano.it",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFzMTk4ZHVheGhPek9xdWtfWTdLYUNlRFRwRzBVdjF6eXRqc01tU3MzODEwVHhVY0YwTkpfcVdfb3ZxREx6VVRjakxjQkREWWNOd2M4YVg1RE40enJZdElaRUF4bmprMGtib2J6cnhwVHIzRUFVd19tcHozaFpLZVBYSW5WVEtGbXhLY0JlTWJkUWF6alhWRFoxbFkyRWVNTE1wclp4VDRsTFdfazJrbWhiNA?oc=5",
+    "source_publisher": "lamilano.it",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-07"
+  },
+  {
+    "id": "news_57868f41424a1ddc",
+    "company": "Menarini",
+    "title": "Fondazione Menarini festeggia mezzo secolo a Firenze con 40 esperti della medicina - QUInewsElba.it",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFg5dTZLcU9Cc0J3My1xbE5kR1EtZHlFWUI0cmNHVURlcTZxYkhGeFRkbjh6LXlsdXEzeU12dlB2SF9HeHZQRndZekhrNGNXME82cG9zaEYwMkFtYnVFOC03VTlvWU5GU1lvLUN4NVBJTm53UnNIMWxNZ3dGZmJOU296Zm5hbzkzRmJOSU5jb3BFX3NaMGI4MXNSZGItZGhsbjloeU5vRFh2U3BNeGFmNjNNakROTW5RbWhV?oc=5",
+    "source_publisher": "QUInewsElba.it",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-10-08"
+  },
+  {
+    "id": "news_d65503915b4b33b6",
+    "company": "Bureau Veritas",
+    "title": "Webinar • ISO 9001:2026 : novità della norma e focus sull'Annex A - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2dLRUpLRGFzZlVoX2hoNkQ1dnlQNV9YTkRucHhFY2RlR3BBRXhzM2NHM1pjLXBoYWxMcVUzWWFzS2FxTDFvQlhNejdrbnVBTl9iS05PNUFZcmY4MTlQRFZXb2N3RVFBazluTlNWVDRVdFJScG1lREZqazFjZ1BvSXdPTjV2aVZXSHFRUzBCZk5nbUlpQV9YRVRCaw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-09-23"
+  },
+  {
+    "id": "news_c09a3dd346fcdc15",
+    "company": "Bureau Veritas",
+    "title": "EPBD e BACS : Bureau Veritas al webinar di Maps Energy - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmx1ckRFMklWS1I3RDYyQnRRdkV5bExjYVJMM0ViVkN0ZjlwSUc5MU1OYV9TcDBkY0Y3cHVfb09BQWVNakhpRVZBalFLWHVjODdIbjFsRjEzTk10VUJEeERuRF9uNWE1WVNQZHFQRzZNQnQyZEh6eDhCUHJHNFRZTXNLQ2w4a1ZsNXZ2SXU5dndLaUx0?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "id": "news_022cc4f6e0533a5c",
+    "company": "Bureau Veritas",
+    "title": "Parità e certificazioni negli appalti : Bureau Veritas al webinar Piselli & Partners - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemM3SXNqeHFjV29iWDdmWW5xSTJfYldtVV85Y3hUNmwyN2pyM2ZJaDNQQk4zQU92LXJpNGFwa3I4NHA2N1BxRzlJWjRNUGFhWkFidDdMeDNDZ3ZzY2tCS1dZeWVWbVV2cjVvTzF0cVB5ZHhfRnpXOFRVQ0dwNEUwaVhiem9QUTMyU1luMDhZaUdGOWVNYTB6czM1RFdBdE1Qb0ZhbTlha2hPWlBIMmNweHItLU9oWEtNcHc?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-09-24"
+  },
+  {
+    "id": "news_10117eebf6a7a8fa",
+    "company": "Bureau Veritas",
+    "title": "Webinar • CAM ed ESG : dalla compliance alla verifica dei dati - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVNaYXJiU2RaWG96ZmI0aDZBc0xnNUNHQWpCQWh1ZEhnRjZlVG5EOVFoLVpkdXpzVzlDSzY2Ql9pQ2pOUFJGbXpPNFRFYXlYMHJJQ0stZ0dUZ2d3NU80NlpCZEtoMXJDYkNWamJuS21rTTdNT3BvODlPR1VCMmFTMkdxU1k3dXlLend5cDkxWmc3OGpZcmh3YmNpaFE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-05-12"
+  },
+  {
+    "id": "news_760106c887e6a344",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas Italia al Data Center Nation 2026 : innovazione, AI e sostenibilità - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSC04WmNhVUpMTEVLbEs3TlB4MVpBbXZvV1dBMTRUTURwMTVoTVBTa3FyUDMybVAxTmRRU0VOQ2VhaXhRX2xDM2dGcEFrQkxSR0xRcndzZzhhU28xWkctT2U2YXVhMklQcno0cWR4eVk0U3ZSOEd0NFByS1Q4UHZIc2g5b240cEo4aGVmU0ZMSDNDU0tob1daVl9tRzZmNVBMVDBvVGFLc2tETEh3akhEbDNjTWNtSFEz?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-05-27"
+  },
+  {
+    "id": "news_13e507ab31738da4",
+    "company": "Bureau Veritas",
+    "title": "ISO 14001:2026. Bureau Veritas al webinar di Confindustria Cuneo - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3A2VHNkaEJBOUVyU1R4M1hFcXR2Y2haQW1fZTVQWUlkNkZ0bE5RS2tJaUd2SXh1bmxTWXpvMUtMZnNoVWdWT1ZUMWdrc1p1b08xQVlmSkVmX2RpX0hyT3BhSXl3NDg4eS1idjhBbGp3dUpsUGxkdlVHN3Q4U3Y3cFlZb1RUeVV4Yy00dk01SXRSX0hlekpWbkcybDRXQTVxeEE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-06-15"
+  },
+  {
+    "id": "news_5143128830cf4fcd",
+    "company": "Bureau Veritas",
+    "title": "ISO 14001:2026 . Bureau Veritas al webinar di Metrikflow - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlZieDF0ZDdCYWJmZEpFdHozYjBoNFhmMm1lVnBVSGxQUWRhY1BpUUtCclg3cE54T05aRHp1c2dOaEhUT3pDTHZwalFwd2kyMDlaOW8tSHBWRnFjOGZiVU91NmtJcTdtRmJkU3ctS0EwN1huZEo5azFRTFFnSGJoTGN6NGZSa0g0MzhhdjVaOHA3TFlMTXc?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "id": "news_97f199adc4f934d2",
+    "company": "Bureau Veritas",
+    "title": "intelligenza artificiale vincente ma solo con affidabilità, governance e controllo - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFA5OWdCX18tQXhTX2YzcnJmcDV6RDB5VVJBbTB1UUxfdGxfb0NHTG9qa05tWXpNOERzV1Rja0g3Y2I1NEFYLTF2Y3VGT0tTaVdTM1N2d0lrN2V6N2ZrSHRkSWhxRDQxb0diZHNpQVpQelhkVWs5U1F1a0tnejdWc1gyNTBMTDFpUGtWQ1dWdnB4UTVmNkE3OXpsazNzQU16ZE1LT3l3WUZuckswQnFVR0xYX3FRRmkyTlg1blpjTWd4dw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-07-29"
+  },
+  {
+    "id": "news_947ed64b1f26bc31",
+    "company": "Bureau Veritas",
+    "title": "Webinar • Dal claim alla prova: come cambia la comunicazione di sostenibilità - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGhUZzNKLW5wemxRTW1tYW5ickdXN2lHbzc2RE9ndTZST283SkphVnp2cC1nNEhud2J4MW1sMEpCWHhra084a2pTV2dqOXJPd05XMXlZb3ZzX2p5RmNsZnJya194YkdfbTVzVC1UZTRBdDJRNTA1dU5ZRmVkdmpLT3NXUFdnYmxQY2I1ZE9BN21acHEtdlJyaDN1ak5yT3c0WFE0UjRSa2JMNTRieVlLUVZB?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-04-09"
+  },
+  {
+    "id": "news_4ec1d30ba925d65a",
+    "company": "Bureau Veritas",
+    "title": "Bureau Veritas vi aspetta a K.EY – The Energy Transition Expo 2026 - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejRmSXJkRWNTRXpMelhIMTBrdkI1VklZMDZsakFNREExZnVwLVotOGpTVzhOVVhMdXpWYm1SSzJ0U2h6WXFodUpUeVBRbHB0bk1XeDk4b1BvWGlMa1pYNmdfck1YY2llOENlMGpLVk1HVVl6dDdkWlVWVDJId2lrN19QWGpEdmVQYjBsSmhNVmhBd1dtTVk2SDVEOA?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-03-04"
+  },
+  {
+    "id": "news_20a86dd7842bfbfb",
+    "company": "Bureau Veritas",
+    "title": "News | Al via il Master Lead Auditor per Sistemi di Gestione - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFhOTDhWT1ZMeEpjaGJlNDNhUlZibDdYQi1WbGtZNDQyeXVwZDhTTnRMa3c1R042dk5PbU9RR1JzMUtVZUFhR2JqNURNclN6VEd1cDhtSTdibVJwSmtlaGRvVzZUZ3NLUW9jQjM3Qnc1cmNTYnBJUlR2Tm1zMGU1RGlaMlJNSDNLR1Ew?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "id": "news_4b8a3e4e0f88599f",
+    "company": "Bureau Veritas",
+    "title": "News | Empowering Consumers for the Green Transition: dal claim alla prova - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlVHV0JJUXkxMkZhMDBaX1ZMNUMyWXV5VU14MUpEN1FBaWJDMlVncGI0S01wRmw0SGtaaXFNbUZyRUNVUmxTTFl4ckduODdkQlBaVlFmZzh3d25yNlIwRDBQZnZCNGdiUVVOLWZwc1gwYlZnZFMzMU4yNURRSTdGenN3OVlyeEYxTzU4bERvam9IUnFlVGZDdVNPSjM?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-03-12"
+  },
+  {
+    "id": "news_be858c4fe15f828c",
+    "company": "Bureau Veritas",
+    "title": "News | Transizione energetica e infrastrutture critiche: il ruolo di Bureau Veritas nel nuovo ecosistema delle rinnovabili - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTdxdGpTS09MS09yOTlrZVhpeFhycW9DMWJaQTEtUTgzUzRjLUlDcWJpbzAyRDgwU3NNTWRoWkxXQjRLSFEtd0FfMkx5ZC1jcExCN000NHYzd1pGTkFzeE5PaThzckNoSUdVbjVIWC0tSC1odDJSUnVIelp3V3pWVFVTcVpUaEV0RjdvdjV0Z053Um1WWGZONXAxT3JfXzNEUzNCOXJEUEF4VFl2Rk92RjdFR2djU0taMlI5NU1VLVE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-05-05"
+  },
+  {
+    "id": "news_d5dc11e2d6d56fa0",
+    "company": "Bureau Veritas",
+    "title": "Greenwashing Bureau Veritas al webinar di Fedabo - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjhWY0tWTlJsSjhQMTFpN3FGdXBSbzlJSktHYlh2UXlkTm1UVk1fQWkxTDF3a2pxQWNfOVZSeTJjQjhTSS1TYnV6YjNLSkdIcmV3bGRKUnNkczhoZ21ITm53UzNycUI2WUsyaHl4U1Q0SGd5bV80aUJXQ1ptb0hyT1hEWnZZMkxudEI0WWdMbw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-06-25"
+  },
+  {
+    "id": "news_c0de750d5c35a087",
+    "company": "Bureau Veritas",
+    "title": "Digital Product Passport : Bureau Veritas presente all'Assemblea Generale AFIL - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURsZ25meDdrV1NpN3Zobm0tNWwydmozYVFMaWdOTzEwaFU2a1hFd3V0QTZnWno0OXRzTXBJUzFNdGdnY0J3SkJxYzJRWUhTOWVoaFNpTlY3RkpiaEp2R0tWVHRTU011NHdWOWl3WTVJZWI3eTIyN19pcTNrZUo1am5rcXNPTkZoTmtiRVpOYmZxazNOUFl4OVVRdGtaRHRXZWVvZElWV1FhNUlLcE5MTlhHcw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-09-01"
+  },
+  {
+    "id": "news_228ebb3bd5425cfa",
+    "company": "Bureau Veritas",
+    "title": "SA8000:2026 Bureau Veritas al webinar di Masoni Consulting - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUs3dEVyN01ubWlzamx1dTdSRU44allJUnlMV25FUEhBVTZUT0sxcTJsTm9FMzd4bkNJUWo0ZVo3Wmw3NTAwSHlWX1hYQlF0cVdVVFlOU0dFZUowQTQ2UlN5MG5HUi1hQXp4UGRPbmRtb2U1eU5XZHRDcTVqU3pIR1VDc2FYRHd6U2ZZTTZfUnpVRGpQSkFLc19WOA?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-04-24"
+  },
+  {
+    "id": "news_0f89ef40732373b2",
+    "company": "Bureau Veritas",
+    "title": "News | Al via il Master Gestione della Manutenzione - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlJHRkZIbnU2T0RlRHdPR2pJTWhiWW53aUZxS3dJOHRvbEZPNTJJdWQ3R1EwUXc5bFhZbGpzVTNONld4eFJCWEpWZlFxRG9pcTU0XzlVb3N0a2FmUkxNUE9sNHo1a05NeGx1elg4azNPT3pZQy1ENnVIV0lnWENQTTV2d0Q?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-07-15"
+  },
+  {
+    "id": "news_006228985e17db3e",
+    "company": "Bureau Veritas",
+    "title": "News | Sostenibilità urbana: Bureau Veritas Italia aderisce all’Alleanza per l’Aria e per il Clima - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnNZeEdhYU43ZENkQWlpWnB4UGt2QUZDSzlobEdsMTNEWWJUNjcxcWowWGtBSGtfRTVERms4OHlSN1VZbmtvak83MWNYWUVsa0JMVnRIZWxmdkpRQTJQbnBhcFh4OXZwRWRsM1JuWHNHMXpkVDVLRGhuMjJkTlVUbmwycExFVDdyRUJ0MWVEMXdWN1U1Yk5NM2tJdnJnX3Yyd2UyOVJaSzBrcmU2QmphNlhWb3N2VDViY2c?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-02-19"
+  },
+  {
+    "id": "news_7b1ef1a28f0cdce5",
+    "company": "Bureau Veritas",
+    "title": "News | Scopri la “Safety Excellence card” sviluppata da Bureau Veritas insieme a Open-es - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTU9CV1M4YVZMWWJOQVhTYV9BRy1OaXdtSDBhMkM1cTE4R0tRSGdBWjJsRGZodGY1SExvY1JKQ2tQdElTQnV0VmJqOVZiLTJfenc0V3Jta0RlUHcxLW52RWk5Z1V0Zkg0ejVaZjZuT0ZlWjlmWTQ4eU0zNjlZdS03c3Y2SGZFTGVjY2Voa1FmeG05YkRqRXFLWDhlWlk5cF9LdjRQLXBuQng3Sm13WnAwMXRPZmxpUQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-02-09"
+  },
+  {
+    "id": "news_dcb44b8277ba83a3",
+    "company": "Bureau Veritas",
+    "title": "News | Iperammortamento 2026: reintrodotto per gli investimenti in tecnologie Industria 4.0 - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRllFZUFQdUpNZmxNRGl0QWhlcHFwX1FibEE3ekxyd1NJQWd2bjdoeDhtZGNINHlvNFVaYUNYWWtsT2k0aHFFY2RnM0V6RlZWT25sdnV6VTcybFllamRxUlA4bGNCUlNWODFmR01TeXpOdmhuWEFzLUxVVkt3OXhWVWlUeDJBM1NHQ1NpcXZDQjVDUHRRa3BieXk1bEdPYVpYMFo2RjAzWDFFWDJkeDJXNHRoSQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-02-03"
+  },
+  {
+    "id": "news_920096093246d9da",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas e Trade Technologies: un'alleanza strategica che unisce conformità e finanza commerciale - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0hlRzZud21qaHZFcGFrZWkxU0JMdlZIM2k2THFaWVVsNjBJZDNzc0w3bTFCMmdmMGQzeXo1U25GVkxZWXl0alpiV2NiWW5MXzdCOGlMZm5EWWItTU5ESHdUU1B6eGNpOTMweXRmdTVPOHI3cTlZbUlxdW1PdWNrbWtaVV9PZGNHS2ZDdTQzSlNRT25mM09JT2Y2bzdCNnNRdGNwZWVkdlJBOVJ3QnE0S0YyeXpEOEdMWVcwN05WYmhrTWdjOEE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-03-30"
+  },
+  {
+    "id": "news_b488c20b712102e0",
+    "company": "Bureau Veritas",
+    "title": "News | We People – il Manifesto DEI&A: Bureau Veritas Italia partner tecnico di Confimprese - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3ZwOXZEQ0ZkTEw0RlFlMzlJd3ZyQXlaSW01aWJicnd3ZklZdFJwSHBMQlRTRk4ybW9MSF9UUzVYUEFRMDJPcnVGcXlQcjlCQUhxSjYzNnNHTGpPVjM1SmhpVDFJeVlCRDFvQ1p2TXVJWHY2U2JhRDlnQXR0SktjU3hHRFdZalVNaUw2Tm5qVGZYcnVaVjBHbmRvUUdjUE1JQW9ONDNFYUUtRjJoS3lLZG5BUXhkX0dOYVE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-03-11"
+  },
+  {
+    "id": "news_05fecaec329088f7",
+    "company": "Bureau Veritas",
+    "title": "Sustainability Trends Report 2026 • Scaricalo subito - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjB0RGZBY0JPZlJaMFR4dmhjTEl0a2hDV1U0dGpWX1NONzM5ZGh0XzJtM0dGbDgwcERoRkZaTlFBSktYNy1FQkZZcEotWnNZczVxajd1YjYtT3JjQ1B1YkRHcTVYWG9uSDJ6T0I0SENDUThQWjBwQzVkN2RuX2ZMemc3Yzh1NXByU3FZTTZWS1J2QQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-03-24"
+  },
+  {
+    "id": "news_ed3d83da85aa3ea9",
+    "company": "Bureau Veritas",
+    "title": "News | Rinnovabili: Bureau Veritas integra Sólida nel suo portafoglio - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWZpblh0dm9qRFA2SkJLT0hQT2xGdUhBSzRMSnFmY2ZURVNpNzE0N1BFLXhYaWFHd3VpOFVqd2dIMzhKUlJUVFFoa1NqemItWjlQcDlHOExQWS1YRC1PdGFOcC1ERkVra2Z5N3JfVnJiR3RKQjgzQ0FLSU16eVRtQVhVS3hBTlpvSGxtelNiYVJfWG9rejh1Z1dKNnRMaG9l?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-12-04"
+  },
+  {
+    "id": "news_9f289cf56fda56a7",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas: inaugurato l’Hub operativo di Ravenna per le Commodities - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHJSX2xhem8tbENQTU90Y2ZJZjRNa0hoRVlxN1NJV2U0OTZTR0E1SGZqSUs0RHc1ajdBbnF5RTU5eUN4cXRiMmFkVWdCbmtQYnlxM3RRVnVva05TOXllWXhMNTlpN25PSVhvTDlnV2IyejJFOElIVVViS3c5TXVZQi1Tai1NOW15WUh2R296MmNTVGprYm8wandmd3VxT3FIeXo0Z3F0dw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-12-09"
+  },
+  {
+    "id": "news_fe838dce972e4883",
+    "company": "Bureau Veritas",
+    "title": "Prodotti senza finalità d'uso medica: l' Allegato XVI MDR - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmU2N0cxYXVsNlU2bWlaTV9YMUJ4eXlQU1RRRzR6M25SZlNkWV93cmpiVm1uOVRQMU83VmRfN25ScDhFOVRLOEJ0OWNRcWx5OWlkeGZxdjA4V19GNlltdlQtSEdIcVJmSDN3YzdXVm5keVY2a2Vna1hMakVNUTFkRFU1NGRkR045X3ZtYkZuWG91bVFNOXc?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2026-02-04"
+  },
+  {
+    "id": "news_0b5c25e7768f79a6",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas incontra gli auditor: il Roadshow di BV4PARTNERS - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXF5YlFtY2UtYW11dHZjRGJVYVU3UEE1OEczTVJuY2dhN3VwVDRERFp0V09fczFpYXVSc1liNm5BLXctUTl3bDhiSzBuVmNtQVpiaG5YVjNVZUdQVE00Vmw2VDh5bFczNVpNYTJqU3BFVDJvYVNqblBIT01wcnd6NEdDU3lzbFZyR1lUQW95R1RyNi1tYW9INFNEOTZOcnNONkE?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-12-02"
+  },
+  {
+    "id": "news_3465b0b1b0f78029",
+    "company": "Bureau Veritas",
+    "title": "Transizione Energetica: Bureau Veritas in prima linea all' Hydrogen Expo - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTMybHNGY0ZZd3lpOTRsOHVmU1paUVJLOHJaSk40aFdMVGNRbkE3WGZibkFweUJLYjJhZEJDWWhEUlJDQWdFQUJnVVlDZkhSTDVWUXMwQzJqUTBDbFJNUU11bm44STIxRFgyU0lSbmRrSVZ1ZFktenRCby1lenJ3RXNMby1FTm8yMDJfVlpEMEdnQ3F3MHJlY0ZQYmM4SFhQb28zc2R3OA?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-12-05"
+  },
+  {
+    "id": "news_dc874a8ca290e9d4",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas Italia certifica Gruppo Ferrovie dello Stato per la parità di genere - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzdVUjZwUHNvVjFMWWhxN2RZZHFTbkZiSEdoOUdIQU03ZFhBUVIzR1ptQlFkal9Lc0lXNEhiU0tXVmozTEtuVEU0d0xwczNKNmtHWW9hRDFKUUxCWmNEUmZud3MwbTlNT2tSYkxvZmtMODUyaUF1ejNuMW5NX3pWRUcyWFVQakMxZDdiYk1pc2hqRDlJQUdkVmVMMzRoaU1oRmRHekNvQVRPUDhsakxSQjlwbHNlTzNL?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-11-12"
+  },
+  {
+    "id": "news_f0e691aa4f6a1c0f",
+    "company": "Bureau Veritas",
+    "title": "News | Infrastrutture: Bureau Veritas ribadisce con 3 nuove acquisizioni la sua leadership nel settore - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkhTcmR2YV9WYWk5QVd1ZDBsTU1ETVRVTEpYVFp2VzVGRjUwVzFrWmNDTXJ4NVd0Si1QcDVwM3g1ZTJTNlJxRmpPR1E1N19lZVJfQVFob1dqUllDczh3SGVwR0UzU0lPWVlqNWFZRGJ3Z05tRUtYd3BTd3B6ZWx0Q3J2TzVYNWZ3M2x3T3hHOV9kb0RPVU9Kdk14QkVoRU5ZeEpEWnNqbVh0MUMxVEhaMWhsaWlYU1pVbVhqRHZQenVOQQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-03-20"
+  },
+  {
+    "id": "news_d114d01ac786487d",
+    "company": "Bureau Veritas",
+    "title": "News | Carriere Alias per le persone in Bureau Veritas - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEJUR2VrQXRMd0pTWWFkeXVwckhLMzg0WkJFU0R2b2t2RWhCcGVjWllyZy05OUlTNXVXV3QwQVB4ejREVVZzeVZoS1dQWk1pYTNpOUE1am5yWkZIVW9Ra2FuZWNubGRYMWhzc0pGQUFEQjNGOXIwNHF5SlZ6Um5Ndw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-04-18"
+  },
+  {
+    "id": "news_8df0d79c8423685c",
+    "company": "Bureau Veritas",
+    "title": "News | Nuovo logo Accredia e nuovo numero di accreditamento per Bureau Veritas Italia - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFzNVpmTVZ0SkpOamFLMFROVFpPV1JVVFZZRnZrclBrR0lzU0dTQ3R2WGN2SE5JTVoweWJRV2FyTDdNVVZwZ1ZfTGFHUVdQZkllcExSR3dpTm5SODBveWdHLWZRY0hhWk9lZWlfazdqLVFrN2d5RU04ZG9NZUY1RVBZbFpjTjFZYjZadnpLMU9xMDFpVFBuZ1FlV1JZYzhqaFFkNEM5MlpOeThQb3RXM2FB?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-03-07"
+  },
+  {
+    "id": "news_660be2a16b16ee5f",
+    "company": "Bureau Veritas",
+    "title": "UNI/PdR 153:2023: Bureau Veritas al webinar di E-LAB - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGdQY1kxbmhQMS1qTndQUDg3NmgyQzM4aE90T3hfNVJXOHY5VjV5NE5UYXdtRkJfZy1IcmJNQl9MMkhVUDNXa3hGUXhncy1jb3JHVmRDUlprV1NvWUtRX1BleW9MYzhGSi1Tbms1RTgwZ01jUll0V1ZOclBCVXE4cDZRU2t2bHFrNmlWY3hJWGo?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-05-09"
+  },
+  {
+    "id": "news_33140e681069fd5e",
+    "company": "Bureau Veritas",
+    "title": "News | Made Green in Italy: il marchio italiano di sostenibilità - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFgtYzloNVZjNXh0d28xbkNxR1UzM0NyYTlhV19mMXZQLTM1S2xaTkdZUEZTQzM1Q3RITFpScHZndmNIUTROOG9GUXNzcUZtVGNmWlY2MDJNeTNZZVRPVE16akZYX3U3YkFqc0xpbEZFamNNT3pJRlB2QlJkUHdnUkhWaUlfMzVvekc3MldCTFc0a0w2dmc?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-07-15"
+  },
+  {
+    "id": "news_ce652f8cb1e77326",
+    "company": "Bureau Veritas",
+    "title": "Intervista | BVPeople • L’esperienza di Gloria Focetola - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1BxY3JCNkhINE1qN1FWNnhsaGl5bmhpcU1OTVgzRlJrT19UbEREeFQ4eld6ZUJ6OEZ1bkUtTHlfT3VRRGhXNnFDUnE4V1VlSUM1STZLZ0hfRmhqV01pNDVoNzVvMjJhazN2OHhkaS1rSXl4S3E0MTBlRE92TzhRblJjOA?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2024-11-21"
+  },
+  {
+    "id": "news_830ef58bd021fe78",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas persegue un'attiva gestione del proprio portafoglio - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNnRRSFpKQU9uN2EyUUxveGo1bWV0OHVKbkx4Q1BLUlFNUkkyV3BFWXo5bzh3WXFHNnZneU9KN1NmNnRseFdEOG1IcHdCOGF6VTZRZm9kQktHN1dKOGZyVWc3QkU4VXFKT3BxQnpObFRUTG9NdWNfOVFrT19hazdOV1hhM0IyR21ySWp4RHZnZmtVck95emlJdFU1MlpEaXVNa3Bsdkt3?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-01-21"
+  },
+  {
+    "id": "news_db75e51ef1ce9305",
+    "company": "Bureau Veritas",
+    "title": "fatturato e addetti in crescita - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUm93bUhEa1JscndvRDFEZ2ZwQmtad0pJMTBmdVpNV25welhKV1NmZXh0dkFaT2VJby16RzVERWltdXQyLTZoMGFWSlZVRzV2aDRGZEdtX09yRm8xZHNaeGUzbUxFQzNhNnZsSkFYeDhHV2s5OUdIaDNjRlg5eGU2VXRQcEQ3SWNvMVI1TkhUd2VWUQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2024-03-15"
+  },
+  {
+    "id": "news_6d529f33f4ea0805",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas entra in Open-es - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vc0hMOVREd19NaWFfSmJTdlNFTk90aGwtSkdjak1NRk5icDZwc2pFcDRaYXRBS3VxSndPaS1hMndVM054VDBjaE9QaG9KVDliOU9NOWVoX1JuV1ItelgxaXJQaDlwMGpzTXExUndKT1BJMDZs?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2024-07-16"
+  },
+  {
+    "id": "news_f8d1391f01f1af1c",
+    "company": "Bureau Veritas",
+    "title": "News | Ladies STEM in Bureau Veritas - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BSGdOWjJ0Q3BxUF9xck0zcDJqdzJVVHJTSmRBRW1WVXZGQjBMa1NJdkhkTTh5SnJ0a2kzTmhEbEMxaVI4eUM4TUxVTlRra05IaXNEV2tpNjNsWEMxV2ZyVkIxcFNLZTl2ekQ0VnRaM3pmQQ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-02-04"
+  },
+  {
+    "id": "news_beaffd85a3a077d4",
+    "company": "Bureau Veritas",
+    "title": "News | Le norme ISO/IEC 17029:2019 e ISO 14065:2020 - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWlnOURfUHZ3M3NiZjZhQl9NUmVuQ1g5SEVHSlRYVUg5R1lzN2lRSURZX3NzYWExRmFNY0JCNnJFOGlCOWFPNVFnRXZiYTJYYy00MWdBNTd1c1lOYUtwaDhaZjZqejVLUjZIRzUydjdQMzhrc0p4YW9hSHlZS1ZDMl9ZNWdjZw?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2023-10-16"
+  },
+  {
+    "id": "news_353fc915775d2bf4",
+    "company": "Bureau Veritas",
+    "title": "News | UNI/PdR 88:2020: Bureau Veritas Italia consegue l'accreditamento - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajVEd1I4Y19DUUtybzRabzNwalg4UnhFYURzY3BiWExsZkhNZ2RGUFRHeHhCeVd0Q2hlaHdEZUlSeHFrS094WERkU3ZsOEUtU1dKXzM3cjlzYS1uczl1VG5WUHJIcjJJZXYwWnlld0Z5ajdiSUJrdEIxVGNUVEhWcFEyaWdiZHAwTi1QUEs3QUQ2OEJNdnp2Q3JPaU5FT2M?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2022-08-04"
+  },
+  {
+    "id": "news_408201d49fd070a8",
+    "company": "Bureau Veritas",
+    "title": "News | L’Impact Manager di Bureau Veritas nel consiglio direttivo di Sustainability Makers - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlVHWEZOaXAzYXlESWJ4TjZoZkVBeGt4Y00wWmFQRFZKY3F2T3BqZjhXbUxVZUNQdHR1Zlg3MTMxd1h2dXJZRWFHaC1nTl9yMWp5bGRyQVFCMXhHQjlNdmU4bVBXN05yV1BIRFJSLWhBWWxieFVEeVYtTzMxc1JZVW9fdXgzZENIMkJyZ1JuZmJZUnJVVlZMaTVrNTNXU1V6bDdqLUZzMFNBLUcxWG9OeThxXy1Cak1ZMWNONg?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2023-06-15"
+  },
+  {
+    "id": "news_02a3a44c6be77ab4",
+    "company": "Bureau Veritas",
+    "title": "Congo Brazzaville - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSm5SU3hwWFRZd1VoRFFBazh5SUpkRjZXbnpwVnA3YTFYMGhBa1hyWVFQdDByTnNjRTJSenBNcC01YnYtalk2Z2ZXTHdOWll4a05yWDNnLTd2X1dUQnpnbVl3?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2022-05-02"
+  },
+  {
+    "id": "news_c16eb9cc6130b824",
+    "company": "Bureau Veritas",
+    "title": "News | Bureau Veritas scende in campo con i consumatori - Bureau Veritas Italia",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnNNdDZxODF6Q3ZQRU9kb1NicEhvWE9QWURnME10VVpJWUp3b1V0N1NZVk5GQ2cyeF8yYi1iNG93a1pNUkZ6bXppMldMbFpwbkFubUVQWjJlVGV3Tjd5eXI3d2hyd3g0ZFVIOEloaWVRazVvamVLTVROcVoxRnREbkdhS3RLMXctRmVJ?oc=5",
+    "source_publisher": "Bureau Veritas Italia",
+    "first_seen": "2026-10-15",
+    "pub_date": "2025-01-15"
   }
 ]
